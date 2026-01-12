@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Microsoft - Xbox 360 (Digital) (Retool)</name>
-		<description>Microsoft - Xbox 360 (Digital) (3,443) (-ly) [-aAbBcdDefkmMopPruv] (20240804-095958) (Retool)</description>
-		<version>20240804-095958</version>
-		<date>2026-01-12 03-59-08</date>
-		<author>alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, RetroGamer, SonGoku, UnlockerPT, Vigi, xuom2</author>
+		<description>Microsoft - Xbox 360 (Digital) (3,443) (-ly) [-aAbBcdDefkmMopPruv] (20260111-235154) (Retool)</description>
+		<version>20260111-235154</version>
+		<date>2026-01-12 16-43-32</date>
+		<author>alisson, baldjared, HBBB, Hiccup, Landcross, MisterSheeple, norkmetnoil577, RetroGamer, root, SonGoku, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -16695,9 +16695,9 @@
 		<description>This Way That Way (World) (XBLIG)</description>
 		<rom name="584E07D2\00000002\C017746962D800C8CBF2E130CE9A23BBFEB5C0DC58" size="19562496" crc="1d35805f" md5="2030727d88f99180c4d342d050ffdc0a" sha1="56783500ad7100a3ce0afe4b6f77221a7e4f9aca"/>
 	</game>
-	<game name="Thunder Wolfes (World) (XBLA)" id="04397">
+	<game name="Thunder Wolves (World) (XBLA)" id="04397">
 		<category>Games</category>
-		<description>Thunder Wolfes (World) (XBLA)</description>
+		<description>Thunder Wolves (World) (XBLA)</description>
 		<rom name="584113F5\000D0000\14684B9BEB22AA3AF1F25D560587B912C5352DA458" size="1019289600" crc="54bbb7cf" md5="6928ae59178b93f79a16ec53badc06ad" sha1="562b8ff2236700594988aacfca9b3822c9a45cf7"/>
 	</game>
 	<game name="TiQal (World) (XBLA)" id="00208">

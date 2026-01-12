@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Game Gear (Retool)</name>
-		<description>Sega - Game Gear (389) (-y) [-aAbBcefkmMoprv] (20251118-005324) (Retool)</description>
-		<version>20251118-005324</version>
-		<date>2026-01-12 03-52-42</date>
+		<description>Sega - Game Gear (391) (-y) [-aAbBcefkmMoprv] (20260111-210525) (Retool)</description>
+		<version>20260111-210525</version>
+		<date>2026-01-12 16-42-31</date>
 		<author>Arctic Circle System, Aringon, BigFred, BitLooter, C. V. Reynolds, fuzzball, Gefflon, Hiccup, jimmsu, kazumi213, nnssxx, omonim2007, Powerpuff, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1265,6 +1265,12 @@
 		<description>Primal Rage (USA, Europe)</description>
 		<rom name="Primal Rage (USA, Europe).gg" size="524288" crc="2a34b5c7" md5="1ce6a2d5b50098cbcc9f166f2cc44fba" sha1="6d193840463722ed141ed503c2cfc7ae0077ce35" sha256="08d0bd61596c5057817857464e2a973b26b2d5197e2e4154907a3a2b13ba8495"/>
 	</game>
+	<game name="Prime (USA) (Proto 2)" id="0900">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Prime (USA) (Proto 2)</description>
+		<rom name="Prime (USA) (Proto 2).gg" size="524288" crc="a4b46022" md5="086ac5f604b78d132479ec06acb062ee" sha1="661bcd202b3f20b828d96455dd97a72e330694f3" sha256="93e2b56674f3dd396c8f5e1d95eea99cbd2de67d20cc439d6783a657b62daff8"/>
+	</game>
 	<game name="Prince of Persia (USA, Europe)" id="0289">
 		<category>Games</category>
 		<description>Prince of Persia (USA, Europe)</description>
@@ -1932,6 +1938,12 @@
 		<category>Games</category>
 		<description>World Series Baseball (USA) (Rev A)</description>
 		<rom name="World Series Baseball (USA) (Rev A).gg" size="262144" crc="bb38cfd7" md5="05cac33029f0caac27774504c1aa8597" sha1="333dd99f11781d6de5720043530a460a409d652b" sha256="8eb6eeafbb41623e1cd887f411388f073213d5fbc9e8d3d88272e9760c7ba769"/>
+	</game>
+	<game name="World of Sport, The - Golf (USA) (Proto)" id="0901">
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>World of Sport, The - Golf (USA) (Proto)</description>
+		<rom name="World of Sport, The - Golf (USA) (Proto).gg" size="262144" crc="a7e07d1e" md5="9140afcfc278819e8eff3168ba9c64fe" sha1="06ffca4d28cbd70cff35e51836339498be0fe7ad" sha256="a2a5b31f94b265dea1ab8b18da3a42a2b235ab2e329453b3e4fc36662b53b526"/>
 	</game>
 	<game name="X-Men (USA)" id="0434">
 		<category>Games</category>
