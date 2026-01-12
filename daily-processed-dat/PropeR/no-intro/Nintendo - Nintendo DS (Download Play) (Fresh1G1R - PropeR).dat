@@ -1,0 +1,770 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>Nintendo - Nintendo DS (Download Play) (Retool)</name>
+		<description>Nintendo - Nintendo DS (Download Play) (129) (-y) [-aAbBcdkmMpPuv] (20240712-120512) (Retool)</description>
+		<version>20240712-120512</version>
+		<date>2026-01-12 04-03-55</date>
+		<author>Arctic Circle System, baldjared, Gefflon, Hiccup, Larsenv, Lesserkuma, rarenight, SonGoku, xNo, xuom2</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"></clrmamepro>
+		<retool>Created by Retool 2.4.8</retool>
+	</header>
+	<game name="8BallAllstars (Europe) (En,Fr,De,Es,It) (Multiplayer) (DS Broadcast)" id="0511">
+		<category>Games</category>
+		<description>8BallAllstars (Europe) (En,Fr,De,Es,It) (Multiplayer) (DS Broadcast)</description>
+		<rom name="8BallAllstars (Europe) (En,Fr,De,Es,It) (Multiplayer) (DS Broadcast).bcn" size="856" crc="932a766e" md5="bb79d8a3688ddc2fb7368565e8bc9ac3" sha1="6d58d80604020a71e3e51ddccb8df5b09e4f1694" sha256="4d14d7640b0c355337d0e01c89e235ddfba6883590283c9a4c7e101bd402ff7d"/>
+		<rom name="8BallAllstars (Europe) (En,Fr,De,Es,It) (Multiplayer) (DS Broadcast).nds" size="754888" crc="c4de52d4" md5="57d5c86bce055fbe99a26ca0455c185c" sha1="fbac5c4f79fe776bd59c8ad59a69a9c5c175523e" sha256="b0dc9066bab114e8e8cb1fd9a875fb8064edaea535c3985b9a2b20ab3cc9940f"/>
+	</game>
+	<game name="Actionloop - Multiplayer (Europe) (DS Broadcast)" id="0494">
+		<category>Games</category>
+		<description>Actionloop - Multiplayer (Europe) (DS Broadcast)</description>
+		<rom name="Actionloop - Multiplayer (Europe) (DS Broadcast).bcn" size="856" crc="05315509" md5="9fbb187bebc4941837bdbb72cb6e06fa" sha1="c9d44ed55918c80a382d893a7b1ad6fcbba11925" sha256="d719c44af8fc104ab817343492e601f4dcc7ba07dd94490ae7e65f68a6b673bf"/>
+		<rom name="Actionloop - Multiplayer (Europe) (DS Broadcast).nds" size="1437864" crc="e57a2cb4" md5="00873f25478620ba428ad94711ae8c1a" sha1="430408a7e8aac6842c1ddf7806857a7dd211cf7a" sha256="490e61429774b75014a73822c9fd873bd17f9e56b4efdf327ce9567492a464ff"/>
+	</game>
+	<game name="America's Test Kitchen - Let's Get Cooking - Single Recipe Download Version (USA) (DS Broadcast)" id="0451">
+		<category>Games</category>
+		<description>America's Test Kitchen - Let's Get Cooking - Single Recipe Download Version (USA) (DS Broadcast)</description>
+		<rom name="America's Test Kitchen - Let's Get Cooking - Single Recipe Download Version (USA) (DS Broadcast).nds" size="1131208" crc="57069bf6" md5="d7a173108a99a9d338cba36433e83c08" sha1="32638c657d25fe180c3ee5c39af475d290943346" sha256="f22cd41493174260aad589d0bd773f1fd0e25c26b17e2f225093cbcdeb45510a"/>
+	</game>
+	<game name="Animal Crossing - City Folk - Moving Van (USA) (Wii Broadcast)" id="0382">
+		<category>Games</category>
+		<description>Animal Crossing - City Folk - Moving Van (USA) (Wii Broadcast)</description>
+		<rom name="Animal Crossing - City Folk - Moving Van (USA) (Wii Broadcast).nds" size="322760" crc="98b3cf22" md5="60814a549e65be35a77c1ece1d13c223" sha1="9c8d48ec77c72922af016ea0bd2b253d07d0f515" sha256="5137a9443126824f373b7ebe8229a00230c40dbc6fab5105e5a02b752050f312"/>
+	</game>
+	<game name="Animal Crossing - City Folk - Suitcase (USA) (Wii Broadcast)" id="0381">
+		<category>Games</category>
+		<description>Animal Crossing - City Folk - Suitcase (USA) (Wii Broadcast)</description>
+		<game_id>NTRJ</game_id>
+		<rom name="Animal Crossing - City Folk - Suitcase (USA) (Wii Broadcast).nds" size="420040" crc="c7b9f1cc" md5="72bad364aebf2884f9aa46f02c6e1437" sha1="e6f4b8eaf8431c9ae1eb3d640e1f4e434f1599f0" sha256="d5352fce66f348c26a3b957f5cbb37d57676cb3a1be0d547d0309477bdbc3f5e"/>
+	</game>
+	<game name="Animal Crossing - Let's Go to the City - Moving Van (Europe) (Wii Broadcast)" id="0384">
+		<category>Games</category>
+		<description>Animal Crossing - Let's Go to the City - Moving Van (Europe) (Wii Broadcast)</description>
+		<rom name="Animal Crossing - Let's Go to the City - Moving Van (Europe) (Wii Broadcast).nds" size="323272" crc="e713b5c5" md5="1cf4c2e83cb8b8ab4f6efa72c37b532d" sha1="68691d38ee02e82386eb96fca3bcb1705edb1c1f" sha256="568df7ffd8e6ecce3059f611eb7500df77e6b080e6e07cc3ad0f591009882ba3"/>
+	</game>
+	<game name="Animal Crossing - Let's Go to the City - Suitcase (Europe) (Wii Broadcast)" id="0383">
+		<category>Games</category>
+		<description>Animal Crossing - Let's Go to the City - Suitcase (Europe) (Wii Broadcast)</description>
+		<rom name="Animal Crossing - Let's Go to the City - Suitcase (Europe) (Wii Broadcast).nds" size="421064" crc="8be60e70" md5="ed1651ee8520ffec457e11b86519dedd" sha1="a0301115b3d76914f7b721ed415bbf052cbea134" sha256="60554ff3bf2ac474bd9b562ddb98f584abe5500223c20e9d35cbf99b25904be4"/>
+	</game>
+	<game name="Big Beach Sports - Face Paint (USA, Europe) (Rev 1) (Wii Broadcast)" id="0389">
+		<category>Games</category>
+		<description>Big Beach Sports - Face Paint (USA, Europe) (Rev 1) (Wii Broadcast)</description>
+		<rom name="Big Beach Sports - Face Paint (USA, Europe) (Rev 1) (Wii Broadcast).nds" size="456904" crc="e5cc76b5" md5="39319c26e46641f600e2d32e695000e6" sha1="07e41d2c80b5055ed48912d64b306aac8ef34df6" sha256="677d4addcb0b82047030a2ee62316ad62fbb4e71f8543373d26c43782d6af0bd"/>
+	</game>
+	<game name="Brain Age - Train Your Brain in Minutes a Day! - Calculation Battle x 30 (USA) (DS Broadcast)" id="0428">
+		<category>Games</category>
+		<description>Brain Age - Train Your Brain in Minutes a Day! - Calculation Battle x 30 (USA) (DS Broadcast)</description>
+		<rom name="Brain Age - Train Your Brain in Minutes a Day! - Calculation Battle x 30 (USA) (DS Broadcast).nds" size="907976" crc="76f24beb" md5="32ed14c9bb8d6b4836ce88169dd72164" sha1="a0161c3dbd77e9a3583afe1eea519b5d0169d7ce" sha256="2548723b1ba0cbb5ce56b53cbda0e547681393b1e5bbbd82923a76567c806619"/>
+	</game>
+	<game name="Brain Age 2 - More Training in Minutes a Day! - Vs. Training (USA) (DS Broadcast)" id="0436">
+		<category>Games</category>
+		<description>Brain Age 2 - More Training in Minutes a Day! - Vs. Training (USA) (DS Broadcast)</description>
+		<rom name="Brain Age 2 - More Training in Minutes a Day! - Vs. Training (USA) (DS Broadcast).nds" size="1707208" crc="2657f3b4" md5="3a32b50fee9e6fc9bb7e5d0310887ed1" sha1="cced62da788bde38199578d4b55efae39dacd2bd" sha256="46867780748d119f60e21c41829e0a12e9a8aaca20b4a94478937760117460b9"/>
+	</game>
+	<game name="Cooking Mama 2 - Cook Off (Europe) (DS Broadcast)" id="0434">
+		<category>Games</category>
+		<description>Cooking Mama 2 - Cook Off (Europe) (DS Broadcast)</description>
+		<rom name="Cooking Mama 2 - Cook Off (Europe) (DS Broadcast).nds" size="2575048" crc="d77ca68f" md5="b191c2be77463a249067c4c2df262655" sha1="7943f1bc5587c120e6485cab20902916464017ce" sha256="f363801f34b2e3c07f70c89c143d658efa67110e639578b2e7b6df7312a99b29"/>
+	</game>
+	<game name="Cooking Mama 2 - Dinner with Friends - Cook Off (USA) (DS Broadcast)" id="0448">
+		<category>Games</category>
+		<description>Cooking Mama 2 - Dinner with Friends - Cook Off (USA) (DS Broadcast)</description>
+		<rom name="Cooking Mama 2 - Dinner with Friends - Cook Off (USA) (DS Broadcast).nds" size="2394824" crc="b4c328bb" md5="efe21eb25226fee0d43459b39578a5c6" sha1="adef1afc548c479a73676f737d78b92ace3bd94b" sha256="731b1c79519518e9cd06a98a5dc3f5ad5a04ebf3ec470413164f90a663051c6f"/>
+	</game>
+	<game name="Cooking Mama 3 - Multiplayer (Europe) (DS Broadcast)" id="0456">
+		<category>Games</category>
+		<description>Cooking Mama 3 - Multiplayer (Europe) (DS Broadcast)</description>
+		<rom name="Cooking Mama 3 - Multiplayer (Europe) (DS Broadcast).nds" size="1979080" crc="59560c17" md5="82c29da85ca217baa1864c993f998afb" sha1="3750aba9bfb04b14c2c7910c0fa5cb55c1171923" sha256="5402128cc16d40e2ed149cdd12db40ce973901be9b0d3de991b82e2f5346d763"/>
+	</game>
+	<game name="Cooking Mama 3 - Shop &amp; Chop - Multiplayer (USA) (DS Broadcast)" id="0453">
+		<category>Games</category>
+		<description>Cooking Mama 3 - Shop &amp; Chop - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Cooking Mama 3 - Shop &amp; Chop - Multiplayer (USA) (DS Broadcast).nds" size="1959112" crc="dbedfead" md5="6b0915a49572dc1d3fc398864f11850b" sha1="048c4c3d77ec19ac20e258607e847fbc0d598d40" sha256="6026575fe29404a16b4389c789251454d03ea8788aea1eb4f603035e4c3ae934"/>
+	</game>
+	<game name="Corvette Evolution GT - Multiplayer (USA) (DS Broadcast)" id="0598">
+		<category>Games</category>
+		<description>Corvette Evolution GT - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Corvette Evolution GT - Multiplayer (USA) (DS Broadcast).nds" size="1508040" crc="1edaaccf" md5="aec2e564817bade3be2bf28b592c5121" sha1="e08c4de83cb41934f4b055facf5c00753b57401a" sha256="7a0c9e8aaa0c7b0c3d89eab9bb8b179fba1511d93569b9884b3bcbe1305332bb"/>
+	</game>
+	<game name="Craft Mama - Multiplayer (Japan) (DS Broadcast)" id="0469">
+		<category>Games</category>
+		<description>Craft Mama - Multiplayer (Japan) (DS Broadcast)</description>
+		<rom name="Craft Mama - Multiplayer (Japan) (DS Broadcast).nds" size="1894600" crc="fd8d3d14" md5="6d6f5bb463a0661f7c3da5e29673892f" sha1="06882e058c7c5f80eb1477c6ae179890a4305806" sha256="a02fe619ab614cf0a4f00366b1f1817bf5ee7092bcce2c22e89a4365b5df73ca"/>
+	</game>
+	<game name="Crafting Mama - Multiplayer (USA) (DS Broadcast)" id="0467">
+		<category>Games</category>
+		<description>Crafting Mama - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Crafting Mama - Multiplayer (USA) (DS Broadcast).nds" size="1894600" crc="1bfad849" md5="1221bebe2fed1eca502dcf140a0405de" sha1="f2b43dd8eff3550af8a4be506ec57ba178eb68ff" sha256="e8abb47c00335ae2d7c5832ea5d6f7265d5cc58333ed95ca7818f1fef4df0523"/>
+	</game>
+	<game name="DS Download Station Vol. 1 (USA) (Menu)" id="0739">
+		<category>Games</category>
+		<description>DS Download Station Vol. 1 (USA) (Menu)</description>
+		<rom name="DS Download Station Vol. 1 (USA) (Menu).bcn" size="856" crc="35063a28" md5="d2c528acfa93cbc7c5c693fcfedb00e1" sha1="59462aa2a48073cd927b6a9d12b9129c55b2d01d" sha256="2103ae397ad5f0ef86335012b99da4c2740c6f926b40b40fa8a59cce3f50ee86"/>
+		<rom name="DS Download Station Vol. 1 (USA) (Menu).nds" size="306824" crc="76f3c9f4" md5="82b729ddd40d4fe13f78846d31d3ae3c" sha1="67e48c1eae60ae4b82fb08fbc261bf7e4ce1e722" sha256="18abd02f164f2d6993d32d2cd90d31cc02597266c02a64364bc42c09e0b07574"/>
+	</game>
+	<game name="DS Download Station Vol. 10 + 11 + 12 + 13 + 14 (USA) (En,Fr,De,Es,It) (Menu)" id="0747">
+		<category>Games</category>
+		<description>DS Download Station Vol. 10 + 11 + 12 + 13 + 14 (USA) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 10 + 11 + 12 + 13 + 14 (USA) (En,Fr,De,Es,It) (Menu) (Vol. 10).bcn" size="856" crc="87f8423e" md5="b245edf91d7209edabb00769dcfa7c14" sha1="a7a3cba723b2741d8e5deb40aba815a4d6726e6c" sha256="48035937b891c0bca2a101c5d6c1222afb49d40a573a132bd2eed9a8463c7dbd"/>
+		<rom name="DS Download Station Vol. 10 + 11 + 12 + 13 + 14 (USA) (En,Fr,De,Es,It) (Menu) (Vol. 11).bcn" size="856" crc="81b68a83" md5="4b0b50fd726fb3c54a46b7ab2be3e4db" sha1="fd9fa727d2e9be4116812ab199281fea1bb2abf6" sha256="82e098e9c138920f1cb2f9112dedb5169aeadb802b13f38d1d9e4a45e46741c9"/>
+		<rom name="DS Download Station Vol. 10 + 11 + 12 + 13 + 14 (USA) (En,Fr,De,Es,It) (Menu) (Vol. 12).bcn" size="856" crc="8b65d344" md5="19db167f17eef46aa02d693007c871c6" sha1="6e0f16f555aa86b25e26e4c1caf2d8331e1d8631" sha256="3501755da194b519d87ffc20788f670791ea94280bea6d1117d72722fdd02c12"/>
+		<rom name="DS Download Station Vol. 10 + 11 + 12 + 13 + 14 (USA) (En,Fr,De,Es,It) (Menu) (Vol. 13).bcn" size="856" crc="8d2b1bf9" md5="9167ee15cc086b9a66b024bc5fe4c796" sha1="c7812bd449899c4a47c3f779cbee9e725786b525" sha256="6e78efdf69460e9106debbe45a62f7c465dd3f14653c78b54e7fd92408f9aa3a"/>
+		<rom name="DS Download Station Vol. 10 + 11 + 12 + 13 + 14 (USA) (En,Fr,De,Es,It) (Menu) (Vol. 14).bcn" size="856" crc="9ec360ca" md5="777bf9806b9e9b97942ecae53a4867b1" sha1="42ba74b93878c4ef0152b79bac9ab3a79c80ad2e" sha256="84b6aa734736157d45aaa732bbb2ac5c7e354dc5f10916be34ffbdee9aa569cf"/>
+		<rom name="DS Download Station Vol. 10 + 11 + 12 + 13 + 14 (USA) (En,Fr,De,Es,It) (Menu).nds" size="296072" crc="62817683" md5="94a65cf1850bdc2417292cf6040004cc" sha1="a9a39408f3dd4aa0abe8540f43b2e2bd32c9aee6" sha256="2ac9effddb54b05ee4e6909b9cbe97050eda8ac64343207a2382c9177dcb576d"/>
+	</game>
+	<game name="DS Download Station Vol. 15 (USA) (En,Fr,De,Es,It) (Menu)" id="0748">
+		<category>Games</category>
+		<description>DS Download Station Vol. 15 (USA) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 15 (USA) (En,Fr,De,Es,It) (Menu).bcn" size="856" crc="988da877" md5="b8f1a02b5b0880b6f7e1e3e80d7fdcba" sha1="79639a8515b65441758b01d6f250ef20e4d22e26" sha256="46bc8c61431fe906e48abc8e2bc70501478fd8d93481f3301da48ce7cbc8e0f0"/>
+		<rom name="DS Download Station Vol. 15 (USA) (En,Fr,De,Es,It) (Menu).nds" size="299144" crc="5e638c9b" md5="517bf4a517d5d3975949c04eff3b75ed" sha1="d16ca3b38cc8535320e768eff6ac7f5bd74dd42d" sha256="8df7b2d8f58c0f98508db76ec8ef04f525e46a60d179e3d43c320c23c352938d"/>
+	</game>
+	<game name="DS Download Station Vol. 16 (USA) (En,Fr,De,Es,It) (Menu)" id="0749">
+		<category>Games</category>
+		<description>DS Download Station Vol. 16 (USA) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 16 (USA) (En,Fr,De,Es,It) (Menu).bcn" size="856" crc="925ef1b0" md5="4d4a0dc6d30571e1ae88a874ac0f8af2" sha1="b3cd6e50a2e46f7a59a4be6dcaa335c5e13230e4" sha256="0df2cb9c1eedc9e35112ddd7f020fb80f4a9d2050133347fc73e978741d794d3"/>
+		<rom name="DS Download Station Vol. 16 (USA) (En,Fr,De,Es,It) (Menu).nds" size="291976" crc="fabd3963" md5="32720862be95e60a23586ed2db2c1288" sha1="08a7c41f7c35de16bd4d658367569d8fcde54ab6" sha256="fe8e5c27555a87e5a384d5cdfc7537fd2035857168c41dd86dc21b7c2db3a6fb"/>
+	</game>
+	<game name="DS Download Station Vol. 17 + 18 + 19 (USA) (En,Fr,De,Es,It) (Menu)" id="0750">
+		<category>Games</category>
+		<description>DS Download Station Vol. 17 + 18 + 19 (USA) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 17 + 18 + 19 (USA) (En,Fr,De,Es,It) (Menu) (Vol. 17).bcn" size="856" crc="9410390d" md5="4b7dd5350f63af87068343d16bd63e8a" sha1="924b5837ef3f13dd935911eb8c623ebf3092eca3" sha256="7d36637a03f6ead39d998197e7518fa5edf0805d79df51678d7282497139db60"/>
+		<rom name="DS Download Station Vol. 17 + 18 + 19 (USA) (En,Fr,De,Es,It) (Menu) (Vol. 18).bcn" size="856" crc="b58e07d6" md5="afdb9109c9ca431aa11ddc22ffe099ec" sha1="2f1da9c2272e8bb613a317e41cf3a80c7259bb80" sha256="f3ce4e26fe579d6aa9f7e70252388a7f5ba2b1d7764ba9f8e7265280819dbe2f"/>
+		<rom name="DS Download Station Vol. 17 + 18 + 19 (USA) (En,Fr,De,Es,It) (Menu) (Vol. 19).bcn" size="856" crc="b3c0cf6b" md5="13d0032749fdd2a9676a1eb8e26bb736" sha1="0ae9c33bfadd137a4a8ada3dde28e37d0339517f" sha256="fcc2e3b0df44c89be12b12e020463cb87721cd9d029782ee1a26752b3b3ea1f6"/>
+		<rom name="DS Download Station Vol. 17 + 18 + 19 (USA) (En,Fr,De,Es,It) (Menu).nds" size="291976" crc="efcce65e" md5="7c4e9d15ff410577b9aab810b0f4e1b0" sha1="238b77016f0242fb37b78693300f9c1bd934e45b" sha256="db977e0ec139d4213fa9f2b2e5919110c5bf2652f83c275635e53663b1a1ed5b"/>
+	</game>
+	<game name="DS Download Station Vol. 2 (USA) (En,Fr,De,Es,It) (Menu)" id="0740">
+		<category>Games</category>
+		<description>DS Download Station Vol. 2 (USA) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 2 (USA) (En,Fr,De,Es,It) (Menu).bcn" size="856" crc="bcc17c44" md5="6c5b98c5765572a713d456d1fba68d46" sha1="59bc1c89725114021a6417e11f28dee68f0956f6" sha256="7818ef5df0f926461569db5a83e38ee3bb44fa163827099a9bbb359063488353"/>
+		<rom name="DS Download Station Vol. 2 (USA) (En,Fr,De,Es,It) (Menu).nds" size="316552" crc="973bb9e4" md5="e510043e55fe020bd99206657fbb0f87" sha1="3d3ba176dfad504ecd0dc9836aabe92de9690c4c" sha256="20cbabf34ff96f9b440f3521af87e42b543d2aa828a65344eb8c8748d960c128"/>
+	</game>
+	<game name="DS Download Station Vol. 3 (USA) (En,Fr,De,Es,It) (Menu)" id="0741">
+		<category>Games</category>
+		<description>DS Download Station Vol. 3 (USA) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 3 (USA) (En,Fr,De,Es,It) (Menu).bcn" size="856" crc="7815e07d" md5="06b815303752c7adc5484bf6b8c952e1" sha1="122362dc697ce9c010af157108203a5e2d411a92" sha256="f56688829df8f85f571a4ff73e3198eecd74a96bb6c4fb60d2bdce4a7690ed1b"/>
+		<rom name="DS Download Station Vol. 3 (USA) (En,Fr,De,Es,It) (Menu).nds" size="310920" crc="ed49e554" md5="106473c408f54f6257c606f62c963ae2" sha1="e7fff05aee66e59951d7ddd44722b59f212561e4" sha256="c4eef75020d7826f0a11ec1edeb19a57b6691aced5cd1880f62e1126bcd303a3"/>
+	</game>
+	<game name="DS Download Station Vol. 3 + 4 (Europe) (En,Fr,De,Es,It) (Menu)" id="0753">
+		<category>Games</category>
+		<description>DS Download Station Vol. 3 + 4 (Europe) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 3 + 4 (Europe) (En,Fr,De,Es,It) (Menu) (Vol. 3).bcn" size="856" crc="08393761" md5="e03e7732b519993f2ebc2092013f14e2" sha1="3a89f269bcc8c8971c9f9fabde1d1e5bd6eac3ad" sha256="f3cd59702bd12e05a4358d9536d2c627c499cc5f53710ada229a1ac310efc687"/>
+		<rom name="DS Download Station Vol. 3 + 4 (Europe) (En,Fr,De,Es,It) (Menu) (Vol. 4).bcn" size="856" crc="1bd14c52" md5="8b4d3273cf59c79ceb3d34f50fe7d3e6" sha1="e438c3865db99f0d9105938237bb7e77e1dbd634" sha256="84a069af56416a233b53c5456af72d1b1fb987f3386c10ae4f154905b5ecd15e"/>
+		<rom name="DS Download Station Vol. 3 + 4 (Europe) (En,Fr,De,Es,It) (Menu).nds" size="330888" crc="16cbe078" md5="84f197f2205b295023a07fb0efcc38b1" sha1="4a1cc12d15ec6196100768885c839627c749ba80" sha256="0367a919f6e6db9da7634a33b8f16ed55de3211c3f360343e0acb3956819dbc9"/>
+	</game>
+	<game name="DS Download Station Vol. 4 + 5 (USA) (En,Fr,De,Es,It) (Menu)" id="0742">
+		<category>Games</category>
+		<description>DS Download Station Vol. 4 + 5 (USA) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 4 + 5 (USA) (En,Fr,De,Es,It) (Menu) (Vol. 4).bcn" size="856" crc="4ba93e11" md5="c60175a1567b963286994d693c9e09d6" sha1="dbe13976166dc6c87ec61857322e8f05ec818373" sha256="beee0ed5dfaeab070623d11f98a18a804744b7ba6b444dc7bd46abca7d402618"/>
+		<rom name="DS Download Station Vol. 4 + 5 (USA) (En,Fr,De,Es,It) (Menu) (Vol. 5).bcn" size="856" crc="8f7da228" md5="f265c81ddbbd513a2631ffff8822284f" sha1="3e7dc2539a27d307560fbf457294cfe367ce2e92" sha256="455e813c1770cbc992751e2b55918c734be713774a8e5133d9354a60dc5e2781"/>
+		<rom name="DS Download Station Vol. 4 + 5 (USA) (En,Fr,De,Es,It) (Menu).nds" size="309896" crc="123bf0d4" md5="308f1faf67ec118fe82b6298b3bc28ea" sha1="90995d20756b8e5136afda608149b06ff2d4e48d" sha256="6621bd10493707e1ee03fe7fe1dcf647052987257513039918ddb60e37523fce"/>
+	</game>
+	<game name="DS Download Station Vol. 5 + 6 + 7 + 8 (Europe) (En,Fr,De,Es,It) (Menu)" id="0754">
+		<category>Games</category>
+		<description>DS Download Station Vol. 5 + 6 + 7 + 8 (Europe) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 5 + 6 + 7 + 8 (Europe) (En,Fr,De,Es,It) (Menu) (Vol. 5).bcn" size="856" crc="1d9f84ef" md5="1ec47a440b416c54f21618beed0a0bc1" sha1="3de429721bac3b94d0c0b739f307bd2ddff19bea" sha256="f0652e1569c5a27b3dc48f8e62f462ebbd545e59197098b54e9d86fce2454522"/>
+		<rom name="DS Download Station Vol. 5 + 6 + 7 + 8 (Europe) (En,Fr,De,Es,It) (Menu) (Vol. 6).bcn" size="856" crc="174cdd28" md5="b860be1d7e7e460bc641f5a312ef371f" sha1="bdc8565259ee7abcb3fd5ba6d6a70fc5c0f90955" sha256="ea018b1c06e04657935ae5a9cda805f16ee8fd3fabec1c7ff47674a155285813"/>
+		<rom name="DS Download Station Vol. 5 + 6 + 7 + 8 (Europe) (En,Fr,De,Es,It) (Menu) (Vol. 7).bcn" size="856" crc="11021595" md5="ff0f486169dd8bc4b45bfe4c44d7afba" sha1="80c44d6abba0f8185a93c478c32e653001da36a4" sha256="9c2c27fb208b0e2ee688cd60b4de304a9e2ba6b7e797f424c9870487424d883f"/>
+		<rom name="DS Download Station Vol. 5 + 6 + 7 + 8 (Europe) (En,Fr,De,Es,It) (Menu) (Vol. 8).bcn" size="856" crc="309c2b4e" md5="f6902d6a47f295c323890f3d68835a6c" sha1="7df44d83fb33706d689212bb73f386b570c7e195" sha256="3bffd3aaa1dac167d5e99c11d9f7b2761b3612bd4b538d7f98a02e2bb5dfa23e"/>
+		<rom name="DS Download Station Vol. 5 + 6 + 7 + 8 (Europe) (En,Fr,De,Es,It) (Menu).nds" size="329352" crc="22f08575" md5="382216193870333f8bfc155a0f9617f7" sha1="1a83fed2ae6dbf74025dc0f20529b7cf734ef324" sha256="691180a0027723dc09b8e3d9872267bde098e160fe151e0e54c76f3df29a4fa0"/>
+	</game>
+	<game name="DS Download Station Vol. 6 (USA) (En,Fr,De,Es,It) (Menu)" id="0743">
+		<category>Games</category>
+		<description>DS Download Station Vol. 6 (USA) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 6 (USA) (En,Fr,De,Es,It) (Menu).bcn" size="856" crc="19710022" md5="e0ac4a7c294b6f010c0b9fa02b2a0a30" sha1="e63b1cc89463646163d28d654b33444944fe84aa" sha256="c42b85642e22c07204d6f47701ce6cc42753704931f82353db0c83efeeec29c6"/>
+		<rom name="DS Download Station Vol. 6 (USA) (En,Fr,De,Es,It) (Menu).nds" size="309384" crc="03d06be3" md5="78332d34d19c5c857cd98ea33efcad29" sha1="c266868f271d234b605e378df14dfdea5c476c79" sha256="cd632a6e43b0bc89ebdc82939384fb57e39a5440a27f0dd8af02da08a006ef19"/>
+	</game>
+	<game name="DS Download Station Vol. 7 (USA) (En,Fr,De,Es,It) (Menu)" id="0744">
+		<category>Games</category>
+		<description>DS Download Station Vol. 7 (USA) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 7 (USA) (En,Fr,De,Es,It) (Menu).bcn" size="856" crc="dda59c1b" md5="1f8b05ce169afc4075acb0c8fc1f574e" sha1="1a0071dc96a047ed79628d731c4d3287a90f7256" sha256="d5342005c6104e976103550f7a4be55ece2ae71071aa43c8fa9a13c7523098f7"/>
+		<rom name="DS Download Station Vol. 7 (USA) (En,Fr,De,Es,It) (Menu).nds" size="309384" crc="af82ae8f" md5="bc7f1845343304ee978a941f07617cf7" sha1="73dee5671842158849a027fd2d209fadc064ace0" sha256="3064fb77a5244ef45dcd3181af6d76d0590b0d2e1a1517ba2bedea5d9081289f"/>
+	</game>
+	<game name="DS Download Station Vol. 8 (USA) (En,Fr,De,Es,It) (Menu)" id="0745">
+		<category>Games</category>
+		<description>DS Download Station Vol. 8 (USA) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 8 (USA) (En,Fr,De,Es,It) (Menu).bcn" size="856" crc="7e08bcfa" md5="597a726097d66910a80295da9ca458a5" sha1="263e66c278dfc8e981639d41ad9c3e855de8aa19" sha256="3c432078be8bfb06383bff6ccbaa369cd03a3c7a4be73c8a9c27ac775684f569"/>
+		<rom name="DS Download Station Vol. 8 (USA) (En,Fr,De,Es,It) (Menu).nds" size="309384" crc="54598558" md5="e4b7bfc8d1cfaef3336b2f271e245ac5" sha1="61038597bb650077658ca3a42071d5b7390e110d" sha256="f86f68874ca72f91fc716b2b2ea1f6511890488acd97f9048083177fd679ee06"/>
+	</game>
+	<game name="DS Download Station Vol. 9 (USA) (En,Fr,De,Es,It) (Menu)" id="0746">
+		<category>Games</category>
+		<description>DS Download Station Vol. 9 (USA) (En,Fr,De,Es,It) (Menu)</description>
+		<rom name="DS Download Station Vol. 9 (USA) (En,Fr,De,Es,It) (Menu).bcn" size="856" crc="badc20c3" md5="446d6b0d6b2672ace8dc41b28aa3da0d" sha1="a9121d9f366e562860dc37ae550f7fd80691a357" sha256="e6bc19c43aff1425aae312d6f2be1d7823ff1f1b44e55a6a29b11e71bc1a6bfa"/>
+		<rom name="DS Download Station Vol. 9 (USA) (En,Fr,De,Es,It) (Menu).nds" size="296072" crc="5764bca5" md5="58a24d3e75ffeb81072d8f0571ed510c" sha1="68951a7e8e1596825f285042ade2a35b561aedaf" sha256="96b0893fb28f64db9670863a46ad95edc6c175bb95626e30ff7bc45b2ce1c09e"/>
+	</game>
+	<game name="DS Kageyama Method Dennou Hanpuku - Masu x Masu Hyaku Masu Keisan - Study Together (Japan) (DS Broadcast)" id="0589">
+		<category>Games</category>
+		<description>DS Kageyama Method Dennou Hanpuku - Masu x Masu Hyaku Masu Keisan - Study Together (Japan) (DS Broadcast)</description>
+		<rom name="DS Kageyama Method Dennou Hanpuku - Masu x Masu Hyaku Masu Keisan - Study Together (Japan) (DS Broadcast).nds" size="1585864" crc="95842d06" md5="847f20113d84f44753a1d08d2b0f9f06" sha1="ef4d2959c52b7584d9bf0a7ccb623eaa543c3c85" sha256="3133ae34a5c1c285f379070098bbd22371f609e22c519dbcfe27093286857a4f"/>
+	</game>
+	<game name="Densetsu no Starfy - Taiketsu! Dile Kaizoku Dan - Minigame Multiplayer (Japan) (DS Broadcast)" id="0566">
+		<category>Games</category>
+		<description>Densetsu no Starfy - Taiketsu! Dile Kaizoku Dan - Minigame Multiplayer (Japan) (DS Broadcast)</description>
+		<rom name="Densetsu no Starfy - Taiketsu! Dile Kaizoku Dan - Minigame Multiplayer (Japan) (DS Broadcast).nds" size="510120" crc="72d6fa2a" md5="999ad86bc430147c83b53e148b6c5370" sha1="2293765e49ef0033ea3051bd31807070d3700034" sha256="bbcfe71278867d0007ad3619e9883d4d3c14fb96960cc4c5c9c4411a26fd37e0"/>
+	</game>
+	<game name="Densetsu no Starfy - Taiketsu! Dile Kaizoku Dan - Multiplayer (Japan) (DS Broadcast)" id="0579">
+		<category>Games</category>
+		<description>Densetsu no Starfy - Taiketsu! Dile Kaizoku Dan - Multiplayer (Japan) (DS Broadcast)</description>
+		<rom name="Densetsu no Starfy - Taiketsu! Dile Kaizoku Dan - Multiplayer (Japan) (DS Broadcast).nds" size="1265320" crc="89b70894" md5="d7e0f66a3f12b781847dcec8853dcb43" sha1="bf14001ccca2cc1a09eab28715bc5c9f41b54e04" sha256="44531f00ec93a3a098585e2e303f035a8e6d261258bdbc928a6e1179867136c8"/>
+	</game>
+	<game name="Deutgo Sseugo Chinhaejineun - DS Yeongeo Sammaegyeong - Dictation Sprint (Korea) (DS Broadcast)" id="0491">
+		<category>Games</category>
+		<description>Deutgo Sseugo Chinhaejineun - DS Yeongeo Sammaegyeong - Dictation Sprint (Korea) (DS Broadcast)</description>
+		<rom name="Deutgo Sseugo Chinhaejineun - DS Yeongeo Sammaegyeong - Dictation Sprint (Korea) (DS Broadcast).nds" size="1129608" crc="00e76f9b" md5="be69ba70dc977383933890b41689a0b4" sha1="ebb2bea6b48223ac486a316649dc5ddf0bf13844" sha256="04740d091971ead70ce4f6a0b66e39f7beb2e3549052443632b9086020e8b4f1"/>
+	</game>
+	<game name="Deutgo Sseugo Chinhaejineun - DS Yeongeo Sammaegyeong - Vs. Vocabulary (Korea) (DS Broadcast)" id="0480">
+		<category>Games</category>
+		<description>Deutgo Sseugo Chinhaejineun - DS Yeongeo Sammaegyeong - Vs. Vocabulary (Korea) (DS Broadcast)</description>
+		<rom name="Deutgo Sseugo Chinhaejineun - DS Yeongeo Sammaegyeong - Vs. Vocabulary (Korea) (DS Broadcast).nds" size="1165960" crc="ef9d7364" md5="50204e42d745daeddb973ca788195329" sha1="61f94c87626c7faa7ffdaf27c7ed49f741e9fdf7" sha256="02994a4ad20033f5adc136f3c7b45839756c0b591b667fa20cba0be04042be27"/>
+	</game>
+	<game name="Doumo, DS Desu (Japan) (Rev 1) (Nintendo Game Seminar 2009)" id="0042">
+		<category>Games</category>
+		<description>Game Seminar 2009 Student Work</description>
+		<rom name="Doumo, DS Desu (Japan) (Rev 1) (Nintendo Game Seminar 2009).bcn" size="856" crc="9a2dd938" md5="068e3dbb4822907cd04890602527dac3" sha1="e3086da5dfc1ad0df14f65adc472b20c7fd1f52f" sha256="43e4efd3786c2630946ba869c8956c3dd92299170fbecc8d2fa4edf2856b1c24"/>
+		<rom name="Doumo, DS Desu (Japan) (Rev 1) (Nintendo Game Seminar 2009).bin" size="2100756" crc="77c54cac" md5="14caec2dff324850ccbaf5f659056ed5" sha1="c70b91833ad1b800dbc447ac25e6a633b5cf1803" sha256="1104dd344631b57191c7ca90a0728a9497837c36149913bb67b18a9ed6d0ca1c"/>
+		<rom name="Doumo, DS Desu (Japan) (Rev 1) (Nintendo Game Seminar 2009).nds" size="2100424" crc="3ad1dfe6" md5="19b57ee451dee4640b98ecff4747f9eb" sha1="415c45507d4c02191b1d435394e260cec4a343d3" sha256="96e00a8505488a0f7cb75682ae0851e47cf92825edf23f625e779f451a3be98c"/>
+	</game>
+	<game name="Dr Kawashima's Brain Training - How Old Is Your Brain - Calculation Battle x 30 (Europe) (DS Broadcast)" id="0421">
+		<category>Games</category>
+		<description>Dr Kawashima's Brain Training - How Old Is Your Brain - Calculation Battle x 30 (Europe) (DS Broadcast)</description>
+		<rom name="Dr Kawashima's Brain Training - How Old Is Your Brain - Calculation Battle x 30 (Europe) (DS Broadcast).bcn" size="856" crc="b0420e96" md5="3e0e1197512284c051f78e110a39b14a" sha1="163e9d650968250996ed8102ee499945f52c7729" sha256="049afc5fa14413af4235f2d56291a61ca9d6a9580439bafc0c775b6a5a898842"/>
+		<rom name="Dr Kawashima's Brain Training - How Old Is Your Brain - Calculation Battle x 30 (Europe) (DS Broadcast).nds" size="1066184" crc="880057b7" md5="814b58d1944f10bc67abaa9568202e60" sha1="bae759d0dd730773d32d12f8e929d3d5b71f3039" sha256="235a15b4de294451d1a3d7a0b6d093de2b495b1f3a5c3fdbb6c66aea3ba18e99"/>
+	</game>
+	<game name="Dragon Quest Monsters - Joker 2 - Monster Haishin Data - GranSlime (Japan) (Save Data)" id="0021">
+		<category>Games</category>
+		<description>Dragon Quest Monsters - Joker 2 - Monster Haishin Data - GranSlime (Japan) (Save Data)</description>
+		<rom name="Dragon Quest Monsters - Joker 2 - Monster Haishin Data - GranSlime (Japan) (Save Data).bcn" size="856" crc="545958b5" md5="0ef52acf1609cdc991f58657f7a22197" sha1="f56b5ccc0cb20f417b85c51548d9b5e6aaef5412" sha256="27547949983a23e3126816ae86ce90c8da45c9b24b5b4a94fc9abfe4ca5cdcb3"/>
+		<rom name="Dragon Quest Monsters - Joker 2 - Monster Haishin Data - GranSlime (Japan) (Save Data).nds" size="1779400" crc="8ee64e31" md5="80c9d534ffd6d4476bd0ae45b2eab953" sha1="1b4631135a6e640ba953f6bec22d9e6fb7b6eb72" sha256="24a6549b6c5062d399ad082d82ad918d3c5b3b99780ad371a607cc46a3e7570c"/>
+	</game>
+	<game name="Dragon Quest Monsters - Joker 2 - Monster Haishin Data - Shinigami Slidark (Japan) (Rev 1) (Save Data)" id="0020">
+		<category>Games</category>
+		<description>Dragon Quest Monsters - Joker 2 - Monster Haishin Data - Shinigami Slidark (Japan) (Rev 1) (Save Data)</description>
+		<rom name="Dragon Quest Monsters - Joker 2 - Monster Haishin Data - Shinigami Slidark (Japan) (Rev 1) (Save Data).nds" size="1779400" crc="675b893b" md5="b1656b8ea52d1f20553220110aa14826" sha1="1c6f7a941a53a1e2f39c137d220e34366aab3464" sha256="d4367f177859c7c6dd5877c048fc642ac1ad60b1c9f71bb1f05c406a752900e3"/>
+	</game>
+	<game name="DrawDrawPenner - Dorodoro Penyaa (Japan) (Rev 1) (Nintendo Game Seminar 2009)" id="0043">
+		<category>Games</category>
+		<description>DrawDrawPenner - Dorodoro Penyaa (Japan) (Rev 1) (Nintendo Game Seminar 2009)</description>
+		<rom name="DrawDrawPenner - Dorodoro Penyaa (Japan) (Rev 1) (Nintendo Game Seminar 2009).bcn" size="856" crc="f1b3c766" md5="e64e1d2fb0774022e06264e804087c73" sha1="5e13f68a179970b7f34ca9a2ac5e936a28306cad" sha256="3fe8a4bd7e4606661853d33c4f806efe1bfdb706cf73c7325cd34cce66367672"/>
+		<rom name="DrawDrawPenner - Dorodoro Penyaa (Japan) (Rev 1) (Nintendo Game Seminar 2009).bin" size="1893396" crc="f1a5227a" md5="6c017a9f2585490b0544af82b64f79a1" sha1="347003bdb0ce7cb020e91a5cc4382cfd9b02f02c" sha256="8423672c75d5a254e8056b2839c080d7612cbacb3febf001ca93ac9f7a79b45b"/>
+		<rom name="DrawDrawPenner - Dorodoro Penyaa (Japan) (Rev 1) (Nintendo Game Seminar 2009).nds" size="1893064" crc="366eda6d" md5="640cfe1b285af8537a1f18f4146cd793" sha1="4ee344bf16db3c724c2ddcceb83c2e3feaf79d48" sha256="5723adc192c90ce91fd78a39bb98fcdf77433d06fb66e62f68f463d94f62d625"/>
+	</game>
+	<game name="Eigo ga Nigate na Otona no DS Training - Eigo Zuke - Dictation Sprint (Japan) (DS Broadcast)" id="0488">
+		<category>Games</category>
+		<description>Eigo ga Nigate na Otona no DS Training - Eigo Zuke - Dictation Sprint (Japan) (DS Broadcast)</description>
+		<rom name="Eigo ga Nigate na Otona no DS Training - Eigo Zuke - Dictation Sprint (Japan) (DS Broadcast).nds" size="1010312" crc="51b1cbaa" md5="ee8c23ca4a602eab813b73d9b163edc1" sha1="3250f3b31f8fe3cfda08bd9ab1b5506e13ab95f6" sha256="2764f8bebf65cba707d5362dcdb425e0a41656c319036842d351b49997c6588b"/>
+	</game>
+	<game name="Eigo ga Nigate na Otona no DS Training - Eigo Zuke - Vs. Vocabulary (Japan) (DS Broadcast)" id="0498">
+		<category>Games</category>
+		<description>Eigo ga Nigate na Otona no DS Training - Eigo Zuke - Vs. Vocabulary (Japan) (DS Broadcast)</description>
+		<rom name="Eigo ga Nigate na Otona no DS Training - Eigo Zuke - Vs. Vocabulary (Japan) (DS Broadcast).nds" size="1043592" crc="ef402102" md5="1e7204f0812c3cdd6c88bbf339f64eb2" sha1="79c3684303b15eaf29d94a95db664fc337e7d54c" sha256="8e0a931be07a8803d64cb41c17a29b2e68b378494ebca2ea41bc0602c66daeac"/>
+	</game>
+	<game name="English Training - Have Fun Improving Your Skills - Dictation Sprint (Europe) (DS Broadcast)" id="0492">
+		<category>Games</category>
+		<description>English Training - Have Fun Improving Your Skills - Dictation Sprint (Europe) (DS Broadcast)</description>
+		<rom name="English Training - Have Fun Improving Your Skills - Dictation Sprint (Europe) (DS Broadcast).nds" size="1224328" crc="5e2032ee" md5="9e2d0b2c763319bbc4bac3a4465193a0" sha1="25fb0adf6eb5b2a049bc4d38f0afc21a15564c83" sha256="ffb277c6d21725d189dbb9a79d5c38bf50e1f3f130afedf0dfda1d6bb580cc17"/>
+	</game>
+	<game name="English Training - Have Fun Improving Your Skills - Vs. Vocabulary (Europe) (DS Broadcast)" id="0479">
+		<category>Games</category>
+		<description>English Training - Have Fun Improving Your Skills - Vs. Vocabulary (Europe) (DS Broadcast)</description>
+		<rom name="English Training - Have Fun Improving Your Skills - Vs. Vocabulary (Europe) (DS Broadcast).nds" size="1419912" crc="c06cf8d7" md5="971fce672cc18ae2a90490d1408c2c5c" sha1="91f699c4c14db0a3fc4315b544575cc4533b1e05" sha256="3ebdf87563340f0fbbd26a5ced63f87ab8c0011e438b296852cfa0359cff3b19"/>
+	</game>
+	<game name="Final Fantasy Fables - Chocobo Tales - Bonus Content (USA) (Save Data)" id="0188">
+		<category>Games</category>
+		<description>Final Fantasy Fables - Chocobo Tales - Bonus Content (USA) (Save Data)</description>
+		<rom name="Final Fantasy Fables - Chocobo Tales - Bonus Content (USA) (Save Data).nds" size="893128" crc="5b54e3ba" md5="a82afc17024644e8b684b16990a254f8" sha1="6a0b7e4bdc12498b6dd99cdc18b5a7e7bc6350c7" sha256="93be0d00a8c3af8048d2192021797d66be248bde6f3399e3f8ddb814b8bf1490"/>
+	</game>
+	<game name="FloWooooT (Japan) (Nintendo Game Seminar 2010)" id="0046">
+		<category>Games</category>
+		<description>FloWooooT (Japan) (Nintendo Game Seminar 2010)</description>
+		<rom name="FloWooooT (Japan) (Nintendo Game Seminar 2010).bcn" size="856" crc="4d59c83b" md5="7007b1cf891891ad05f621047b76952e" sha1="4aacc973b8f2751c87926c0b5541d135b4e3a81a" sha256="2f8b82913148088600056f6e67184f3cc973096c7834e6ad03fc834ce7b38614"/>
+		<rom name="FloWooooT (Japan) (Nintendo Game Seminar 2010).bin" size="2093588" crc="50fc87cd" md5="e1d0bf6dc3a6c4464335e42ebc82fc96" sha1="93a9f3d6f9d4d6c1a072bb73267c102f28ec818b" sha256="76e4f6608b2b02cd2c6e85e2fa5d4a8d809f1561b37835dc7c267e743f1a27e5"/>
+		<rom name="FloWooooT (Japan) (Nintendo Game Seminar 2010).nds" size="2093256" crc="8eb83fd3" md5="fef4144f9de821e14bd805982de65545" sha1="9ab45d8218024d5a15d4dc9ebdf243f2af1a0b33" sha256="3a87212be45b293af5681636bb910fdb5c3facbce3fc0456803e72be6141d8c9"/>
+	</game>
+	<game name="Fossil Fighters - Gift Fossil - Air (USA) (Save Data)" id="0198">
+		<category>Games</category>
+		<description>Fossil Fighters - Gift Fossil - Air (USA) (Save Data)</description>
+		<rom name="Fossil Fighters - Gift Fossil - Air (USA) (Save Data).bcn" size="856" crc="04695394" md5="5abdcb0fa938404399345f1421209d1f" sha1="3579bd0bf7103b3351a17ad8301993942c6f8727" sha256="a153225367ba974d973ad176f6d7108c6bc618e87e4000ad0e282d0c5c488bb9"/>
+		<rom name="Fossil Fighters - Gift Fossil - Air (USA) (Save Data).bin" size="673319" crc="7cb74194" md5="60b4a465c99651621b33f01a14828a99" sha1="5f65a63cf224fffd7c53a1b67a789e3ee4140f12" sha256="e176f1d3225f219aba7cbae0c1f87a2763ac4f06a1aee978c9c007f600c81538"/>
+		<rom name="Fossil Fighters - Gift Fossil - Air (USA) (Save Data).nds" size="672968" crc="994eaa45" md5="2bb38ddd1c1e3c75375ea8118afe48f4" sha1="ab6af7527a9d655fc4dba42774dfafdd4ab06633" sha256="b4634ce2d2267782d1bbdfa0fa707b226c67e6d75f32c933954bee278c120d90"/>
+	</game>
+	<game name="Fossil Fighters - Gift Fossil - Earth (USA) (Save Data)" id="0037">
+		<category>Games</category>
+		<description>Fossil Fighters - Gift Fossil - Earth (USA) (Save Data)</description>
+		<rom name="Fossil Fighters - Gift Fossil - Earth (USA) (Save Data).bcn" size="856" crc="f0fb62de" md5="12bab6c96f87cd20efb68a97c97485c4" sha1="ced9d54d1c96926be43c2130872e70b2124b855d" sha256="1517e272c5b5a18419a5960f2e8f0cab33fceabdb3d09878f68ddb34b6a4cca2"/>
+		<rom name="Fossil Fighters - Gift Fossil - Earth (USA) (Save Data).bin" size="673319" crc="df1f9e3d" md5="24e4c36aa08bb26358abbfbea8c72952" sha1="bfce96e08ff07d5a4d3d3ce1e26ee9c4658858e6" sha256="199bd886d4cd2ebb96a03769b7e8d5c0fcb636976e54239c9bf6a538532b8a9a"/>
+		<rom name="Fossil Fighters - Gift Fossil - Earth (USA) (Save Data).nds" size="672968" crc="1545f787" md5="d303d23bd587e60455b5558996e8476b" sha1="9e7b0ddd4102f12a356fc2426f5f0372491d45a4" sha256="f993c24e27ebda1f9398bd729c54653b6f0c77ee6523e17d0523c4f982a91882"/>
+	</game>
+	<game name="Fossil Fighters - Gift Fossil - Fire (USA) (Save Data)" id="0038">
+		<category>Games</category>
+		<description>Fossil Fighters - Gift Fossil - Fire (USA) (Save Data)</description>
+		<rom name="Fossil Fighters - Gift Fossil - Fire (USA) (Save Data).bcn" size="856" crc="9cd11a39" md5="89be505bbfaa8c794a6ea22644a826c2" sha1="d0714e9b53c743c7dc5d729f1963d2a28614c195" sha256="298ba75dd9b4f4e2919043217c74f5f78fa7320b5ecabbce777b3fe7ef36d28b"/>
+		<rom name="Fossil Fighters - Gift Fossil - Fire (USA) (Save Data).bin" size="673319" crc="2de568ad" md5="7405974cc983b97d9cdc6742f6aa49df" sha1="16b97736cf058b7aa4eafae99f475d0e45a3625b" sha256="0d91bf688993de20fe41adb7b8ec942a118f72bc19abbe306c150ecaefad449c"/>
+		<rom name="Fossil Fighters - Gift Fossil - Fire (USA) (Save Data).nds" size="672968" crc="3ee9ef9f" md5="972bfbda66d2a12f0f1e70ac63c2e0e0" sha1="c7b10b9d5308c7ff60ca7225cc1322486b103a7a" sha256="62529420496ceeec29b24085e0f06f53ba239fadcb6a65f2a18896e435146317"/>
+	</game>
+	<game name="Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data)" id="0039">
+		<category>Games</category>
+		<description>Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data)</description>
+		<rom name="Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data).bcn" size="856" crc="28564949" md5="1db6984e74495f8f833ab0152f41e20f" sha1="707093980592ee1c5e4210d38863b2450d1e0f7a" sha256="6fc260ce4c10206c8c4479d6915d775135695d4533d2439291fd7af0260baf80"/>
+		<rom name="Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data).bin" size="673319" crc="4a87f62f" md5="d1f0f5dfeeef59bf95a409bf122a2e8c" sha1="091e5137a86e7a03de6c17d615ccf3620a27129d" sha256="a9795edb2cd4cc95a5bd5e6c428bbad90f69e829f50b6abd652b30ea5490e18a"/>
+		<rom name="Fossil Fighters - Gift Fossil - Neutral (USA) (Save Data).nds" size="672968" crc="009f5c7d" md5="b33444b017d930e664c29123e12d5c37" sha1="4c3867e50a720f8fd3cb59c98d6cae7e8370f626" sha256="38d3682ee17ca142d3c6324e4a1678424868029d5fc89b6c7400bf2be02ee264"/>
+	</game>
+	<game name="Fossil Fighters - Gift Fossil - Water (USA) (Save Data)" id="0040">
+		<category>Games</category>
+		<description>Fossil Fighters - Gift Fossil - Water (USA) (Save Data)</description>
+		<rom name="Fossil Fighters - Gift Fossil - Water (USA) (Save Data).bcn" size="856" crc="283a2df1" md5="051f58fcbd1e03ba2571e6497f4204d2" sha1="b036070ac5c7621c5a254a0b3daab23f8194f797" sha256="d52e4e67f3831f852ae2fccb8726e5f11b880936742ee5a091684b4ec15283c7"/>
+		<rom name="Fossil Fighters - Gift Fossil - Water (USA) (Save Data).bin" size="673319" crc="7ed338a9" md5="68b9f2120175e4532b1e0614580fc2ef" sha1="971f59d91093c0a840dbf5d14a680c6bb73e4376" sha256="6fca96ec07cc2db38a71a9b97a96fcbeb67ccd4bfbcee5c259a5cd44baabffe1"/>
+		<rom name="Fossil Fighters - Gift Fossil - Water (USA) (Save Data).nds" size="672968" crc="a83e7ab4" md5="5ba9cb922b630aba46f95c5f1d9077af" sha1="9717167242ecb098ebc65548f025ee9eb0c6dc72" sha256="c062d173588543eb184ab1e2adfb7fb19d02ffd68b572423aecee8d0d5bd864a"/>
+	</game>
+	<game name="Gardening Mama - Multiplayer (USA) (DS Broadcast)" id="0464">
+		<category>Games</category>
+		<description>Gardening Mama - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Gardening Mama - Multiplayer (USA) (DS Broadcast).nds" size="1665224" crc="5fb6d0d0" md5="caa62b673e23bdd0a8951224c83ba4ed" sha1="d5162922ba84b8aa96f422c941e32631c384252e" sha256="f0683c25dde925eb2184464eae661417fc43559f47d66c8ff83c07ba52715b74"/>
+	</game>
+	<game name="Geometry Wars - Retro Evolved (USA) (DS Broadcast)" id="0393">
+		<category>Games</category>
+		<description>Geometry Wars - Retro Evolved (USA) (DS Broadcast)</description>
+		<rom name="Geometry Wars - Retro Evolved (USA) (DS Broadcast).nds" size="2849960" crc="2b9e5b3f" md5="ad93483cff01696715559c9a53082405" sha1="d072d4b6ce15c8cda3b5a2829ab31aa810cc52a6" sha256="4179f73c81d41aab5bd20b8195bbc2fb56df0a9329a659faf0cdc66d8514039b"/>
+	</game>
+	<game name="Geometry Wars - Retro Evolved (USA) (Wii Broadcast)" id="0391">
+		<category>Games</category>
+		<description>Geometry Wars - Retro Evolved (USA) (Wii Broadcast)</description>
+		<rom name="Geometry Wars - Retro Evolved (USA) (Wii Broadcast).nds" size="2864808" crc="0c0d7598" md5="f4226b59166432567e9b1079431b69b1" sha1="860ae93faa753138b0d6eca599dc8e817d0d2788" sha256="865947442d95b5ef83634fd34fefc44fe33ced300383565886a9f3b90ffcde69"/>
+	</game>
+	<game name="Kids Learn - 2Think - A+ Edition - Multiplayer (USA) (DS Broadcast)" id="0529">
+		<category>Games</category>
+		<description>Kids Learn - 2Think - A+ Edition - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Kids Learn - 2Think - A+ Edition - Multiplayer (USA) (DS Broadcast).nds" size="2194120" crc="d30dac77" md5="2ee892b9e5ff36e0a5a1f36f79f29f07" sha1="81b288130fe2453aa4558f9bdd1c99edfd988b46" sha256="6be4e5b45ac5d25fc45dbf52077a34a903b9dad5a5bab853462c1a80e47ee0b8"/>
+	</game>
+	<game name="LEGO Star Wars II - The Original Trilogy (USA) (Rev 1) (DS Broadcast) (Multiplayer)" id="0800">
+		<category>Games</category>
+		<description>LEGO Star Wars II - The Original Trilogy (USA) (Rev 1) (DS Broadcast) (Multiplayer)</description>
+		<rom name="LEGO Star Wars II - The Original Trilogy (USA) (Rev 1) (DS Broadcast) (Multiplayer).nds" size="2795720" crc="0850bc56" md5="64b8af5dc92d7c84890dd171ea1523be" sha1="f33b5f3d55d0f6bc01491e31c9ccabb439244a19" sha256="f8b2c7c81f7a7aa009dd7d0057b90eff8c9aea5d2cf2c5c475d804a950e30a20"/>
+	</game>
+	<game name="Legend of Zelda - Spirit Tracks, The - Multiplayer (USA) (DS Broadcast)" id="0571">
+		<category>Games</category>
+		<description>Legend of Zelda - Spirit Tracks, The - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Legend of Zelda - Spirit Tracks, The - Multiplayer (USA) (DS Broadcast).nds" size="2580108" crc="2e72d972" md5="17bd31b390c5840b8c9684e80f4be025" sha1="24f87a67f60d45034487d6b75f8b4b277f19cd6e" sha256="8d511acb926bb5df8d6ebf51a8b914d81ad07badf8f3819f72f1d4d7b89c8900"/>
+	</game>
+	<game name="Legendary Starfy, The (USA) (Multiplayer) (DS Broadcast)" id="0559">
+		<category>Games</category>
+		<description>Legendary Starfy, The (USA) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Legendary Starfy, The (USA) (Multiplayer) (DS Broadcast).bcn" size="856" crc="e541ad31" md5="7eeda9c3b2ce061e94cc7958c171f44f" sha1="50aa140e9cab98feb39792c93c98d9d2075f14a7" sha256="5852d49584ff34d35eed44770140d03f1fdfd36295a335b2598d4dfd58d18e49"/>
+		<rom name="Legendary Starfy, The (USA) (Multiplayer) (DS Broadcast).nds" size="1266344" crc="4287ef0b" md5="609fcfa1e70b9cac83b9e3489ff869b6" sha1="76ab2a3cdc4f40c3425e9f3154ea6afe5ebeb8fe" sha256="ff46788f819882d1bde22413e11fb4153b6f72458bdd4148eccc2332f96272ee"/>
+	</game>
+	<game name="Legendary Starfy, The - Minigames (USA) (Multiplayer) (DS Broadcast)" id="0562">
+		<category>Games</category>
+		<description>Legendary Starfy, The - Minigames (USA) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Legendary Starfy, The - Minigames (USA) (Multiplayer) (DS Broadcast).bcn" size="856" crc="6e2481f5" md5="280abaf4eb69de7d66eb48f0df0f4af6" sha1="6c933f51a7dff0474f2f080716e06e9d7db34521" sha256="5b782e8dd30ac650931593f88e32cf27fa77a2dbdc2ba67a07550ec23684f9e5"/>
+		<rom name="Legendary Starfy, The - Minigames (USA) (Multiplayer) (DS Broadcast).nds" size="516264" crc="da78d086" md5="e872ce02cde57a76964fa6918fcc4769" sha1="5e2ad5a25349e78253900a8555bf6369d388a55c" sha256="ed07b18e0ad2caa8d13e28a026a0979fbddc04361b952c36deb6b5b7d9fcc130"/>
+	</game>
+	<game name="MaBoShi - The Three Shape Arcade (Europe) (WiiWare Broadcast)" id="0078">
+		<category>Games</category>
+		<description>MaBoShi - The Three Shape Arcade (Europe) (WiiWare Broadcast)</description>
+		<rom name="MaBoShi - The Three Shape Arcade (Europe) (WiiWare Broadcast).nds" size="1575624" crc="9c9affab" md5="637f5ea42632b31ae046c35b95eda8d2" sha1="7bbdb65402a06af4148bf455ab6c680b81cda098" sha256="0c08adc0c61ff26e6c670f8a4c2d99a726bbfbf86ce9e31d1da19ecf660c84e5"/>
+	</game>
+	<game name="Maboshi's Arcade (USA) (WiiWare Broadcast)" id="0068">
+		<category>Games</category>
+		<description>Maboshi's Arcade (USA) (WiiWare Broadcast)</description>
+		<rom name="Maboshi's Arcade (USA) (WiiWare Broadcast).nds" size="1396424" crc="eaed99ab" md5="e83fb6938769bfcb3cafa3ad28b749e1" sha1="bbdcecf88851b636cd41fb26397b9b227032e9f9" sha256="a9420dfa4deac037cb0aab000b35472f5bfcc4f60d15f72250a4ab4f031819ae"/>
+	</game>
+	<game name="Machi He Ikouyo - Doubutsu no Mori - Moving Van (Japan) (Wii Broadcast)" id="0386">
+		<category>Games</category>
+		<description>Machi He Ikouyo - Doubutsu no Mori - Moving Van (Japan) (Wii Broadcast)</description>
+		<rom name="Machi He Ikouyo - Doubutsu no Mori - Moving Van (Japan) (Wii Broadcast).nds" size="320712" crc="ce2f90f2" md5="df8e4d078fe22d17627fb73c6ce1ebcc" sha1="27cef7bbed62909e33ad77ef1106ab76ba8f0689" sha256="d8cb0af3cee7c94222d2fce3a68c6d1f1a4f108fd0cbd20199c70da4b365ca0c"/>
+	</game>
+	<game name="Machi He Ikouyo - Doubutsu no Mori - Suitcase (Japan) (Wii Broadcast)" id="0385">
+		<category>Games</category>
+		<description>Machi He Ikouyo - Doubutsu no Mori - Suitcase (Japan) (Wii Broadcast)</description>
+		<rom name="Machi He Ikouyo - Doubutsu no Mori - Suitcase (Japan) (Wii Broadcast).nds" size="417992" crc="7dbed66a" md5="815ca7215af20d9611a989858a42debe" sha1="c7ebaf9f86e78c14931efecfadbbe3304a2ad044" sha256="03d34eebef25c33425669162bc5316a387051661f5e4621649002c5e9612f0d6"/>
+	</game>
+	<game name="Maeilmaeil Deoukdeo! - DS Dunoe Training - Vs. Training (Korea) (Multiplayer) (DS Broadcast)" id="0452">
+		<category>Games</category>
+		<description>Maeilmaeil Deoukdeo! - DS Dunoe Training - Vs. Training (Korea) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Maeilmaeil Deoukdeo! - DS Dunoe Training - Vs. Training (Korea) (Multiplayer) (DS Broadcast).bcn" size="856" crc="1a30880a" md5="1abec0094f8bf43f0a4ff191db67a52f" sha1="ea8be1153718c15ffb1a8df6c646f6bab770c815" sha256="50c051830e2cc2edf6ab4019936924bceed52be0976397141a5dc8f9dbb8dcc2"/>
+		<rom name="Maeilmaeil Deoukdeo! - DS Dunoe Training - Vs. Training (Korea) (Multiplayer) (DS Broadcast).nds" size="1667272" crc="4b911138" md5="68996560c5334e419e39d435ff799f34" sha1="727666c76e850afa641c789a4bf9276ce389e75c" sha256="a4597e5a54eebe558c2633006ddb7eed51fe7db13914554c1d43ffe0766b7e1a"/>
+	</game>
+	<game name="Magnetica - Multiplayer (USA) (DS Broadcast)" id="0499">
+		<category>Games</category>
+		<description>Magnetica - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Magnetica - Multiplayer (USA) (DS Broadcast).nds" size="1423016" crc="49530655" md5="4fbe1427279cc93a2aafabe7603575a0" sha1="37626d0088330a681af22269080b37f8006470f8" sha256="f9f48ab2a2002e43da8dab41e259a0e9c0f6c59ab2fd054ec1d85d340bdf0866"/>
+	</game>
+	<game name="Mega Man Star Force 2 - Battle Card - KngGrndeur (USA) (Rev 1) (Save Data)" id="0251">
+		<category>Games</category>
+		<description>Mega Man Star Force 2 - Battle Card - KngGrndeur (USA) (Rev 1) (Save Data)</description>
+		<rom name="Mega Man Star Force 2 - Battle Card - KngGrndeur (USA) (Rev 1) (Save Data).nds" size="798408" crc="18b2b9e6" md5="f30c9e1b194d0edab612d3bb02010e91" sha1="3ee259eb2728886de2361e837e39fcb553ab7816" sha256="190a4f7e30f7cfb4f1efdab55694e9e458f7cdfd22282a6a8873ef963bd6b6e7"/>
+	</game>
+	<game name="Mega Man Star Force 2 - Battle Card - Le Mu (USA) (Rev 1) (Save Data)" id="0252">
+		<category>Games</category>
+		<description>Mega Man Star Force 2 - Battle Card - Le Mu (USA) (Rev 1) (Save Data)</description>
+		<rom name="Mega Man Star Force 2 - Battle Card - Le Mu (USA) (Rev 1) (Save Data).nds" size="798408" crc="954c111b" md5="5c2a9f4130ddef69521cad18e2d342a8" sha1="4a7e47d45f1a92defb532b10152c7bc61d08a2ec" sha256="d80d8464ca1b1591b274b8d0e94744af9078cd951eb9ee874c710e3fb6cda731"/>
+	</game>
+	<game name="Mega Man Star Force 2 - Brother - 1stMegaMan (USA) (Rev 1) (Save Data)" id="0249">
+		<category>Games</category>
+		<description>Mega Man Star Force 2 - Brother - 1stMegaMan (USA) (Rev 1) (Save Data)</description>
+		<rom name="Mega Man Star Force 2 - Brother - 1stMegaMan (USA) (Rev 1) (Save Data).nds" size="798408" crc="59184e47" md5="47a6c65195c86ff7cc8dd9f7decc0789" sha1="0eed61c8b99726e9adb1089fa3125e3e0ecabcad" sha256="5ea88f85766fa2ce42553b14ca1cf57d8925255de7c99a146ace7e17d81532e1"/>
+	</game>
+	<game name="Mega Man Star Force 2 - Brother - L. M. Shin (USA) (Rev 1) (Save Data)" id="0250">
+		<category>Games</category>
+		<description>Mega Man Star Force 2 - Brother - L. M. Shin (USA) (Rev 1) (Save Data)</description>
+		<rom name="Mega Man Star Force 2 - Brother - L. M. Shin (USA) (Rev 1) (Save Data).nds" size="798408" crc="7a855b81" md5="302ab351cd160bb9430314fd4aea8ade" sha1="a441805cdbc6d1f1fb5077ad999c248216f4d796" sha256="f321720326b216d7e78f6340abbd9468c076ee3302a98549821d3db58ea7c05a"/>
+	</game>
+	<game name="Mega Man Star Force 3 - Battle Card - AcidArrest (USA) (Rev 1) (Save Data)" id="0699">
+		<category>Games</category>
+		<description>Mega Man Star Force 3 - Battle Card - AcidArrest (USA) (Rev 1) (Save Data)</description>
+		<rom name="Mega Man Star Force 3 - Battle Card - AcidArrest (USA) (Rev 1) (Save Data).bcn" size="856" crc="df6f559a" md5="a706289436c37a0d15007c7114ada519" sha1="f3fb62f802c3e6efe809d01d16efc52e8756c4ac" sha256="4298dae36dd8f225adf25e70893729692d63b8c043109d393f3cd7b20e958ba2"/>
+		<rom name="Mega Man Star Force 3 - Battle Card - AcidArrest (USA) (Rev 1) (Save Data).nds" size="2048712" crc="4ed28bea" md5="ce75cf3374bf8d823bb8a70982e752cf" sha1="1718ea5bd5ee3aa36ffa41cf0d10e7b12da7cbd0" sha256="4ada8c237eea405ada0ba83d230707f154cb63842b0097e194915a7edfa43904"/>
+	</game>
+	<game name="Mega Man Star Force 3 - Battle Card - CrimsonMeteor (USA) (Rev 1) (Save Data)" id="0700">
+		<category>Games</category>
+		<description>Mega Man Star Force 3 - Battle Card - CrimsonMeteor (USA) (Rev 1) (Save Data)</description>
+		<rom name="Mega Man Star Force 3 - Battle Card - CrimsonMeteor (USA) (Rev 1) (Save Data).bcn" size="856" crc="7dfbca50" md5="5a47582c4f21e901aa52cc1942f35e01" sha1="ecb1e959e24e16851f342bf48dcdbd08e9eadad3" sha256="076abde01cd9f91284e870ba2d89d3a51b45bb95a1d473081423c91506a2fd87"/>
+		<rom name="Mega Man Star Force 3 - Battle Card - CrimsonMeteor (USA) (Rev 1) (Save Data).nds" size="2048712" crc="d9aa0acb" md5="905901d63ea887bc2ec3189ffbc36ac0" sha1="50532a8b2c00c73691529f548af2adae820c8e03" sha256="99c8b1a91169a0e68076fe45cb3b85e909dee0d7810bf1037fba0228164a2d86"/>
+	</game>
+	<game name="Meteos - Vs. Anasaze (USA) (DS Broadcast)" id="0533">
+		<category>Games</category>
+		<description>Meteos - Vs. Anasaze (USA) (DS Broadcast)</description>
+		<rom name="Meteos - Vs. Anasaze (USA) (DS Broadcast).nds" size="1146568" crc="69fcfbb7" md5="09ad261875966eae2fc5e5741f585311" sha1="f17d041c4d45d7c3d1d828a93dd0addfebb7581e" sha256="a188edfb1b57dcc1342bb7746ab6d8ad80f26676b4ffceb0e7af5baf05cf3ce2"/>
+	</game>
+	<game name="Meteos - Vs. Firen (USA) (DS Broadcast)" id="0519">
+		<category>Games</category>
+		<description>Meteos - Vs. Firen (USA) (DS Broadcast)</description>
+		<rom name="Meteos - Vs. Firen (USA) (DS Broadcast).nds" size="1135816" crc="67b8f374" md5="30d045b7b5dfa0531e87e8514ae67ed7" sha1="a02af00c2c644b12e8f24e2cc7e58d988850e8bc" sha256="bb444ab61376170042aeed85b7f8dee381c232d18c45c7c31ddc5204174b29c1"/>
+	</game>
+	<game name="Meteos - Vs. Geolyte (USA) (DS Broadcast)" id="0538">
+		<category>Games</category>
+		<description>Meteos - Vs. Geolyte (USA) (DS Broadcast)</description>
+		<rom name="Meteos - Vs. Geolyte (USA) (DS Broadcast).nds" size="1079496" crc="32c84c79" md5="589f83052ec0aedc340f6dedd90903a4" sha1="441e2500d8b0191eba7f09f0a1c2ff0b22d193c9" sha256="46223929bcfb7ccfce1e3919d0ab738028b048f65b969cd893fa3828f30ea05a"/>
+	</game>
+	<game name="Meteos - Vs. Oleana (USA) (DS Broadcast)" id="0528">
+		<category>Games</category>
+		<description>Meteos - Vs. Oleana (USA) (DS Broadcast)</description>
+		<rom name="Meteos - Vs. Oleana (USA) (DS Broadcast).nds" size="1087176" crc="2b9eda5e" md5="306188d92e26d4c0f9c9f3152bf9b56c" sha1="df49b359a5558f991708b63f2f3bb1e70e58540b" sha256="c4026ac3d76fd73afe3c2788e88447ec9dbc8e044e521d49ba2aa25afdf7ab88"/>
+	</game>
+	<game name="Mirudake Ugoku Memo Chou (Japan)" id="0106">
+		<category>Games</category>
+		<description>Mirudake Ugoku Memo Chou (Japan)</description>
+		<rom name="Mirudake Ugoku Memo Chou (Japan).bcn" size="856" crc="bbea1557" md5="74402686a84f7fdae980f08e2be67ec9" sha1="36559fec39f809dfe18883d640287e1084e48cee" sha256="9e8a0ccd787bc49437aa321a4298db3f7464636bd32b96b0fdee03696453cfdd"/>
+		<rom name="Mirudake Ugoku Memo Chou (Japan).bin" size="1064468" crc="7c3896e9" md5="bd9ca6aa228f6a6b9f1b6f95b51429db" sha1="78a84a6c795f8bb75cb17fb1ddfdc01ddb51e01f" sha256="52a156c1cf925cac19fbcc8dbf8084939fb4be26c8935ae4c4bc2eeffe887708"/>
+		<rom name="Mirudake Ugoku Memo Chou (Japan).nds" size="1064136" crc="f3dd42fb" md5="3cc026a0b9ac3da7b1d3cccabb03b71f" sha1="0027e4776f085fc716ee4d41a1c79a1ae7749cdf" sha256="d4f6d11e00fbae5d29dd53ec2532470556f36ca3264126b047062a8823383281"/>
+	</game>
+	<game name="More Brain Training from Dr Kawashima - How Old Is Your Brain - Vs. Training (Europe) (DS Broadcast)" id="0435">
+		<category>Games</category>
+		<description>More Brain Training from Dr Kawashima - How Old Is Your Brain - Vs. Training (Europe) (DS Broadcast)</description>
+		<rom name="More Brain Training from Dr Kawashima - How Old Is Your Brain - Vs. Training (Europe) (DS Broadcast).bcn" size="856" crc="c5f176a9" md5="22d64af71ffa3d14dfc1f210e3d9cc8f" sha1="d48c54409b3dea0851ed68d71953711558ea1a7d" sha256="0a9f9c07288557bbc7728a099997f7747172e76ada4228faa672c5d74c2e8991"/>
+		<rom name="More Brain Training from Dr Kawashima - How Old Is Your Brain - Vs. Training (Europe) (DS Broadcast).nds" size="2534600" crc="386a9ea9" md5="037b2df822dcb8c465c15e7544443b22" sha1="022b9f0a3e1f1c4abe5a8d5a5b50513d0d1d28f8" sha256="59d25a0f8e8b771db130587eb197abbc52b0609fc5c5868b49ca2fbd60e4b45f"/>
+	</game>
+	<game name="My Word Coach - Develop Your Vocabulary - Multiplayer (Europe) (DS Broadcast)" id="0610">
+		<category>Games</category>
+		<description>My Word Coach - Develop Your Vocabulary - Multiplayer (Europe) (DS Broadcast)</description>
+		<rom name="My Word Coach - Develop Your Vocabulary - Multiplayer (Europe) (DS Broadcast).nds" size="2214600" crc="411e5760" md5="fb3702e186f3d19f5a40265f1eff2542" sha1="73dfcec689f376167917e8974661724a2b82a92f" sha256="07167f0d7cf61e271a1406e79d29298a0a01541929bce32a38c2b882ed5c2f08"/>
+	</game>
+	<game name="My Word Coach - Improving Your Vocabulary - Multiplayer (USA) (DS Broadcast)" id="0609">
+		<category>Games</category>
+		<description>My Word Coach - Improving Your Vocabulary - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="My Word Coach - Improving Your Vocabulary - Multiplayer (USA) (DS Broadcast).nds" size="2214600" crc="7af19061" md5="bbb54765c59178b4fb9b11c953d7da30" sha1="86b45b2cecaa57c85cabf1edece85c08f538299b" sha256="20ef96cc2c9aedc7e7fbd8d9f178f09e3b493cd30a405a15db59c23c340f05ea"/>
+	</game>
+	<game name="MySims SkyHeroes - Multiplayer (Europe) (DS Broadcast)" id="0611">
+		<category>Games</category>
+		<description>MySims SkyHeroes - Multiplayer (Europe) (DS Broadcast)</description>
+		<rom name="MySims SkyHeroes - Multiplayer (Europe) (DS Broadcast).nds" size="1939144" crc="c0d82ab1" md5="5b0ce46e78895cb7058b8fa764f9a66b" sha1="11537d05866a25e49951d3f315a691674732f07e" sha256="ad438a050699db0ee7b0d2f897327a9dcc052f1cb25c9de4b04f980415aaa35a"/>
+	</game>
+	<game name="MySims SkyHeroes DS - Multiplayer (USA) (DS Broadcast)" id="0612">
+		<category>Games</category>
+		<description>MySims SkyHeroes DS - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="MySims SkyHeroes DS - Multiplayer (USA) (DS Broadcast).nds" size="1939144" crc="6e67785d" md5="7f8d43d670bd343eb4b2d4e5536bc80e" sha1="7309fc42d573cf141cf84fb3401fa9fe7fee59c7" sha256="920339b50318bd9005d08e7ffa9815cbd59958e995feff9ce52cedfffb3d4a32"/>
+	</game>
+	<game name="New York Times Crosswords, The - Multiplayer (USA) (DS Broadcast)" id="0607">
+		<category>Games</category>
+		<description>New York Times Crosswords, The - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="New York Times Crosswords, The - Multiplayer (USA) (DS Broadcast).nds" size="676488" crc="e094dbca" md5="08fbf09e13bd7e72ddaa5ca71939bd4f" sha1="a935c62eba76779b3e5dc2a8444ab3b67694f7a3" sha256="b494bcb7f771cf6f3e7c288eebe2b8046ffcc78438c8474bbf058f0ca71946d4"/>
+	</game>
+	<game name="Nicktoons - Battle for Volcano Island - Multiplayer (USA) (DS Broadcast)" id="0594">
+		<category>Games</category>
+		<description>Nicktoons - Battle for Volcano Island - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Nicktoons - Battle for Volcano Island - Multiplayer (USA) (DS Broadcast).nds" size="1900232" crc="0f0eba09" md5="f130e7a3506ec9ceeeb08f429c646d17" sha1="f567b497ef674b813436961b1596c62a63e773db" sha256="c673d7f9730e9b47a9bcd2614a8c7d7269f75b0b40ea49ccff81b19924a7eef3"/>
+	</game>
+	<game name="Nicola Kanshuu - Model Oshare Audition - Tsuika Data Haishinban - Erina (c) Design no T-Shirts (Japan) (Rev 1) (Save Data)" id="0767">
+		<category>Bonus</category>
+		<description>Nicola Kanshuu - Model Oshare Audition - Tsuika Data Haishinban - Erina (c) Design no T-Shirts (Japan) (Rev 1) (Save Data)</description>
+		<rom name="Nicola Kanshuu - Model Oshare Audition - Tsuika Data Haishinban - Erina (c) Design no T-Shirts (Japan) (Rev 1) (Save Data).bcn" size="856" crc="142e0a66" md5="53e0756126aac2ca1114abd055f22333" sha1="76df815af3e6eeede55bee3557ecae95e29562dd" sha256="6334f0e94a760793de014acc80fd65d5871fd9ca3c0317d67d6cbcf143ada153"/>
+		<rom name="Nicola Kanshuu - Model Oshare Audition - Tsuika Data Haishinban - Erina (c) Design no T-Shirts (Japan) (Rev 1) (Save Data).nds" size="425160" crc="eedd9c59" md5="7d0399660cf0b16dcd4aeb98f634c739" sha1="695857ceaed4effdf0972f637c5786c1d05af72a" sha256="b535e0f60f1830ac76d0e35071ed9c573cf2ac4cc6d7cd35299595367c534f8d"/>
+	</game>
+	<game name="Nicola Kanshuu - Model Oshare Audition - Tsuika Data Haishinban - Meiku (c) Design no T-Shirts (Japan) (Rev 1) (Save Data)" id="0735">
+		<category>Games</category>
+		<description>Nicola Kanshuu - Model Oshare Audition - Tsuika Data Haishinban - Meiku (c) Design no T-Shirts (Japan) (Rev 1) (Save Data)</description>
+		<rom name="Nicola Kanshuu - Model Oshare Audition - Tsuika Data Haishinban - Meiku (c) Design no T-Shirts (Japan) (Rev 1) (Save Data).bcn" size="856" crc="5c365fa1" md5="ee003a0cc30d2f1bcd908550fbeb0d6b" sha1="a99f9f6e19c61fe5f15f1d8b242be2a594a4802c" sha256="6dec635fe98d618fbdaeade1e60e433c2aa68c02eed2b04e7e4e0ee4ba4548d6"/>
+		<rom name="Nicola Kanshuu - Model Oshare Audition - Tsuika Data Haishinban - Meiku (c) Design no T-Shirts (Japan) (Rev 1) (Save Data).nds" size="425160" crc="bf097d93" md5="699cb59621b158b8c21fe8a3254b8136" sha1="1be1858d35ef84822be6e31b5c3224e2ae50ee0d" sha256="8392a3ef7385beff7d69d0ae2a660eaa9bf4af3a988e7260782d6be1f98cfcbc"/>
+	</game>
+	<game name="Nintendo DS Title Recommendation Program (USA) (Nintendo Channel)" id="0617">
+		<category>Games</category>
+		<description>Nintendo DS Title Recommendation Program (USA) (Nintendo Channel)</description>
+		<rom name="Nintendo DS Title Recommendation Program (USA) (Nintendo Channel).nds" size="503496" crc="5f729227" md5="54ae0c90ebc3246a6ef0e0bf41b20ad4" sha1="75a0836c36da6f39e5993f27216b5f5799cfeba2" sha256="b3fcfefa5bee3240c34333d2a4e4075108452ca040501c36e5ade4bf1a47521b"/>
+	</game>
+	<game name="Ototo (Japan) (Rev 3) (Nintendo Game Seminar 2009)" id="0044">
+		<category>Games</category>
+		<description>Ototo (Japan) (Rev 3) (Nintendo Game Seminar 2009)</description>
+		<rom name="Ototo (Japan) (Rev 3) (Nintendo Game Seminar 2009).bcn" size="856" crc="61fd20fa" md5="fa4acf956e3009da5ab313ab48763266" sha1="54edad0d49d71da64a1523faec8168d5dcb67bb7" sha256="1279503921e44acb712a0cb2cfc99c9f7e17334a1cb3951f2cb44c939a03b9bd"/>
+		<rom name="Ototo (Japan) (Rev 3) (Nintendo Game Seminar 2009).bin" size="1668628" crc="54f77ce0" md5="6ec4267e883e6511456c20e5aac27b65" sha1="0c87c46cd911f567d77db895259d35c0e9b48a01" sha256="4f128279ab18d41ce9a5fcc096c8847bb1c9df64d45b486899a5dfc4cfc45869"/>
+		<rom name="Ototo (Japan) (Rev 3) (Nintendo Game Seminar 2009).nds" size="1668296" crc="adaa2597" md5="a6329b9df0023f399d5bf5c31895890e" sha1="001bccc9f0770366dd98c915a64477e5568e8a2f" sha256="683a3a2db8aecbce331231d48f8f381d47e3f1f19392843f1900254d04fe95f8"/>
+	</game>
+	<game name="Panel de Pon DS - Multiplayer (Japan) (DS Broadcast)" id="0605">
+		<category>Games</category>
+		<description>Panel de Pon DS - Multiplayer (Japan) (DS Broadcast)</description>
+		<rom name="Panel de Pon DS - Multiplayer (Japan) (DS Broadcast).nds" size="1631944" crc="ef20b26c" md5="c3a7f3d297284fc3c8d952e76543372c" sha1="b2c30046a214ba9867da5fdef3bc52b6459261d0" sha256="4d0527c88b094748f71afa39e00bd17dc68b17cef322ccc40ad9bf3560239674"/>
+	</game>
+	<game name="Personal Trainer - Math - Study Together (USA) (DS Broadcast)" id="0581">
+		<category>Games</category>
+		<description>Personal Trainer - Math - Study Together (USA) (DS Broadcast)</description>
+		<rom name="Personal Trainer - Math - Study Together (USA) (DS Broadcast).nds" size="1701064" crc="85196240" md5="c30a0b4a2dfc65aa45706b1f84cd74ce" sha1="2504b61038f999a85c284bb74dae2cc041458611" sha256="6400525040ad231513051f887295c5c19286257435a2f668a1b553d3504509a5"/>
+	</game>
+	<game name="Ping Pals - Multiplayer (Europe) (DS Broadcast)" id="0510">
+		<category>Games</category>
+		<description>Ping Pals - Multiplayer (Europe) (DS Broadcast)</description>
+		<rom name="Ping Pals - Multiplayer (Europe) (DS Broadcast).nds" size="1731272" crc="a0f142a0" md5="a0bc3d3601f735c6f7ab7e04dd948e2b" sha1="7871450d7d68c779632a0a5ea29410155de953f4" sha256="a5be61062d997e6a5cda89766c5f01e6f996f6f3f0e382a2641afabe83f9c295"/>
+	</game>
+	<game name="Planet 51 - The Game - Multiplayer (USA) (DS Broadcast)" id="0557">
+		<category>Games</category>
+		<description>Planet 51 - The Game - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Planet 51 - The Game - Multiplayer (USA) (DS Broadcast).nds" size="1641160" crc="f81dde89" md5="554fb0d8094e71719753c76f9366b594" sha1="86e5728635c26b51ea54c5c9dbad654cf3224aaf" sha256="32b06271dff08f898375c05b4d88262c082dd5ad3b102be6fa1daee529c2bcf8"/>
+	</game>
+	<game name="Planet Puzzle League - Multiplayer (USA) (DS Broadcast)" id="0596">
+		<category>Games</category>
+		<description>Planet Puzzle League - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Planet Puzzle League - Multiplayer (USA) (DS Broadcast).nds" size="1588936" crc="642f13d5" md5="851f51ae3247507ab5dd8dcebce58133" sha1="8fa16d2d4699183b9587a01f7fdab57e21e8d459" sha256="5282960584ae470ceb5294a2473b6e0e1f6129af6899137e12bc0bc35eaa5e5a"/>
+	</game>
+	<game name="Planetaria (Japan) (Nintendo Game Seminar 2010)" id="0047">
+		<category>Games</category>
+		<description>Planetaria (Japan) (Nintendo Game Seminar 2010)</description>
+		<rom name="Planetaria (Japan) (Nintendo Game Seminar 2010).bcn" size="856" crc="10adc97e" md5="53a6964fbdae3a8fbeb4bf5fa373c3cc" sha1="8ed680ebfcc2a74873dc595687516e1c09daf50f" sha256="33401a10d54e5e1f30741c8d8c1c2a436940ab048a88395334487987c61f3c60"/>
+		<rom name="Planetaria (Japan) (Nintendo Game Seminar 2010).bin" size="953876" crc="c8120b44" md5="6c0cfc4cf9ecc5500c76b9425070ebca" sha1="04a23e6602a0bd213a0cc3271226f410465f864e" sha256="a82c9245ae05b50079d7b9a27863534f5a25695a1474d9c1e22e3dc6ee691943"/>
+		<rom name="Planetaria (Japan) (Nintendo Game Seminar 2010).nds" size="953544" crc="6b235218" md5="37e1d5708694bab4637b323597a6a254" sha1="d9de58d2a09f5bfac0aa071705d9ef6ed09646ac" sha256="849510b73cc113781fa39e8ac799abd7abb0936ae1f0ddf2ef3f1218aaecb520"/>
+	</game>
+	<game name="Pocket Monsters - Diamond &amp; Pearl - Shuufuku Program (Japan) (Rev 3) (Save Data)" id="0089">
+		<category>Games</category>
+		<description>Pocket Monsters - Diamond &amp; Pearl - Shuufuku Program (Japan) (Rev 3) (Save Data)</description>
+		<rom name="Pocket Monsters - Diamond &amp; Pearl - Shuufuku Program (Japan) (Rev 3) (Save Data) (Kiosk).bcn" size="856" crc="d0f0ba99" md5="d81525fe6fd630f7fd4389375e643877" sha1="baebabb55276e870072fbef675576814556cef2b" sha256="8c1f11f955f71045e9f12dc6d462e01ae9adc6947d7fdbc4bc13921a58f27b79"/>
+		<rom name="Pocket Monsters - Diamond &amp; Pearl - Shuufuku Program (Japan) (Rev 3) (Save Data) (Nintendo Channel).bcn" size="856" crc="8d3b7659" md5="ebb804af9ea34c7c0e6959f24f02be67" sha1="0fd31b0365436511c62135fe30bace2682f7083e" sha256="d832d5c07575129cc6c3a5d38e19b2d7c71a08679100fa69ddad409556b308af"/>
+		<rom name="Pocket Monsters - Diamond &amp; Pearl - Shuufuku Program (Japan) (Rev 3) (Save Data).bin" size="729620" crc="4ef99339" md5="8735396773da328a35076d0bbfa411da" sha1="7191d7dfe3cd28846dd6c248972d424d687bb581" sha256="2fec6398f75e681901f8a2997b61df9f3934281dfc378eb2a86526e67a62100a"/>
+		<rom name="Pocket Monsters - Diamond &amp; Pearl - Shuufuku Program (Japan) (Rev 3) (Save Data).nds" size="729288" crc="52310a4c" md5="7d03fdfe967204fed410fe0632b97fb8" sha1="b53dc3dbe6d40657ad6e5c81062af3b38d340898" sha256="37edab91918c40fe409f28ac25cff7f0c0b6849414b65d8ddbcfe7162da5b601"/>
+	</game>
+	<game name="Point Blank DS - Multiplayer (USA) (DS Broadcast)" id="0774">
+		<category>Games</category>
+		<description>Point Blank DS - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Point Blank DS - Multiplayer (USA) (DS Broadcast).bcn" size="856" crc="b5462566" md5="c3ee92eef04b7c73e472c2bbe74e65e5" sha1="d41e74e424ccc6cfc071879a813ed268ba45bb71" sha256="27487f1e5be12844b2baed593a66714c6c5f0e219ba95029bf8342c063726608"/>
+		<rom name="Point Blank DS - Multiplayer (USA) (DS Broadcast).nds" size="1069704" crc="e8766680" md5="57ddb0da802cd428a374450e176945a4" sha1="52d3fc9419cd5f0d28dc924d0249c296893435ba" sha256="311a79904ed3b0191cf8de6d7ed9ecee80a80586dd36a431f9bb5f4d946924a2"/>
+	</game>
+	<game name="Professor Kageyama's Maths Training - The Hundred Cell Calculation Method - Study Together (Europe) (DS Broadcast)" id="0588">
+		<category>Games</category>
+		<description>Professor Kageyama's Maths Training - The Hundred Cell Calculation Method - Study Together (Europe) (DS Broadcast)</description>
+		<rom name="Professor Kageyama's Maths Training - The Hundred Cell Calculation Method - Study Together (Europe) (DS Broadcast).nds" size="1701576" crc="7a47cc16" md5="e2eb84fe5eb6737cd16605ee61d59c60" sha1="0218c01d6c6a6bfb184ed05c4572cbd58c8f7c9b" sha256="2c9a24163fbf2d6400682f84c14de75900d38c89a11d3449438859f390d3ca42"/>
+	</game>
+	<game name="Pull Pull Pullpy (Japan) (Nintendo Game Seminar 2010)" id="0048">
+		<category>Games</category>
+		<description>Pull Pull Pullpy (Japan) (Nintendo Game Seminar 2010)</description>
+		<rom name="Pull Pull Pullpy (Japan) (Nintendo Game Seminar 2010).bcn" size="856" crc="0ba6acdd" md5="999815325248093a30987d73c2747bc4" sha1="f9b6a1db01f07e2ec5843af54e16de8219112f0a" sha256="3e3eeeed5248f0e5cf20cb12481cc759fe11296d4c04bbff84d401e3dc7f6383"/>
+		<rom name="Pull Pull Pullpy (Japan) (Nintendo Game Seminar 2010).bin" size="2113556" crc="7eeddc81" md5="27dc10185f667141b7d4cfc4442e2edc" sha1="434be13fcaca762d387a9b278a090d3bb1e40d4a" sha256="0aaa9d99f9403535776db8095c201304162debe39339f96ad109ce93f039fcd5"/>
+		<rom name="Pull Pull Pullpy (Japan) (Nintendo Game Seminar 2010).nds" size="2113224" crc="1fee7a95" md5="f3372a37f902e62d9a7a97b707fff339" sha1="1545c35331895825d41231ca1da33db8d0b7b539" sha256="2b81aefdfd25491f62aaeb25a2ed9299d4e6b017e80529fcc06bb54a9d751789"/>
+	</game>
+	<game name="Puzzle Bobble Galaxy (Europe) (En) (Multiplayer) (DS Broadcast)" id="0544">
+		<category>Games</category>
+		<description>Puzzle Bobble Galaxy (Europe) (En) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Puzzle Bobble Galaxy (Europe) (En) (Multiplayer) (DS Broadcast).bcn" size="856" crc="e1b91daa" md5="ab5b34cbdc41da423a2bc171b30e9395" sha1="522cda18f01df31a766290a06d65cfe2ec62b37b" sha256="679d4fd8243e0f80a7dca314f70f9034cb2418480bea42ccacd5df5f42ea8174"/>
+		<rom name="Puzzle Bobble Galaxy (Europe) (En) (Multiplayer) (DS Broadcast).nds" size="1609352" crc="02a4f5dc" md5="97fb8eb2d0676e313ae0ac159dd1d63a" sha1="e679b6a05a35d61f0f6982bcf698d99cb21da9d9" sha256="74366496d1da129ac06e811a258a9dd307444b5cca86ae273fcdba82d4bdb81c"/>
+	</game>
+	<game name="Puzzle League DS - Multiplayer (Europe) (DS Broadcast)" id="0595">
+		<category>Games</category>
+		<description>Puzzle League DS - Multiplayer (Europe) (DS Broadcast)</description>
+		<rom name="Puzzle League DS - Multiplayer (Europe) (DS Broadcast).nds" size="1797320" crc="5f9d4083" md5="dc9cf2c315bce6a3d5ed38e713bf5de9" sha1="9f5e1f839d93743d1283bb9e22739f9b8272a067" sha256="7486facc63cf5f46fbed8d84d2e4a22e47b94cd2b5e6b0a47400df458ecaa7ab"/>
+	</game>
+	<game name="Rockman EXE - Operate Shooting Star - Tsuika Data Haishinban - Battle Chip - Burai B (Japan) (Save Data)" id="0320">
+		<category>Games</category>
+		<description>Rockman EXE - Operate Shooting Star - Tsuika Data Haishinban - Battle Chip - Burai B (Japan) (Save Data)</description>
+		<rom name="Rockman EXE - Operate Shooting Star - Tsuika Data Haishinban - Battle Chip - Burai B (Japan) (Save Data).bcn" size="856" crc="34f766fc" md5="17ec4edc060d5c765a56e4524e17c858" sha1="d99c10c2bc54bcf0d30a539c938fdb84801d30c4" sha256="2ec60723d5f2e34d478a3630b50cc8aa7ce460aa9b32ad0bd49add05c53dace0"/>
+		<rom name="Rockman EXE - Operate Shooting Star - Tsuika Data Haishinban - Battle Chip - Burai B (Japan) (Save Data).bin" size="474132" crc="306cd159" md5="a75623c3392750a0cd1c0bbfb26dda43" sha1="25459ee87546c11fdf9a0c34f8a5435137b29cb8" sha256="d4cc52926bd2090831fdaafeac63aec8c160111a987b7ef918b738bd58ee3482"/>
+		<rom name="Rockman EXE - Operate Shooting Star - Tsuika Data Haishinban - Battle Chip - Burai B (Japan) (Save Data).nds" size="473800" crc="54f7f284" md5="6f590a7be5ed46f4974ac4de35c62d2e" sha1="655e2bc94cd8dc78420eae323622b16b413e9cfb" sha256="93df54d6f9d7652910f7e3dd3bd78515fa5102b623503b98d8086120a151b89a"/>
+	</game>
+	<game name="Rockman EXE - Operate Shooting Star - Tsuika Data Haishinban - Battle Chip - Forte F (Japan) (Save Data)" id="0321">
+		<category>Games</category>
+		<description>Rockman EXE - Operate Shooting Star - Tsuika Data Haishinban - Battle Chip - Forte F (Japan) (Save Data)</description>
+		<rom name="Rockman EXE - Operate Shooting Star - Tsuika Data Haishinban - Battle Chip - Forte F (Japan) (Save Data).bcn" size="856" crc="ba14d478" md5="c1ba3cfe3ec6ceb1dfa7db8cb4bd2158" sha1="b59afb5d7665baced4ba0132578a09ca13d16ae1" sha256="eeaa28bbdb7982f541193bcb79ffafd750a1efe8930c8742b98f047a795b4340"/>
+		<rom name="Rockman EXE - Operate Shooting Star - Tsuika Data Haishinban - Battle Chip - Forte F (Japan) (Save Data).bin" size="474132" crc="fe8f15c1" md5="a73621cf814f0dd462360aec771054d2" sha1="4ab96ab2dd5e9d703effa0b3802e0669ee66490d" sha256="498e450f8cebc2520b8406385b77210551025eff57e05f21eeeb8f44f41675eb"/>
+		<rom name="Rockman EXE - Operate Shooting Star - Tsuika Data Haishinban - Battle Chip - Forte F (Japan) (Save Data).nds" size="473800" crc="ca2806d3" md5="fc3dc25fb4387a848722e448a7c7b6fa" sha1="9a215de9b5879ae486f99bd075f766841d5befd4" sha256="8e8daeb77a181e572f3a3fb9f1d69cd1447c03f3565f5cf90bf1f238d11c7e91"/>
+	</game>
+	<game name="Secret Saturdays, The - Beasts of the 5th Sun - Character Unlock (USA) (En,Fr,Es) (Rev 5) (Save Data)" id="0714">
+		<category>Games</category>
+		<description>Secret Saturdays, The - Beasts of the 5th Sun - Character Unlock (USA) (En,Fr,Es) (Rev 5) (Save Data)</description>
+		<rom name="Secret Saturdays, The - Beasts of the 5th Sun - Character Unlock (USA) (En,Fr,Es) (Rev 5) (Save Data).nds" size="1167048" crc="d59ab635" md5="a60dc85e9bbf0f3d2fd9461b9a22711c" sha1="68ad0b7e63ca29f8b717ef198acfcd26ccd7417d" sha256="7ddfe1f5d13159b9970f070962057dffbb62e856bab17e62236cd354754ede1a"/>
+	</game>
+	<game name="Shunkan Puzz Loop (Japan) (Multiplayer) (DS Broadcast)" id="0483">
+		<category>Games</category>
+		<description>Shunkan Puzz Loop (Japan) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Shunkan Puzz Loop (Japan) (Multiplayer) (DS Broadcast).bcn" size="856" crc="da53354d" md5="762713aa59405e1aae555e7fdc9183a5" sha1="ed8ce1ee202ad7dc1d3bb4eb6be0e3771014141b" sha256="567bd6a08c40b39da08006306e64cb3077dbbd6c4279ccc23cf56d574676d65b"/>
+		<rom name="Shunkan Puzz Loop (Japan) (Multiplayer) (DS Broadcast).nds" size="1428648" crc="8127a4a0" md5="938fd90f27fb5b54126909df6e55db0a" sha1="7e1305bab21f2e7aa98f34ef08563a8e150f8b9e" sha256="54c69e71f9b19c6d764bd221cf2819d743b766f49e770b5921070b9691f87ede"/>
+	</game>
+	<game name="Simple Wii Series Vol. 3 - The Casino Party (Japan) (Wii Broadcast)" id="0394">
+		<category>Games</category>
+		<description>Simple Wii Series Vol. 3 - The Casino Party (Japan) (Wii Broadcast)</description>
+		<rom name="Simple Wii Series Vol. 3 - The Casino Party (Japan) (Wii Broadcast).nds" size="453832" crc="f687d1da" md5="d593ba3790c7056dfbb92ad41c5189fc" sha1="bde25869a9c6963983e8c85bf2e8dcb7fbedb294" sha256="10ab225da3633719e8cb4cd8ce5c95fab5b86e9675cbe80442bdf8f6e73b46dd"/>
+	</game>
+	<game name="Sonic Colors (World) (Multiplayer) (DS Broadcast)" id="0548">
+		<category>Games</category>
+		<description>Sonic Colors (World) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Sonic Colors (World) (Multiplayer) (DS Broadcast).nds" size="1800392" crc="d1cb210b" md5="19a6f330211f9f97e14d45c686d42716" sha1="9e5eed29c27042d2532413803dd5a0cce19591cc" sha256="63fd27822dfd77811a6809b59fbacc59de66ea6ce263d130f6aa2f44bbeb4087"/>
+	</game>
+	<game name="Sonic Rush (USA, Europe) (Multiplayer) (DS Broadcast)" id="0543">
+		<category>Games</category>
+		<description>Sonic Rush (USA, Europe) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Sonic Rush (USA, Europe) (Multiplayer) (DS Broadcast).bcn" size="856" crc="7ef137e4" md5="edd3821c7ac893c52683685ca09e8a3b" sha1="4e7b0b065187ac21be8ef210bc919715bf16e42d" sha256="4286f348491619c432999fd52057d858636276780ec5cc4fa0eeb5f1c13599bf"/>
+		<rom name="Sonic Rush (USA, Europe) (Multiplayer) (DS Broadcast).nds" size="1004232" crc="41e3be13" md5="aa003d64f27c8f41b69a0bea7971690f" sha1="d4e41c298a8d3010ec9092537ebccfea50b6e0da" sha256="ec74d3536eecf829d144e777eda8129a03f10742a97bb936c8e0e47a842f5bd6"/>
+	</game>
+	<game name="Space Bust-a-Move (USA) (Es) (Multiplayer) (DS Broadcast)" id="0547">
+		<category>Games</category>
+		<description>Space Bust-a-Move (USA) (Es) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Space Bust-a-Move (USA) (Es) (Multiplayer) (DS Broadcast).bcn" size="856" crc="e0450a24" md5="8c88aa824305d419a534cb42039d4a67" sha1="da3d2f056779ee5e4ebee46c0fed1bc10264f56b" sha256="13b424b9bba5d16c283bee87bfdd2616097f66a1b0aff526bc1dc76b7a401de2"/>
+		<rom name="Space Bust-a-Move (USA) (Es) (Multiplayer) (DS Broadcast).nds" size="1612424" crc="ecc258b1" md5="bde24a78e3a32411cbfc8298b63f7675" sha1="d9ce1d10b40e1396f8d54be149d9d42e8092e1d4" sha256="819f6074cb8d07b287dcbff768fd4b8708053d15d6e6d44fb5a3c3f9a931631c"/>
+	</game>
+	<game name="Space Bust-a-Move - Multiplayer (USA) (En) (Multiplayer) (DS Broadcast)" id="0553">
+		<category>Games</category>
+		<description>Space Bust-a-Move - Multiplayer (USA) (En) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Space Bust-a-Move - Multiplayer (USA) (En) (Multiplayer) (DS Broadcast).bcn" size="856" crc="572e1962" md5="f7b07556add67389e48b21dd666fdb4f" sha1="680e380fff1b160aa487cdb32d02b3266fb5566d" sha256="7fe697830a9fba29aedb262822a284b9ad9419b14f9c06c8a96ddeed8255a4bf"/>
+		<rom name="Space Bust-a-Move - Multiplayer (USA) (En) (Multiplayer) (DS Broadcast).nds" size="1609352" crc="c34a6ef9" md5="ed9ddb13464bcc801affdc301677b566" sha1="dd90eee22ba1912f2a7c89ca9b05d31ff8140bfa" sha256="f8e81b5087041c1cea41f1afb587dfaea61ce4c95a49d460014508fe145da2fd"/>
+	</game>
+	<game name="Space Puzzle Bobble (Japan) (Multiplayer) (DS Broadcast)" id="0563">
+		<category>Games</category>
+		<description>Space Puzzle Bobble (Japan) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Space Puzzle Bobble (Japan) (Multiplayer) (DS Broadcast).bcn" size="856" crc="17e2ce7c" md5="2041b7cc8075c024c02141774065f63e" sha1="0254bb541c3c55aa7c56f3307870ae0bd5e14306" sha256="7e3ff82598fa9e6550874579d01b408abc070e083cc47684d893317f5ffb9473"/>
+		<rom name="Space Puzzle Bobble (Japan) (Multiplayer) (DS Broadcast).nds" size="1622664" crc="eb6269cd" md5="a64765bedab9a26b7070a10605e087ed" sha1="9daffc65ad42b2c7969bb3b4e7a8ef72cbeb6c1a" sha256="34561c3333354aa08442ac67cbf05484ed734ad0b9836421b70224f09ea6f747"/>
+	</game>
+	<game name="SpongeBob - Surf &amp; Skate Roadtrip - Skate Half-Pipe (Europe) (Multiplayer) (DS Broadcast)" id="0545">
+		<category>Games</category>
+		<description>SpongeBob - Surf &amp; Skate Roadtrip - Skate Half-Pipe (Europe) (Multiplayer) (DS Broadcast)</description>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Skate Half-Pipe (Europe) (Multiplayer) (DS Broadcast) (De).bcn" size="856" crc="cb1cd1dd" md5="6931516e20023a948085fdd87ff55133" sha1="906f9164573422665b700781c0c8dab8c03c7795" sha256="8bd0943ee520a4d5ee5a6d15b134a67f9ef4f8187081faa40a0f3dca4feb0ed5"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Skate Half-Pipe (Europe) (Multiplayer) (DS Broadcast) (En).bcn" size="856" crc="1006c885" md5="6bf94b0edc794f9d544c08a949ceb16d" sha1="4dd56213efe6f61c202885f9482acb8388017991" sha256="be9a587df49f54288ce48b9ebd5cf9eebef073a404079e93374bae7f90a9ff13"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Skate Half-Pipe (Europe) (Multiplayer) (DS Broadcast) (Es).bcn" size="856" crc="aa13419e" md5="c8eae3ae8cf46a5a2dd42d4e5009e61b" sha1="5f2186f283b864e2ae37e6a9e3ae466f434d884d" sha256="75739f3dadbcdbe7d404c59d8e890dd6632d9f856411e68646d3efa28ec14b10"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Skate Half-Pipe (Europe) (Multiplayer) (DS Broadcast) (Fr).bcn" size="856" crc="4ac0f70b" md5="80355ecfd9109b405eac63797893d805" sha1="36a3baf132c9dfd7e6aec37f9d9b3e22e9f1a658" sha256="a843ce7d945de12fb0c05bd4d888e9b79b84ad9405178e46ae5199f93d2b9808"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Skate Half-Pipe (Europe) (Multiplayer) (DS Broadcast) (Nl).bcn" size="856" crc="4ba78d73" md5="0d3e14cb86723796e7d630d48ff8a49f" sha1="5bd044c96ed4af5298a99ef516b0e359af76c5f2" sha256="df7884368c1626c439a08d5bbfb6cc332e31337325cbf38efffe8630ab4af66e"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Skate Half-Pipe (Europe) (Multiplayer) (DS Broadcast).nds" size="1483912" crc="a818c451" md5="872c84743dd780b11e53e2275318c371" sha1="5297c6e9519667638b36c25b80803a5579fddd90" sha256="a904a38c2b504b6e57cc108a230e1d6721ccd8fd3f0ebe33e4da6bccf0cfcd17"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Skate Half-Pipe (Europe) (Multiplayer) (DS Broadcast).nds" size="1483912" crc="a818c451" md5="872c84743dd780b11e53e2275318c371" sha1="5297c6e9519667638b36c25b80803a5579fddd90" sha256="a904a38c2b504b6e57cc108a230e1d6721ccd8fd3f0ebe33e4da6bccf0cfcd17"/>
+	</game>
+	<game name="SpongeBob - Surf &amp; Skate Roadtrip - Surf (Europe) (Multiplayer) (DS Broadcast)" id="0541">
+		<category>Games</category>
+		<description>SpongeBob - Surf &amp; Skate Roadtrip - Surf (Europe) (Multiplayer) (DS Broadcast)</description>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Surf (Europe) (Multiplayer) (DS Broadcast) (De).bcn" size="856" crc="ec8c0ae7" md5="3652e2cdb9ee836192e5a3ca320677ba" sha1="e055dbe3bb2761904027d7f807165b3c644e79e9" sha256="47010482e7d8d40c8e6384cbcdc27bd78e07bf31c23787e4bbab0acd0052ea5c"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Surf (Europe) (Multiplayer) (DS Broadcast) (En).bcn" size="856" crc="a88269b9" md5="7034f3975313adcdd538988f9fbb96db" sha1="fb847e78d6da0a822ef6f01640e2ea3ab7d8430e" sha256="f19b9df681f195667e6efe23a7e70d5891feedf38592dff013d6b98d5956eed2"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Surf (Europe) (Multiplayer) (DS Broadcast) (Es).bcn" size="856" crc="131046fd" md5="1535ecb71a7200d955cdaa437c51f31f" sha1="23ec7e22fc8e1593e9579c6e46383b4b4c0e0cbc" sha256="66a67bc35f2c77154a4cd945f4c23f85f810241e19e81cbcf73039adc1610286"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Surf (Europe) (Multiplayer) (DS Broadcast) (Fr).bcn" size="856" crc="2f10818d" md5="f09e98d312db58334ad0ab1f9c4b72b7" sha1="9c8a02af3e671bec57d1e504c254d078399a46ed" sha256="825a578dffd2086f90ac11700dcf02bb2abae6c39a6ad0684f557a0ec228efd9"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Surf (Europe) (Multiplayer) (DS Broadcast) (Nl).bcn" size="856" crc="7b04b607" md5="383da4ffcd94678a96b30434f74f47fe" sha1="9637733997326bc317ed5a018dd7bd816f9c0e89" sha256="73b25b914deffaa615bd855508a7c007846183ab16799e83a67705d96ecc732f"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Surf (Europe) (Multiplayer) (DS Broadcast).nds" size="1643656" crc="5a42b4c3" md5="89d955c12f21a3b0c63064707bd25aeb" sha1="0865255ee433b915253eac9242b6b8f0fc499eb6" sha256="9b0bb8da92bd3aaf18609226897c380f0fb7ac228bc0896eae8919d699bb1fc7"/>
+		<rom name="SpongeBob - Surf &amp; Skate Roadtrip - Surf (Europe) (Multiplayer) (DS Broadcast).nds" size="1643656" crc="5a42b4c3" md5="89d955c12f21a3b0c63064707bd25aeb" sha1="0865255ee433b915253eac9242b6b8f0fc499eb6" sha256="9b0bb8da92bd3aaf18609226897c380f0fb7ac228bc0896eae8919d699bb1fc7"/>
+	</game>
+	<game name="SpongeBob SquarePants - SpongeBob to Nakama-tachi (Japan) (Multiplayer) (DS Broadcast)" id="0597">
+		<category>Games</category>
+		<description>SpongeBob SquarePants - SpongeBob to Nakama-tachi (Japan) (Multiplayer) (DS Broadcast)</description>
+		<rom name="SpongeBob SquarePants - SpongeBob to Nakama-tachi (Japan) (Multiplayer) (DS Broadcast).bcn" size="856" crc="311beeb2" md5="435636dd680cbf344e76c9812d70bf11" sha1="07d683e5f7093002a97931780d60132856fa4284" sha256="8839d48190675a7e8cac0d1458618c52948bccc4c29b0c5c3e03a02a86bf09fa"/>
+		<rom name="SpongeBob SquarePants - SpongeBob to Nakama-tachi (Japan) (Multiplayer) (DS Broadcast).nds" size="1797832" crc="f2526ee4" md5="34e5bdf5a83a545ad3ff18a309f68835" sha1="672d60aa24bdb2de35514bd31c66c72fc2bd1de1" sha256="1c70eec2eb536160f8bc779fbc396367c199f5924b423e8f220ef6b3ea526137"/>
+	</game>
+	<game name="Tamagotch no Narikiri Challenge - Caesar Salad (Japan) (Save Data)" id="0101">
+		<category>Games</category>
+		<description>Tamagotch no Narikiri Challenge - Caesar Salad (Japan) (Save Data)</description>
+		<rom name="Tamagotch no Narikiri Challenge - Caesar Salad (Japan) (Save Data).bcn" size="856" crc="0bc1c409" md5="e4011dc426c2cfd9a70870ca2539729f" sha1="edcb1395740a110399964d295c3d4da80949e527" sha256="7f4f2d7bd88e0611b9b515b74d71909c7aa344c8d1490b7369ab6fa4f86f0026"/>
+		<rom name="Tamagotch no Narikiri Challenge - Caesar Salad (Japan) (Save Data).bin" size="1579028" crc="56ad971c" md5="ac4d0b9b2394b1398c4426aa51ec5794" sha1="ee8959e1686e7986cc04f6d3ae36f35f65b2d37d" sha256="c0f4a1df2e1965fec8a949caa9f84fd24b7975d817cdb836c054e3c83e5aa903"/>
+		<rom name="Tamagotch no Narikiri Challenge - Caesar Salad (Japan) (Save Data).nds" size="1578696" crc="28bc1a5f" md5="9cda6fb9eb9912fbaef56912e07b355e" sha1="84bbe4581cea243bf9ea6b94584bfbd4ce7fca9b" sha256="6fdc3692048eff91f7a602a9e596ba4b5238b3944a7903edcc275a3bcf911cae"/>
+	</game>
+	<game name="Tamagotch no Narikiri Challenge - Hip Hop Ishou C (Japan) (Save Data)" id="0102">
+		<category>Games</category>
+		<description>Tamagotch no Narikiri Challenge - Hip Hop Ishou C (Japan) (Save Data)</description>
+		<rom name="Tamagotch no Narikiri Challenge - Hip Hop Ishou C (Japan) (Save Data).bcn" size="856" crc="f30e39c3" md5="c5bec0352c834bf4d3945986156fcb45" sha1="2feb35aa3917ad4f36fa85fa70dfcf9d58733d25" sha256="0e530ef53a603c1445857faac1626e73123c592d3e495c16458df92f2569d1fb"/>
+		<rom name="Tamagotch no Narikiri Challenge - Hip Hop Ishou C (Japan) (Save Data).bin" size="1578516" crc="be2eb6fa" md5="7ad1a5b57a4c5709744448199d43397c" sha1="270ea8325e477dfd021885389e004f8a07a473b2" sha256="ee04b042b6c6ec078b9d0e007e0794afdb39535298f38f09be0669cb03958392"/>
+		<rom name="Tamagotch no Narikiri Challenge - Hip Hop Ishou C (Japan) (Save Data).nds" size="1578184" crc="fde8fa4c" md5="41c78735c18db4e6ba6713b49c1706dd" sha1="d2f30cbb92ceaa9dd1d59f2eb2d5bce0ef09e462" sha256="d9d4b3ddbe6a7b8eac08901692513a6c0375fefc7492145e4f8cd80ac509196c"/>
+	</game>
+	<game name="Tamagotch no Narikiri Challenge - Tamagotch Donut (Japan) (Save Data)" id="0103">
+		<category>Games</category>
+		<description>Tamagotch no Narikiri Challenge - Tamagotch Donut (Japan) (Save Data)</description>
+		<rom name="Tamagotch no Narikiri Challenge - Tamagotch Donut (Japan) (Save Data).bcn" size="856" crc="fb168f44" md5="c8469c9d7e332bca2a190ab4906089e8" sha1="235f62bda954d7ff560b1947b2328fda1f166875" sha256="d5e002ab709c9690142a5c32e8571dcd293fcdfdb9022e47dd921f45169d2d97"/>
+		<rom name="Tamagotch no Narikiri Challenge - Tamagotch Donut (Japan) (Save Data).bin" size="1579028" crc="7cfc0011" md5="4680151005748c4c124fc74324d5533e" sha1="74069abd7038b3206b3dc0ca03cd8b0c39421e1b" sha256="b26127e44f75aa1f047456b2badeb7e93e7051fbaae2326bdd472334528138c0"/>
+		<rom name="Tamagotch no Narikiri Challenge - Tamagotch Donut (Japan) (Save Data).nds" size="1578696" crc="69e6e888" md5="c2ddcbb1d56afd5a5f440abc8d17564a" sha1="a823ddbd7551bc759d6e36cf43faf4154c96ac18" sha256="ed6f6a337ef9716addc3d74618b0dcdae715fda4d37b6b96c01aee558cb7a9f9"/>
+	</game>
+	<game name="Tamagotch no Narikiri Channel - Maaboo Doufu (Japan) (Save Data)" id="0343">
+		<category>Games</category>
+		<description>Tamagotch no Narikiri Channel - Maaboo Doufu (Japan) (Save Data)</description>
+		<rom name="Tamagotch no Narikiri Channel - Maaboo Doufu (Japan) (Save Data).bcn" size="856" crc="6cecc3f6" md5="9bcc15e042225b557d293602a9d8f034" sha1="250e90bfb61aa78fa8b42f99f7575f565329a157" sha256="e995ca424a3746312bbde1dbc348dfd9dc05fa76dd88b9210dfc3111b8ac3323"/>
+		<rom name="Tamagotch no Narikiri Channel - Maaboo Doufu (Japan) (Save Data).bin" size="1737236" crc="3620a1b8" md5="0fac2e02b73cbd2d6c96f38cec1fd61f" sha1="e3791061aa0070eb34d1c1f6b2b23eab944312e9" sha256="33654751870e7f1180458b2b613d3e9a05506d5bab66301144f08a7aad5fd2ec"/>
+		<rom name="Tamagotch no Narikiri Channel - Maaboo Doufu (Japan) (Save Data).nds" size="1736904" crc="42067909" md5="a2402e0e7ebe037610da1e69360eaa02" sha1="59ecf6d271bcf4ca5a10213be09c273bad47b661" sha256="22f6ffc7231e6c1d7de2732cef8018a385b5f5a64091d89c55c1181c3ff1a5c3"/>
+	</game>
+	<game name="Tamagotch no Narikiri Channel - Osushi (Japan) (Save Data)" id="0345">
+		<category>Games</category>
+		<description>Tamagotch no Narikiri Channel - Osushi (Japan) (Save Data)</description>
+		<rom name="Tamagotch no Narikiri Channel - Osushi (Japan) (Save Data).bcn" size="856" crc="c58763e1" md5="3dbc6fbb0063375c7b0a1283a864ea41" sha1="3b87ee42cbbbff9ac0198e48f35bebacb0d34247" sha256="56d7cc17cbae51c29c4970885baca419649741db173747331859a1030a5deec8"/>
+		<rom name="Tamagotch no Narikiri Channel - Osushi (Japan) (Save Data).bin" size="1737236" crc="6b833e98" md5="1dac50dc35aec1772f7f4a933cdc848f" sha1="469cc589add2fd34a6fd1810d8039b8b25904e30" sha256="c547d4ee1baef477fcb01e001487cfee3b196391c87b0737978f9d0b01eeffdf"/>
+		<rom name="Tamagotch no Narikiri Channel - Osushi (Japan) (Save Data).nds" size="1736904" crc="42c29460" md5="185552528618d8aff297aec4b3070090" sha1="3cb233170e0ab2e08bfb0a245060b553f2303cfb" sha256="b870416646a66e5d6fdf758a297a350732c79bd90bbfd5040d69d3db29f4745d"/>
+	</game>
+	<game name="Tamagotch no Narikiri Channel - Santa Claus (Japan) (Save Data)" id="0344">
+		<category>Games</category>
+		<description>Tamagotch no Narikiri Channel - Santa Claus (Japan) (Save Data)</description>
+		<rom name="Tamagotch no Narikiri Channel - Santa Claus (Japan) (Save Data).bcn" size="856" crc="45316e18" md5="a8f8d0916e6a890a35d612990d3b8424" sha1="48032995ca2a0f305b0967ad94327a83cbc15ef3" sha256="59d15d11f2eeb159f53a1a9e7fb0d56a13f976f8e68a17c4c7b84fa84ae55526"/>
+		<rom name="Tamagotch no Narikiri Channel - Santa Claus (Japan) (Save Data).bin" size="1737236" crc="dfb90e78" md5="1696e9d8bda2df8c4eabeac2051d7791" sha1="78eecf650c5acf9c155d4e155c6b9ea2e888049e" sha256="69b43d1025c90133cfcdcd7f8fb25c9870823b0721d465626e643e48b842fb53"/>
+		<rom name="Tamagotch no Narikiri Channel - Santa Claus (Japan) (Save Data).nds" size="1736904" crc="b24137b1" md5="b8ad97d0ee967bf87c1a7702d082dcda" sha1="03fa81fe14ddd19f66819108b2333e92add32273" sha256="89c5d05fc18449a37ead3ede68ff4494066e98397d8b0a3545831738fae67d98"/>
+	</game>
+	<game name="Taun-eulo - Nolleogayo Dongmul-ui Sup - Moving Van (Korea) (Wii Broadcast)" id="0388">
+		<category>Games</category>
+		<description>Taun-eulo - Nolleogayo Dongmul-ui Sup - Moving Van (Korea) (Wii Broadcast)</description>
+		<rom name="Taun-eulo - Nolleogayo Dongmul-ui Sup - Moving Van (Korea) (Wii Broadcast).nds" size="365256" crc="b319dcc3" md5="877fd5d07ff2a18a2a056e19c5e0e786" sha1="4472ca59b41fac3e3d7b45a26bd05e8b597ff1f0" sha256="0cc41648409872a3985a98a95756ac077e66d18705cb4ed14ac65c1b52957095"/>
+	</game>
+	<game name="Taun-eulo - Nolleogayo Dongmul-ui Sup - Suitcase (Korea) (Wii Broadcast)" id="0387">
+		<category>Games</category>
+		<description>Taun-eulo - Nolleogayo Dongmul-ui Sup - Suitcase (Korea) (Wii Broadcast)</description>
+		<rom name="Taun-eulo - Nolleogayo Dongmul-ui Sup - Suitcase (Korea) (Wii Broadcast).nds" size="366792" crc="cad88040" md5="c4523a34a1916d558e9202fbb65fd553" sha1="c928f18824033da3e6581f76fd2b2f55a8b2bc45" sha256="7bc477c3171339c0951020e6cb84bb37c2bfd13b4c2e73ae6662496a24a26f88"/>
+	</game>
+	<game name="Tentai-Show, The (Japan) (Nintendo Game Seminar 2010)" id="0049">
+		<category>Games</category>
+		<description>Tentai-Show, The (Japan) (Nintendo Game Seminar 2010)</description>
+		<rom name="Tentai-Show, The (Japan) (Nintendo Game Seminar 2010).bcn" size="856" crc="ee0530b4" md5="5352c4f75dc3ff41ba82f9fb7f704463" sha1="fd15b45599b6fbacfe2c2383aa9aa0393939e6f8" sha256="6507f8a565a959adfe2284270f65b329a0f176be6514901081ccb595690fd01d"/>
+		<rom name="Tentai-Show, The (Japan) (Nintendo Game Seminar 2010).bin" size="2157588" crc="12f48e8c" md5="28008f44fda9691491069f61f4451fbc" sha1="58be26b400bdf4ac803069f891a5cd3779abf75e" sha256="880fd7a6189fc03827205e4de2cce1309b391cb3f76821aac05b0a253d216fc8"/>
+		<rom name="Tentai-Show, The (Japan) (Nintendo Game Seminar 2010).nds" size="2157256" crc="6031e574" md5="4aed6d03c41e8f9fbc92d6197c5f4d00" sha1="7524fd7f4d95762cb4424f8d0d77f87417a5b533" sha256="891a379f552f205234b299cd1b8febf40a7b26fb7db2f4ae6f5f512e109aba04"/>
+	</game>
+	<game name="Tentsunagi (Japan) (Rev 1) (Nintendo Game Seminar 2009)" id="0045">
+		<category>Games</category>
+		<description>Tentsunagi (Japan) (Rev 1) (Nintendo Game Seminar 2009)</description>
+		<rom name="Tentsunagi (Japan) (Rev 1) (Nintendo Game Seminar 2009).bcn" size="856" crc="fd485bce" md5="786523e75655b39efe9f512982add29b" sha1="50ba89c82be942a10acd8fd5c67c12b4c8b016c4" sha256="8c02d87a95dec82b9081bfa1ea8472b387346f4640900b28923cc6aeec5c3a89"/>
+		<rom name="Tentsunagi (Japan) (Rev 1) (Nintendo Game Seminar 2009).bin" size="1277460" crc="1788e922" md5="c74503c5356e2303862c5e736b3739c9" sha1="5fb66d5fdd26806a1082ab68a43fb6feda28d634" sha256="48bfb966cc46a73ee1a2ed7cf2e83f23b59ac3f89ded4fad772eff50285ab514"/>
+		<rom name="Tentsunagi (Japan) (Rev 1) (Nintendo Game Seminar 2009).nds" size="1277128" crc="6100a85e" md5="a1a4b608317ecd2a64e37ff5811a5235" sha1="b8d6987f6dddd46b894d2e6560b38cb5313a80bc" sha256="140adff279eb2648d90f91a561df4f585e3035db166b7443b928fb804f25e0e8"/>
+	</game>
+	<game name="Tetris Party Deluxe - Multiplayer (USA) (DS Broadcast)" id="0585">
+		<category>Games</category>
+		<description>Tetris Party Deluxe - Multiplayer (USA) (DS Broadcast)</description>
+		<rom name="Tetris Party Deluxe - Multiplayer (USA) (DS Broadcast).bcn" size="856" crc="7d1071ce" md5="2d2da6ec9daca2cd650573870ecb1752" sha1="2204154a2db907a4ecf0716a01fdcfcc5c6b0ad9" sha256="b6cc889a1eadb020bf431b82e0eff61c32e865156b09492b8e5539b78f07ad72"/>
+		<rom name="Tetris Party Deluxe - Multiplayer (USA) (DS Broadcast).nds" size="2552520" crc="236f90da" md5="ba7a5457383bdf96f32ed92be6f98943" sha1="5ac85a919f13ee532b0898bdd3396bb12dcfde05" sha256="b2a3b04fc43c5e84694a2d3f2b049c441cc8ae14e3dc05e65b0ffbb625e56538"/>
+	</game>
+	<game name="Tetris Party Premium - Multiplayer (Japan) (DS Broadcast)" id="0590">
+		<category>Games</category>
+		<description>Tetris Party Premium - Multiplayer (Japan) (DS Broadcast)</description>
+		<rom name="Tetris Party Premium - Multiplayer (Japan) (DS Broadcast).bcn" size="856" crc="5957a3dc" md5="98dd05d2ba8bfc5db22655c6980a87d4" sha1="07747d4531090a9e1cdbac78684b55af77e2b72a" sha256="087c90a30fae6b48449137bc02c7d3b864eb699cb4a59ac45a16d419a815d16f"/>
+		<rom name="Tetris Party Premium - Multiplayer (Japan) (DS Broadcast).nds" size="2520776" crc="7b20e8b7" md5="604fcce7733c46bc08d47d1c326be245" sha1="67edcca587f108af1eb62e6cdaa855cd6512038b" sha256="918bf262c78f5375f1d189b745bf8541b57bf9cd99bb367dd42e7107e5a7285a"/>
+	</game>
+	<game name="Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training - Taisen Training (Japan) (Multiplayer) (DS Broadcast)" id="0430">
+		<category>Games</category>
+		<description>Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training - Taisen Training (Japan) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training - Taisen Training (Japan) (Multiplayer) (DS Broadcast).bcn" size="856" crc="b3f76b29" md5="5d7f299d9605f2674dabe4a1bf2d15cc" sha1="2ab846eaf1671dd1b43fe90622de14efedb3d3d4" sha256="b492ccfca2dc284216b141144088db1bfc78c919bf83fc38710a8a7277d332a7"/>
+		<rom name="Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Motto Nou o Kitaeru Otona no DS Training - Taisen Training (Japan) (Multiplayer) (DS Broadcast).nds" size="1738952" crc="5a5c3fe8" md5="bfd83a94c68f07421e0e80fdc305ca51" sha1="83ce10d27dc402b06014803e5f7bfd377ba54e7e" sha256="83636a4af5fd3018f372a145e971cb500662ce97d9c6c77de135b8c22a5d27c2"/>
+	</game>
+	<game name="Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training - Taisen Keisan 30 (Japan) (Multiplayer) (DS Broadcast)" id="0412">
+		<category>Games</category>
+		<description>Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training - Taisen Keisan 30 (Japan) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training - Taisen Keisan 30 (Japan) (Multiplayer) (DS Broadcast).bcn" size="856" crc="546efc2a" md5="163c6963c1ff5ccefa65b51ceec7f20e" sha1="914f60d6b5b4925029925c0317cd85dd29ac52ff" sha256="bd44f45ec95ea49314c77db2939b7f3fe751d49183138689c434593e7abb87af"/>
+		<rom name="Touhoku Daigaku Mirai Kagaku Gijutsu Kyoudou Kenkyuu Center - Kawashima Ryuuta Kyouju Kanshuu - Nou o Kitaeru Otona no DS Training - Taisen Keisan 30 (Japan) (Multiplayer) (DS Broadcast).nds" size="1099976" crc="5f08ac27" md5="b46b8d0940829012378e5d2e8c94e379" sha1="394a7c31f6cd415d5e010be4e8518098a8d8b391" sha256="2efc81050a1b8597fa6599b2e6295ada0712ceb394a62b9547afcb5457709cf2"/>
+	</game>
+	<game name="Unou no Tatsujin - GunBulleTrainer - Multiplayer (Japan) (DS Broadcast)" id="0773">
+		<category>Games</category>
+		<description>Unou no Tatsujin - GunBulleTrainer - Multiplayer (Japan) (DS Broadcast)</description>
+		<rom name="Unou no Tatsujin - GunBulleTrainer - Multiplayer (Japan) (DS Broadcast).bcn" size="856" crc="11f06790" md5="bd86237d4ca96ba32c18c1e5d4f8dfdb" sha1="b82bbcc0447e322ef2645fb45ff9dbe3929d2788" sha256="56d52b5ae2642f0609208b97e45f4d983ae329c7718f124f032f2b03947e8809"/>
+		<rom name="Unou no Tatsujin - GunBulleTrainer - Multiplayer (Japan) (DS Broadcast).nds" size="1069192" crc="00197447" md5="fd76e19640312d3b30f1faae08289d7f" sha1="64475c541dc04ce5f381e4b2f2ee99bb5c6b230c" sha256="d9d22ce6d04a29d4ed7ca4e7ff63229547583fc0f33e32bceb8c3635e2cb4e18"/>
+	</game>
+	<game name="Zelda no Densetsu - Daichi no Kiteki (Japan) (Multiplayer) (DS Broadcast)" id="0564">
+		<category>Games</category>
+		<description>Zelda no Densetsu - Daichi no Kiteki (Japan) (Multiplayer) (DS Broadcast)</description>
+		<rom name="Zelda no Densetsu - Daichi no Kiteki (Japan) (Multiplayer) (DS Broadcast).bcn" size="856" crc="eadb9f46" md5="4886386216ed37dcb15649f4cb294a8c" sha1="e9e0f11b1b7ae9d9254390a9eaab86ad60f73db8" sha256="454979cf675e747037d1a4f91f8d9ae2bd81992b5915122195267e76d7ac25ac"/>
+		<rom name="Zelda no Densetsu - Daichi no Kiteki (Japan) (Multiplayer) (DS Broadcast).nds" size="2574476" crc="359179ca" md5="5fe39533ab1a9eed10b5bf95e46549ba" sha1="d9f7dcca7384ef0a1aca25366fd56120df9a42cb" sha256="a04efd5c07af02b4dfc8543196f98158638a6e8bb7ef43bd29ad0104e07a5a62"/>
+	</game>
+</datafile>

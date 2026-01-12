@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>Nintendo - Nintendo DSi (Encrypted) (Retool)</name>
+		<description>Nintendo - Nintendo DSi (Encrypted) (6) (-y) [-aAbBcdkmMpPuv] (20251108-084929) (Retool)</description>
+		<version>20251108-084929</version>
+		<date>2026-01-12 04-04-31</date>
+		<author>aci68, buckwheat, DeadSkullzJr, Densetsu, einstein95, Hiccup, jimmsu, kazumi213, PPLToast, rarenight, relax, SonGoku, xprism, xuom2, zg</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"></clrmamepro>
+		<retool>Created by Retool 2.4.8</retool>
+	</header>
+	<game name="Face Training (Europe) (En,Fr,De,Es,It)" id="0009">
+		<category>Games</category>
+		<description>Face Training (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Face Training (Europe) (En,Fr,De,Es,It).dsi" size="134217728" crc="a67fc78e" md5="fbadb8ff08d3303c7339928808f2c1a8" sha1="943f64fc047d20657d5fad29eea8ad92815998fb" sha256="f3645211b7aca25b517821e4ac3a5ca0006ef04b8ee2748c49caf282f9abfb7d"/>
+	</game>
+	<game name="Foto Showdown (USA)" id="0005">
+		<category>Games</category>
+		<description>Foto Showdown (USA)</description>
+		<rom name="Foto Showdown (USA).dsi" size="33554432" crc="7779cbc4" md5="fae7451386da087d2842ac4c62a8838c" sha1="040ae5cb3bad8b661d4d530f6dcd2b0ee39ba534" sha256="adb4e2fed7d9ef816fbc9571306f712b83240857558016cb04c7d1f6cc099592"/>
+	</game>
+	<game name="Hidden Photo (Europe) (En,Fr,Es,It)" id="0007">
+		<category>Games</category>
+		<description>Hidden Photo (Europe) (En,Fr,Es,It)</description>
+		<rom name="Hidden Photo (Europe) (En,Fr,Es,It).dsi" size="33554432" crc="8861d260" md5="e6710cb05626e928ca06d2eb4c16ec31" sha1="0e1f0e49149dcc8bc522c680a4948ca908a76b52" sha256="9cdb3b7bf5eb92c28721b01bb9cbf16ab79d7a703a17e40302e0a8a5f65fc5aa"/>
+	</game>
+	<game name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)" id="z002">
+		<category>Games</category>
+		<description>NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="NOE Movie Player Vol.1 (Europe) (En,Fr,De,Es,It).dsi" size="268435456" crc="c2b2f5db" md5="82c6fb4bded0eae18f453385697c4aeb" sha1="2c0575c20a2150d3381d843f2babe7c4b6fc10c4"/>
+	</game>
+	<game name="Picture Perfect Hair Salon (USA) (En,Fr,Es)" id="0003">
+		<category>Games</category>
+		<description>Picture Perfect Hair Salon (USA) (En,Fr,Es)</description>
+		<rom name="Picture Perfect Hair Salon (USA) (En,Fr,Es).dsi" size="33554432" crc="77eaca34" md5="54ba5865d961075de68e9d9137948008" sha1="b3a01ffc332fdf8e1bda427c774193dd5dc79a32" sha256="c08283f1c7420ac721646ee8b87e8e99771ca27c1f45e3e5fdac105f6dc0e1b8"/>
+	</game>
+	<game name="System - Flaw (USA) (En,Fr,Es)" id="0004">
+		<category>Games</category>
+		<description>System - Flaw (USA) (En,Fr,Es)</description>
+		<rom name="System - Flaw (USA) (En,Fr,Es).dsi" size="33554432" crc="a7e5e0b8" md5="42b6408a8ad39ba72e373056387e8d73" sha1="1d644465d6547a4a69aa82eabccae6e51e9cff1e" sha256="27a177e768e3d8a909b0bef4cad6caf20de7aaed770418c406b3a3bb2326ce9f"/>
+	</game>
+</datafile>

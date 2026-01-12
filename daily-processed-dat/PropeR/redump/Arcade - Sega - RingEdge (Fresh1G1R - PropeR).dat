@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main/datafile.dtd">
+<datafile>
+	<header>
+		<name>Arcade - Sega - RingEdge (Retool)</name>
+		<description>Arcade - Sega - RingEdge (19) (-y) [-aAbBcdkmMpPuv] (2025-11-09 01-52-37) (Retool)</description>
+		<version>2025-11-09 01-52-37</version>
+		<date>2026-01-12 04-00-30</date>
+		<author>redump.org</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>http://redump.org/</url>
+		<retool>Created by Retool 2.4.8</retool>
+	</header>
+	<game name="Border Break Scramble (Japan) (No. 2) (Rev A)">
+		<category>Games</category>
+		<description>Border Break Scramble (Japan) (No. 2) (Rev A)</description>
+		<rom name="Border Break Scramble (Japan) (No. 2) (Rev A).iso" size="2657878016" crc="35133227" md5="16215630abd9ddf46a2e2c1769c42c7e" sha1="77fa6e3d1f48298fc11cf4adf42450d39c6c076e"/>
+	</game>
+	<game name="Border Break X Zero (Japan) (No. 1) (Rev C)">
+		<category>Games</category>
+		<description>Border Break X Zero (Japan) (No. 1) (Rev C)</description>
+		<rom name="Border Break X Zero (Japan) (No. 1) (Rev C).iso" size="8318156800" crc="355a4973" md5="a44d3c3f2664be9dfdfd62afb9e7b87e" sha1="bb4d87f9261a8c21809139b6bbe00bc7bf27533b"/>
+	</game>
+	<game name="Ha Sangokushi Taisen (China) (RingWide) (Rev D)">
+		<category>Games</category>
+		<description>Ha Sangokushi Taisen (China) (RingWide) (Rev D)</description>
+		<rom name="Ha Sangokushi Taisen (China) (RingWide) (Rev D).iso" size="1893400576" crc="a8923cf5" md5="3d3184deee6ae69d003f28afc54159f9" sha1="7dd4c114a9b213f9299e7c96a73cfce2147718b8"/>
+	</game>
+	<game name="Ha Sangokushi Taisen 2 (China) (RingWide)">
+		<category>Games</category>
+		<description>Ha Sangokushi Taisen 2 (China) (RingWide)</description>
+		<rom name="Ha Sangokushi Taisen 2 (China) (RingWide).iso" size="2060189696" crc="3d410cfa" md5="cd3e6ac5c28be958c91f2543b8c25e81" sha1="134d7de23776652863df30bebb849d7ff839548f"/>
+	</game>
+	<game name="Hatsune Miku - Project Diva Arcade (Japan) (No. 1) (DVR-5003) (Rev U)">
+		<category>Games</category>
+		<description>Hatsune Miku - Project Diva Arcade (Japan) (No. 1) (DVR-5003) (Rev U)</description>
+		<rom name="Hatsune Miku - Project Diva Arcade (Japan) (No. 1) (DVR-5003) (Rev U).iso" size="7430995968" crc="de9ae6f3" md5="83123073d76fe0e504d7e99b4b1a695f" sha1="e255a18877f88b175fe2a71d09f6fdb8c780ce23"/>
+	</game>
+	<game name="Hatsune Miku - Project Diva Arcade (Japan) (No. 2) (DVR-5003) (Rev U)">
+		<category>Games</category>
+		<description>Hatsune Miku - Project Diva Arcade (Japan) (No. 2) (DVR-5003) (Rev U)</description>
+		<rom name="Hatsune Miku - Project Diva Arcade (Japan) (No. 2) (DVR-5003) (Rev U).iso" size="6040059904" crc="854956e0" md5="2d847d355f64b2dd891d5817529297d4" sha1="41e9b0c2b32de54257b1b2193bd5c949437ae463"/>
+	</game>
+	<game name="Initial D - Arcade Stage 6 AA (Export) (Ja,Zh) (Rev E)">
+		<category>Games</category>
+		<description>Initial D - Arcade Stage 6 AA (Export) (Ja,Zh) (Rev E)</description>
+		<rom name="Initial D - Arcade Stage 6 AA (Export) (Ja,Zh) (Rev E).iso" size="5436637184" crc="2e6d2d7f" md5="22baeb47d5a5357ec18c4e3388a57ccc" sha1="83cc4b61913f7a17441fb346b2f632331b06e3db"/>
+	</game>
+	<game name="Initial D - Arcade Stage 7 AA X (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Initial D - Arcade Stage 7 AA X (Japan) (Rev A)</description>
+		<rom name="Initial D - Arcade Stage 7 AA X (Japan) (Rev A).iso" size="6852378624" crc="2148b808" md5="a6b158bf236e91b232babd665882367b" sha1="57c1feea911fb5d93884b2eb9ccfa16853a6a805"/>
+	</game>
+	<game name="Initial D - Arcade Stage 8 Infinity (Japan) (Rev A)">
+		<category>Games</category>
+		<description>Initial D - Arcade Stage 8 Infinity (Japan) (Rev A)</description>
+		<rom name="Initial D - Arcade Stage 8 Infinity (Japan) (Rev A).iso" size="7271874560" crc="8caa4d70" md5="48dd29842290cfb1bed4d964f1ac8e31" sha1="ab2faa940aba9c90fb86d461c2197ac8b4711aff"/>
+	</game>
+	<game name="Lady Luck (Japan) (RingWide) (DVR-0053)">
+		<category>Games</category>
+		<description>Lady Luck (Japan) (RingWide) (DVR-0053)</description>
+		<rom name="Lady Luck (Japan) (RingWide) (DVR-0053).iso" size="1275068416" crc="c4146ecb" md5="d99f8a1c5b3a56e1bdafa424d9b7068f" sha1="ffb5b20bef4a56bb9f6048d644863a2446a8acad"/>
+	</game>
+	<game name="Let's Go Island 3D (World)">
+		<category>Games</category>
+		<description>Let's Go Island 3D (World)</description>
+		<rom name="Let's Go Island 3D (World).iso" size="2779447296" crc="be14e42e" md5="289afeadcc1a24cff29e5c106f7dd2f5" sha1="0ddebbe8aef351098851ced5dc30d5dea91ae849"/>
+	</game>
+	<game name="Melty Blood Actress Again Current Code (Japan) (RingWide) (Rev D)">
+		<category>Games</category>
+		<description>Melty Blood Actress Again Current Code (Japan) (RingWide) (Rev D)</description>
+		<rom name="Melty Blood Actress Again Current Code (Japan) (RingWide) (Rev D).iso" size="2313027584" crc="ed0f4756" md5="57be99e08c61c6733ab9bdadc139e2ad" sha1="db2b3be51b0695a3afb79969abf7777fbdf19382"/>
+	</game>
+	<game name="Puyo Puyo!! Quest Arcade (Japan) (Rev G)">
+		<category>Games</category>
+		<description>Puyo Puyo!! Quest Arcade (Japan) (Rev G)</description>
+		<rom name="Puyo Puyo!! Quest Arcade (Japan) (Rev G).iso" size="4031381504" crc="1c0b2380" md5="923c01dd081fcbd0b3e287e065898d6b" sha1="8c28de3f12d1d408c7167973580891d1c7ab81ce"/>
+	</game>
+	<game name="Sega Net Mahjong MJ Arcade (Japan) (Rev D)">
+		<category>Games</category>
+		<description>Sega Net Mahjong MJ Arcade (Japan) (Rev D)</description>
+		<rom name="Sega Net Mahjong MJ Arcade (Japan) (Rev D).iso" size="4471750656" crc="26951441" md5="36fcdbf98fa8157f327f44f5274419e8" sha1="ba98078c0de32ef812771ce1b6b55d0139c5868b"/>
+	</game>
+	<game name="Sega Network Taisen Mahjong MJ5 (Japan) (Rev J)">
+		<category>Games</category>
+		<description>Sega Network Taisen Mahjong MJ5 (Japan) (Rev J)</description>
+		<rom name="Sega Network Taisen Mahjong MJ5 (Japan) (Rev J).iso" size="2771058688" crc="27b8b5d1" md5="1cfc7beeb14eabc826d2b9b80718326b" sha1="6b94fd2999fe3eba01469ea207815ad72882ee5a"/>
+	</game>
+	<game name="Sega Network Taisen Mahjong MJ5 R Evolution (Japan) (Rev D)">
+		<category>Games</category>
+		<description>Sega Network Taisen Mahjong MJ5 R Evolution (Japan) (Rev D)</description>
+		<rom name="Sega Network Taisen Mahjong MJ5 R Evolution (Japan) (Rev D).iso" size="4095344640" crc="852f7b53" md5="ae2f5318b2efb3595b089d77e0e1d365" sha1="2d48445b8b8b69ae5b597f6b614526cfdd9ed6d4"/>
+	</game>
+	<game name="Sega Racing Classic (Export) (RingWide) (Rev A)">
+		<category>Games</category>
+		<description>Sega Racing Classic (Export) (RingWide) (Rev A)</description>
+		<rom name="Sega Racing Classic (Export) (RingWide) (Rev A).iso" size="986054656" crc="ed026306" md5="4ba47ff543a5060dee945dbc32e88202" sha1="63bc07b44e32e86aae20f610432cae32d75e9b65"/>
+	</game>
+	<game name="Virtua Tennis 4 (Export) (En,Fr,De,Es,It)">
+		<category>Games</category>
+		<description>Virtua Tennis 4 (Export) (En,Fr,De,Es,It)</description>
+		<rom name="Virtua Tennis 4 (Export) (En,Fr,De,Es,It).iso" size="3526230016" crc="255fe16a" md5="6c4ac17bd5d1911d8b520e2148abd802" sha1="75d3935041765202c4ff8d66abd59ec87484eff4"/>
+	</game>
+	<game name="World Club Champion Football - Intercontinental Clubs 2010-2011 (Japan) (Rev D)">
+		<category>Games</category>
+		<description>World Club Champion Football - Intercontinental Clubs 2010-2011 (Japan) (Rev D)</description>
+		<rom name="World Club Champion Football - Intercontinental Clubs 2010-2011 (Japan) (Rev D).iso" size="5034770432" crc="639d3dcf" md5="9e0afab1c261670a79eb3377a1c50de2" sha1="67745a8c35fadad55dc7550565d3348efa6af323"/>
+	</game>
+</datafile>

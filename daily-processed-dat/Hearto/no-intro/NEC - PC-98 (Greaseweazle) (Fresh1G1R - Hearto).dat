@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>NEC - PC-98 (Greaseweazle) (Retool)</name>
+		<description>NEC - PC-98 (Greaseweazle) (1) (-y) [-aAbBcefkmMoprv] (20231101-162607) (Retool)</description>
+		<version>20231101-162607</version>
+		<date>2026-01-12 03-49-53</date>
+		<author>MeguCocoa, NovaAurora</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"></clrmamepro>
+		<retool>Created by Retool 2.4.8</retool>
+	</header>
+	<game name="Legam (Japan) (Disk 1)" id="0072">
+		<category>Games</category>
+		<description>Legam (Japan) (Disk 1)</description>
+		<rom name="Legam (Japan) (Disk 1).hfe" size="3441152" crc="a9de76cb" md5="f24884ca696d832779f3275bef02da14" sha1="6b718cdae9662b5eda8031877375d3240f106c0a" sha256="b2fe4006807360fb9297ff07545fd0c3fa835f150fb1f14d23876bc9d316e171"/>
+	</game>
+</datafile>
