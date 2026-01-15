@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Game Gear (Retool)</name>
-		<description>Sega - Game Gear (391) (-y) [-aAbBcefkmMoprv] (20260112-201608) (Retool)</description>
-		<version>20260112-201608</version>
-		<date>2026-01-14 04-08-06</date>
+		<description>Sega - Game Gear (391) (-y) [-aAbBcefkmMoprv] (20260113-203503) (Retool)</description>
+		<version>20260113-203503</version>
+		<date>2026-01-15 03-55-35</date>
 		<author>Arctic Circle System, Aringon, BigFred, BitLooter, C. V. Reynolds, fuzzball, Gefflon, Hiccup, jimmsu, kazumi213, nnssxx, omonim2007, Powerpuff, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -106,11 +106,11 @@
 		<description>Baku Baku (USA)</description>
 		<rom name="Baku Baku (USA).gg" size="262144" crc="8d8bfdc4" md5="3ff5a4888076e7a5905bc565563c3692" sha1="f4f31d08e17b9936dea621fef9b38e1cd067bef2" sha256="d5d08aecf88d14bf95048c6ecd00985a5f1b40c9d981250297036fe1af633767"/>
 	</game>
-	<game name="Barbie Super Model (USA) (Proto) (1994-08-25)" id="0026">
+	<game name="Barbie Super Model (USA) (Proto)" id="0026">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Barbie Super Model (USA) (Proto) (1994-08-25)</description>
-		<rom name="Barbie Super Model (USA) (Proto) (1994-08-25).gg" size="262144" crc="03a0ce9e" md5="68ce612e422707b6c0de7508f3d0c8be" sha1="4fabaf794081074ac1a76eb0efc4262efb627610" sha256="1e38a631ea57bc007c76d16544facc4aec7706fad7a10ddd0a6c9d94e05ec980"/>
+		<description>Barbie Super Model (USA) (Proto)</description>
+		<rom name="Barbie Super Model (USA) (Proto).gg" size="262144" crc="03a0ce9e" md5="68ce612e422707b6c0de7508f3d0c8be" sha1="4fabaf794081074ac1a76eb0efc4262efb627610" sha256="1e38a631ea57bc007c76d16544facc4aec7706fad7a10ddd0a6c9d94e05ec980"/>
 	</game>
 	<game name="Batman Forever (World)" id="0028">
 		<category>Games</category>
@@ -835,11 +835,11 @@
 		<description>Lemmings (World)</description>
 		<rom name="Lemmings (World).gg" size="262144" crc="0fde7baa" md5="49d07d8b68d59535d9b51ae5efdbbdac" sha1="5a79b6fa15b7085fc7062945f0e6d469d49871e1" sha256="5dcbc8bf537868f3c745fe12bb65d3e4e75b46db30f802f291358772c6cd2387"/>
 	</game>
-	<game name="Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)" id="0498">
+	<game name="Lemmings 2 - The Tribes (Europe) (Proto)" id="0498">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)</description>
-		<rom name="Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04).gg" size="524288" crc="fbc807e1" md5="bc7abc4f5c8a35a383eed5a4a94de10b" sha1="ad0ce8fc8ce9e5ef9b68b76fb7f3eced4245d5c4" sha256="7e147bdc02e4012545bbe2704f192b40a820de9481351354a186e9ba5b25be09"/>
+		<description>Lemmings 2 - The Tribes (Europe) (Proto)</description>
+		<rom name="Lemmings 2 - The Tribes (Europe) (Proto).gg" size="524288" crc="fbc807e1" md5="bc7abc4f5c8a35a383eed5a4a94de10b" sha1="ad0ce8fc8ce9e5ef9b68b76fb7f3eced4245d5c4" sha256="7e147bdc02e4012545bbe2704f192b40a820de9481351354a186e9ba5b25be09"/>
 	</game>
 	<game name="Lion King, The (USA, Brazil) (En)" id="0195">
 		<category>Games</category>
@@ -1091,11 +1091,11 @@
 		<description>Ninku Gaiden - Hiroyuki Daikatsugeki (Japan)</description>
 		<rom name="Ninku Gaiden - Hiroyuki Daikatsugeki (Japan).gg" size="524288" crc="9140f239" md5="e9b45d6455e0753b8e0e825a36458253" sha1="23003e39918f855bd37f58b7b8840960cc82196a" sha256="451ad54bc35a6cd726d995958674ab7378eeb52c590d2ca30e5ae02050d05479"/>
 	</game>
-	<game name="Off the Wall (USA) (Proto) (1992-06-28)" id="0507">
+	<game name="Off the Wall (USA) (Proto)" id="0507">
 		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Off the Wall (USA) (Proto) (1992-06-28)</description>
-		<rom name="Off the Wall (USA) (Proto) (1992-06-28).gg" size="262144" crc="71fe9c80" md5="34e7c24068bd2050db6b2e0c2af4d844" sha1="27146e93e62a6cf5fc998fb9a2563b51b21334b4" sha256="52e43f922a728a8d44477b4831a356b00babd2f10342af70bdc2f336c52b0aa8"/>
+		<description>Off the Wall (USA) (Proto)</description>
+		<rom name="Off the Wall (USA) (Proto).gg" size="262144" crc="71fe9c80" md5="34e7c24068bd2050db6b2e0c2af4d844" sha1="27146e93e62a6cf5fc998fb9a2563b51b21334b4" sha256="52e43f922a728a8d44477b4831a356b00babd2f10342af70bdc2f336c52b0aa8"/>
 	</game>
 	<game name="Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)" id="0257">
 		<category>Games</category>
