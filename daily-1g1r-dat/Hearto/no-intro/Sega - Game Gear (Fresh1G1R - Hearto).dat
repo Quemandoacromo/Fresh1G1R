@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Game Gear (Retool)</name>
-		<description>Sega - Game Gear (391) (-y) [-aAbBcefkmMoprv] (20260113-203503) (Retool)</description>
-		<version>20260113-203503</version>
-		<date>2026-01-15 03-55-35</date>
+		<description>Sega - Game Gear (391) (-y) [-aAbBcefkmMoprv] (20260114-193340) (Retool)</description>
+		<version>20260114-193340</version>
+		<date>2026-01-16 03-53-47</date>
 		<author>Arctic Circle System, Aringon, BigFred, BitLooter, C. V. Reynolds, fuzzball, Gefflon, Hiccup, jimmsu, kazumi213, nnssxx, omonim2007, Powerpuff, Psychofox11, psykopat, rarenight, relax, Rifu, root, sCZther, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
