@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>GCE - Vectrex (Retool)</name>
+		<description>GCE - Vectrex (34) (-y) [-aAbBcefkmMoprv] (20251117-141044) (Retool)</description>
+		<version>20251117-141044</version>
+		<date>2026-01-16 10-03-30</date>
+		<author>Arctic Circle System, C. V. Reynolds, Gefflon, Hiccup, kazumi213, Money_114, nnssxx, Psychofox11, psykopat, SonGoku, xuom2</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"></clrmamepro>
+		<retool>Created by Retool 2.4.8</retool>
+	</header>
+	<game name="3D Crazy Coaster (USA)" id="0001">
+		<category>Games</category>
+		<description>3D Crazy Coaster (USA)</description>
+		<rom name="3D Crazy Coaster (USA).vec" size="8192" crc="92709b11" md5="00f768e79d6ebfe9bf920ffec4c5c4f2" sha1="4a833e4869221f832dacb7ef0fb2997c870b7d7f"/>
+	</game>
+	<game name="3D Mine Storm (USA)" id="0002">
+		<category>Games</category>
+		<description>3D Mine Storm (USA)</description>
+		<rom name="3D Mine Storm (USA).vec" size="8192" crc="b2313487" md5="1a81fea8ac1c1d46de7b633814130857" sha1="1731e892da8945fe4945b43847d23960c581682a"/>
+	</game>
+	<game name="3D Narrow Escape (USA)" id="0003">
+		<category>Games</category>
+		<description>3D Narrow Escape (USA)</description>
+		<rom name="3D Narrow Escape (USA).vec" size="8192" crc="050bd949" md5="f79c596a0205c5e7c427cdbbb1e16918" sha1="9e5d23cb7ef111394e1804e105b6dd277c062df6"/>
+	</game>
+	<game name="AnimAction - Advanced Animation (USA)" id="0005">
+		<category>Games</category>
+		<description>AnimAction - Advanced Animation (USA)</description>
+		<rom name="AnimAction - Advanced Animation (USA).vec" size="8192" crc="9f62e167" md5="5e7a5dc59e32f2f63d85ae1f0201113a" sha1="71946be47debae89ad191ac382c2015d6a862072"/>
+	</game>
+	<game name="Armor Attack (World)" id="0006">
+		<category>Games</category>
+		<description>Armor Attack (World)</description>
+		<game_id>284010</game_id>
+		<rom name="Armor Attack (World).vec" size="4096" crc="b7510971" md5="9657037a461eee919462eb6a01879685" sha1="eb76f860130f8cc87826fa931350467760511213"/>
+	</game>
+	<game name="Art Master (USA)" id="0007">
+		<category>Games</category>
+		<description>Art Master (USA)</description>
+		<game_id>284204</game_id>
+		<rom name="Art Master (USA).vec" size="4096" crc="c8e2f247" md5="972972f871916a922f20779deed8a708" sha1="8f35bac5e8e0fc4ad7291bbfe5ae6e693272de06"/>
+	</game>
+	<game name="Bedlam (World)" id="0008">
+		<category>Games</category>
+		<description>Bedlam (World)</description>
+		<game_id>284150</game_id>
+		<rom name="Bedlam (World).vec" size="4096" crc="a2fa649b" md5="268e75778f282d853d77acf42c6c8734" sha1="3ff3fa4feda6d562dedff2a10cfa8679d8318044"/>
+	</game>
+	<game name="Berzerk (USA)" id="0009">
+		<category>Games</category>
+		<description>Berzerk (USA)</description>
+		<game_id>284020</game_id>
+		<rom name="Berzerk (USA).vec" size="4096" crc="eafe2455" md5="640ae7bd4538bad11256999db68de5a0" sha1="e4badd494ed548721328ef869d33ad70e3e522c9"/>
+	</game>
+	<game name="Blitz! - Action Football (World)" id="0012">
+		<category>Games</category>
+		<description>Blitz! - Action Football (World)</description>
+		<game_id>284120</game_id>
+		<rom name="Blitz! - Action Football (World).vec" size="8192" crc="0f11ce0c" md5="94f144c31fd4563f9473ed0563463e54" sha1="60893dfada42cf50c94083d45ad5bd14d0c031c8"/>
+	</game>
+	<game name="Clean Sweep (World)" id="0013">
+		<category>Games</category>
+		<description>Clean Sweep (World)</description>
+		<game_id>284030</game_id>
+		<rom name="Clean Sweep (World).vec" size="4096" crc="f1b1de78" md5="a376d5648e08f348e5965c058c631c6d" sha1="67f8513958c04e936b135740ed4ec6e6fa1763d5"/>
+	</game>
+	<game name="Cosmic Chasm (World)" id="0014">
+		<category>Games</category>
+		<description>Cosmic Chasm (World)</description>
+		<game_id>284050</game_id>
+		<rom name="Cosmic Chasm (World).vec" size="4096" crc="6c1afa52" md5="9b61653ed9dafd4cfb7f9d94404259ac" sha1="56a7f277bf09f94461dda542c04c36266d838b86"/>
+	</game>
+	<game name="Dark Tower (USA) (Proto)" id="0015">
+		<category>Preproduction</category>
+		<description>Dark Tower (USA) (Proto)</description>
+		<rom name="Dark Tower (USA) (Proto).vec" size="12288" crc="9dcfd5b7" md5="db9929b0ad53c97afda065596806bf86" sha1="dbb0b378aacc2a18dfb476aa99ab00d6ab395205"/>
+	</game>
+	<game name="Fortress of Narzod (USA)" id="0017">
+		<category>Games</category>
+		<description>Fortress of Narzod (USA)</description>
+		<game_id>284164</game_id>
+		<rom name="Fortress of Narzod (USA).vec" size="8192" crc="13a35c8a" md5="e65b3262e9447a747d93e0ccb1dbb7df" sha1="286e061331289b031de33725a4966c379c1df47f"/>
+	</game>
+	<game name="Heads-Up - Action Soccer (World)" id="0018">
+		<category>Games</category>
+		<description>Heads-Up - Action Soccer (World)</description>
+		<game_id>284180</game_id>
+		<rom name="Heads-Up - Action Soccer (World).vec" size="8192" crc="e61a7de3" md5="501dd2845432f10e4b9531240f409b8c" sha1="0406c13952fb0bd6adc68298ae163ebc6160484c"/>
+	</game>
+	<game name="HyperChase - Auto Race (World)" id="0019">
+		<category>Games</category>
+		<description>HyperChase - Auto Race (World)</description>
+		<game_id>284040</game_id>
+		<rom name="HyperChase - Auto Race (World).vec" size="4096" crc="4bb13472" md5="7580926ee22f06fd2ccde4b65184715f" sha1="a246f1d94a5b062b60784787a1d6d499b21c10cd"/>
+	</game>
+	<game name="Mail Plane (USA) (Proto) (DA1AC0DB)" id="0047">
+		<category>Preproduction</category>
+		<description>Mail Plane (USA) (Proto) (DA1AC0DB)</description>
+		<rom name="Mail Plane (USA) (Proto) (DA1AC0DB).vec" size="8192" crc="da1ac0db" md5="e6c821917e168b1e6e27bf2b90ad6cfb" sha1="05f56e708f752ca801f8013c7da9b0db01508ba5"/>
+	</game>
+	<game name="Melody Master - Music Composition and Entertainment (USA)" id="0021">
+		<category>Games</category>
+		<description>Melody Master - Music Composition and Entertainment (USA)</description>
+		<game_id>284220</game_id>
+		<rom name="Melody Master - Music Composition and Entertainment (USA).vec" size="8192" crc="afefa29c" md5="80e72d7e1bb06fd5d5a24c93f1b61f14" sha1="58aecc7fb1d26a22b09e9a13d845e4ed12e2449d"/>
+	</game>
+	<game name="Mine Storm II (USA) (Rev 2)" id="0023">
+		<category>Games</category>
+		<description>Mine Storm II (USA) (Rev 2)</description>
+		<rom name="Mine Storm II (USA) (Rev 2).vec" size="4096" crc="f5b3b374" md5="126fecbf4fb09fdb5a3c9af92abaed7c" sha1="1fdcc6e54ae5177bc9cdc79ce616ae3401e5c229"/>
+	</game>
+	<game name="Mr. Boston - Clean Sweep (USA)" id="0046">
+		<category>Games</category>
+		<description>Mr. Boston - Clean Sweep (USA)</description>
+		<rom name="Mr. Boston - Clean Sweep (USA).vec" size="8192" crc="bd4da4c2" md5="1c95cf8fcd2c98db747208ade464a44f" sha1="299841a116e59399af4e74ccae23ddfc078e007b"/>
+	</game>
+	<game name="Pitcher's Duel (USA) (Proto)" id="0024">
+		<category>Preproduction</category>
+		<description>Pitcher's Duel (USA) (Proto)</description>
+		<rom name="Pitcher's Duel (USA) (Proto).vec" size="8192" crc="c25f2e0e" md5="e7bf7de16b01419a819826cce3dc25ee" sha1="f6f26beb20bb364761a9466ff4087c7b9713d048"/>
+	</game>
+	<game name="Polar Rescue (USA)" id="0025">
+		<category>Games</category>
+		<description>Polar Rescue (USA)</description>
+		<rom name="Polar Rescue (USA).vec" size="8192" crc="a7471784" md5="5c1c413e51aa282015807dc60213fd3d" sha1="87248dcd3db51c1ebf3f8e07e21ec021eec0b9be"/>
+	</game>
+	<game name="Pole Position (USA)" id="0028">
+		<category>Games</category>
+		<description>Pole Position (USA)</description>
+		<rom name="Pole Position (USA).vec" size="8192" crc="a00ed3d6" md5="f94173910549038d4d8f329413a5aa54" sha1="8454d472435e7a6a4ca5fe129162480ca6e84b87"/>
+	</game>
+	<game name="Rip Off (World)" id="0030">
+		<category>Games</category>
+		<description>Rip Off (World)</description>
+		<game_id>284060</game_id>
+		<rom name="Rip Off (World).vec" size="4096" crc="34a98132" md5="808e0501990bd01882c102df00f20064" sha1="22f7a490f6f7aaa31e892b03a85178af211f62e3"/>
+	</game>
+	<game name="Scramble (World)" id="0031">
+		<category>Games</category>
+		<description>Scramble (World)</description>
+		<game_id>284070</game_id>
+		<rom name="Scramble (World).vec" size="4096" crc="707c8ffe" md5="95370908561a782edf138df41ccb8f18" sha1="38e38b5c60466146d4648f8929b5ce3a08dcbe0d"/>
+	</game>
+	<game name="Sledge 3D (USA) (Sample)" id="0032">
+		<category>Demos</category>
+		<description>Sledge 3D (USA) (Sample)</description>
+		<rom name="Sledge 3D (USA) (Sample).vec" size="3671" crc="863b89e8" md5="cf6c01b0212e3b2191a97139cf1f427a" sha1="526b347bc02a47c8bda326b1f6da50284127f038"/>
+	</game>
+	<game name="Solar Quest (World)" id="0033">
+		<category>Games</category>
+		<description>Solar Quest (World)</description>
+		<game_id>284080</game_id>
+		<rom name="Solar Quest (World).vec" size="4096" crc="5c4611c8" md5="11a9bd419cf094de8caa8a44d76b69ab" sha1="38072dc491d5c729c06f4c50bc310d361e0ff62a"/>
+	</game>
+	<game name="Space Wars (World)" id="0034">
+		<category>Games</category>
+		<description>Space Wars (World)</description>
+		<game_id>284090</game_id>
+		<rom name="Space Wars (World).vec" size="4096" crc="a3be5aff" md5="2decdf9f55df7fb99761b2fe51425e40" sha1="0c229dd12a55044681585f7fdabd37dbc1243b59"/>
+	</game>
+	<game name="Spike (World)" id="0035">
+		<category>Games</category>
+		<description>Spike (World)</description>
+		<game_id>284170</game_id>
+		<rom name="Spike (World).vec" size="8192" crc="62a61843" md5="5a90ab748f7b220edaf8c1d67e0bfe89" sha1="8bba6705e6f69f55ab6d105eac2fd5b0c0d16d9f"/>
+	</game>
+	<game name="Spinball (World)" id="0036">
+		<category>Games</category>
+		<description>Spinball (World)</description>
+		<game_id>284144</game_id>
+		<rom name="Spinball (World).vec" size="8192" crc="02f41733" md5="ecc143f87a702af7a1786b58a78ace01" sha1="2e8285061530ccadfa2d8d11c374ae244449ebfa"/>
+	</game>
+	<game name="Star Castle (USA)" id="0037">
+		<category>Games</category>
+		<description>Star Castle (USA)</description>
+		<game_id>284194</game_id>
+		<rom name="Star Castle (USA).vec" size="4096" crc="c9039623" md5="1224c9beae22ee7354e4220c46237696" sha1="c9b79f1ba30dcbce5a068b606a97775cf863fe0a"/>
+	</game>
+	<game name="Star Trek - The Motion Picture (USA)" id="0038">
+		<category>Games</category>
+		<description>Star Trek - The Motion Picture (USA)</description>
+		<game_id>284110</game_id>
+		<rom name="Star Trek - The Motion Picture (USA).vec" size="4096" crc="3768d8c3" md5="0b67a6339e9c1d8385e8fdfc48f447bc" sha1="3a2ee61316fb316d9e9efdf5ee405e813475b466"/>
+	</game>
+	<game name="StarHawk (World)" id="0041">
+		<category>Games</category>
+		<description>StarHawk (World)</description>
+		<game_id>284100</game_id>
+		<rom name="StarHawk (World).vec" size="4096" crc="4de1f06b" md5="add42c10019e88f47dd98791f8de3148" sha1="d6b388b3951e34971c1b00c7fdf8dd00ad52df09"/>
+	</game>
+	<game name="Tour De France (USA) (Proto)" id="0043">
+		<category>Preproduction</category>
+		<description>Tour De France (USA) (Proto)</description>
+		<rom name="Tour De France (USA) (Proto).vec" size="8192" crc="bb4791f1" md5="8ce9091361e0884bcd60409fc3301edc" sha1="4f461b0b51c82433e70130eac5494f26239b4453"/>
+	</game>
+	<game name="WebWars (World)" id="0045">
+		<category>Games</category>
+		<description>WebWars (World)</description>
+		<game_id>284134</game_id>
+		<rom name="WebWars (World).vec" size="8192" crc="2ee20103" md5="a398c18b4ce87929471b559b2bc7e79f" sha1="08e2df9f7769c16a4d730adf8d659f8ea4be7f9d"/>
+	</game>
+</datafile>

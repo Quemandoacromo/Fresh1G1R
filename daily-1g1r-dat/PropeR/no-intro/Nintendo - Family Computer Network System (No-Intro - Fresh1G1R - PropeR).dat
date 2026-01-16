@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>Nintendo - Family Computer Network System (Retool)</name>
+		<description>Nintendo - Family Computer Network System (4) (-y) [-aAbBcdkmMpPuv] (20220516-232939) (Retool)</description>
+		<version>20220516-232939</version>
+		<date>2026-01-16 10-16-04</date>
+		<author>Hiccup, relax, togemet2</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"></clrmamepro>
+		<retool>Created by Retool 2.4.8</retool>
+	</header>
+	<game name="JRA-PAT (Japan) (FCN027-05)" id="0004">
+		<category>Games</category>
+		<description>JRA-PAT (Japan) (FCN027-05)</description>
+		<rom name="JRA-PAT (Japan) (FCN027-05).fcn" size="131072" crc="25cb6bdc" md5="d3ed602b6ea6a50d7670699562d4a459" sha1="4f10e531800188ebb1e55660126ec4b5bab88532" sha256="9fae6b04cedda3a5b9db16f50c4647c754186901b00f587b222b10d30f59a4e7"/>
+	</game>
+	<game name="JRA-PAT (Japan) (FCN027-06)" id="0002">
+		<category>Games</category>
+		<description>JRA-PAT (Japan) (FCN027-06)</description>
+		<rom name="JRA-PAT (Japan) (FCN027-06).fcn" size="131072" crc="e4f4fafa" md5="90e2b479a3a9c6ba3a41d60fe1e3f99f" sha1="3951fc1bb2bd44c2e9525d50bdf97b7c5d9f0b9f" sha256="0c6eb91ea117049dc43a4b2306fe8e3909bec270084c72088c5fc5bfb5bb6295"/>
+	</game>
+	<game name="Nomura no Famicom Trade (Japan) (FCN001-03)" id="0001">
+		<category>Games</category>
+		<description>Nomura no Famicom Trade (Japan) (FCN001-03)</description>
+		<rom name="Nomura no Famicom Trade (Japan) (FCN001-03).fcn" size="131072" crc="0c58e729" md5="ef13315bb4cd42892377c028b2cdabbb" sha1="0d420bcf0c5a14886a66fe6f0f890297cca59f97" sha256="2a7114874ae51fc7ff4c4742d8d4ba9c97bbe56b8d869b5c8774ae8c5aaa201a"/>
+	</game>
+	<game name="Super Mario Club (Japan) (FCN000-09 P)" id="0003">
+		<category>Games</category>
+		<description>Super Mario Club (Japan) (FCN000-09 P)</description>
+		<rom name="Super Mario Club (Japan) (FCN000-09 P).fcn" size="131072" crc="28af8896" md5="41270c17731e10c9fb7b7ce8a7ecdb38" sha1="75fdd5d1dc2b158d7fc27e7a5eeff7289a4d8459" sha256="d68a39eff19fd1b32e1fda46da188122067f4e702c54974d853c14f521d51292"/>
+	</game>
+</datafile>

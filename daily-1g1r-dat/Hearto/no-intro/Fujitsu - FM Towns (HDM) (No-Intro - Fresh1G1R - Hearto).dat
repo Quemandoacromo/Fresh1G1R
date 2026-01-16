@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>Fujitsu - FM Towns (HDM) (Retool)</name>
+		<description>Fujitsu - FM Towns (HDM) (9) (-y) [-aAbBcefkmMoprv] (20240623-225613) (Retool)</description>
+		<version>20240623-225613</version>
+		<date>2026-01-16 10-03-25</date>
+		<author>FakeShemp, Gefflon, MeguCocoa, rarenight</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"></clrmamepro>
+		<retool>Created by Retool 2.4.8</retool>
+	</header>
+	<game name="A Ressha de Ikou IV (Japan) (System Disk)" id="0035">
+		<category>Games</category>
+		<description>A Ressha de Ikou IV (Japan) (System Disk)</description>
+		<rom name="A Ressha de Ikou IV (Japan) (System Disk).hdm" size="1261568" crc="469ff718" md5="2557d4ea30fc96d574a2d931d6bf4951" sha1="f9667e06ae1948350bee029e98903216d1cda98f"/>
+	</game>
+	<game name="Air Raider (Japan) (Unl)" id="0040">
+		<category>Games</category>
+		<description>Air Raider (Japan) (Unl)</description>
+		<rom name="Air Raider (Japan) (Unl).hdm" size="1261568" crc="b59eb70b" md5="2cf775ac1c8328d50c5a72e7c559abc7" sha1="464b0be803d03dbe514514242b0fa83bfcabf2e0"/>
+	</game>
+	<game name="Bliss Collection #01 - Whips Ct. 1 (Japan) (Unl)" id="0049">
+		<category>Games</category>
+		<description>Bliss Collection #01 - Whips Ct. 1 (Japan) (Unl)</description>
+		<rom name="Bliss Collection #01 - Whips Ct. 1 (Japan) (Unl).hdm" size="1261568" crc="40f6e006" md5="44e64c216192080573a4facc46fec803" sha1="5792731e65d92832e58f9c92e25ee49c402cfaa8"/>
+	</game>
+	<game name="Bliss Collection #02 - Vips (Japan) (Unl)" id="0050">
+		<category>Games</category>
+		<description>Bliss Collection #02 - Vips (Japan) (Unl)</description>
+		<rom name="Bliss Collection #02 - Vips (Japan) (Unl).hdm" size="1261568" crc="5a046d38" md5="eea8fd0794dba986dbab4bdaf8a118de" sha1="5a7591b4aeff03a2b0d6a0995423647e0be8921b"/>
+	</game>
+	<game name="Bliss Collection #03 - Whips Ct. 2 Pro (Japan) (Unl)" id="0052">
+		<category>Games</category>
+		<description>Bliss Collection #03 - Whips Ct. 2 Pro (Japan) (Unl)</description>
+		<rom name="Bliss Collection #03 - Whips Ct. 2 Pro (Japan) (Unl).hdm" size="1261568" crc="2537528d" md5="0862a1353673371fa3ce1bda442aac6c" sha1="15463f7961f658e1f69781946545edf23719b4b5"/>
+	</game>
+	<game name="Bliss Collection #07 - Whips Ct. 4 (Japan) (Unl)" id="0053">
+		<category>Games</category>
+		<description>Bliss Collection #07 - Whips Ct. 4 (Japan) (Unl)</description>
+		<rom name="Bliss Collection #07 - Whips Ct. 4 (Japan) (Unl).hdm" size="1261568" crc="a4e41cca" md5="735e956c456bae73a6e374edd4d9efe4" sha1="cd3738b5e40c510813a1506653fbb74d9907efba"/>
+	</game>
+	<game name="Exgmaze (Japan) (Unl)" id="0085">
+		<category>Games</category>
+		<description>Exgmaze (Japan) (Unl)</description>
+		<rom name="Exgmaze (Japan) (Unl).hdm" size="1261568" crc="91549a87" md5="c9414bff04e54111cf605752ba55e6aa" sha1="513f70b6b45b0d90491f05c80bcd0af012017299"/>
+	</game>
+	<game name="Sword Edge (Japan) (Sprite Editor) (Unl)" id="0194">
+		<category>Games</category>
+		<description>Sword Edge (Japan) (Sprite Editor) (Unl)</description>
+		<rom name="Sword Edge (Japan) (Sprite Editor) (Unl).hdm" size="1261568" crc="72947abc" md5="1b34c3421548275752ad41789048b5aa" sha1="c5bd8ae472dc54712f9c4094e203dcb908d777ac"/>
+	</game>
+	<game name="Sword Edge (Japan) (Unl)" id="0192">
+		<category>Games</category>
+		<description>Sword Edge (Japan) (Unl)</description>
+		<rom name="Sword Edge (Japan) (Unl).hdm" size="1261568" crc="4d6c28b7" md5="3715273d37b95f553bd323eae0825d15" sha1="a1634b970a22ea6f1b800f7ca55ab762b83f121d"/>
+	</game>
+</datafile>

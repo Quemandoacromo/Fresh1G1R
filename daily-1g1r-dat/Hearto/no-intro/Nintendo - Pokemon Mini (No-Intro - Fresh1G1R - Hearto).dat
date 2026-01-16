@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<name>Nintendo - Pokemon Mini (Retool)</name>
+		<description>Nintendo - Pokemon Mini (24) (-y) [-aAbBcefkmMoprv] (20250407-153358) (Retool)</description>
+		<version>20250407-153358</version>
+		<date>2026-01-16 10-05-25</date>
+		<author>Arctic Circle System, Flashfire42, psykopat, rarenight, relax, SonGoku</author>
+		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"></clrmamepro>
+		<retool>Created by Retool 2.4.8</retool>
+	</header>
+	<game name="Lunch Time (Europe) (Demo) (Pokemon Channel)" id="0002">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Lunch Time (Europe) (Demo) (Pokemon Channel)</description>
+		<rom name="Lunch Time (Europe) (Demo) (Pokemon Channel).min" size="524288" crc="07209931" md5="eb99b9f41563021b3dbe03d1a6ad0c86" sha1="dd882dda93d1bcb9ddbbfd049955d4db9234f8c7" sha256="c5842f8c336523b124d179eef699e993007e13c837807a889ba8c85097d1b52e"/>
+	</game>
+	<game name="Pichu Bros. Mini (Japan)" id="0003">
+		<category>Games</category>
+		<description>Pichu Bros. Mini (Japan)</description>
+		<rom name="Pichu Bros. Mini (Japan).min" size="524288" crc="00d8c968" md5="a587b6f5aa51fc8506ae818127e5d1b3" sha1="6f9bded4842b451102083d181db9deac2a7696e4"/>
+	</game>
+	<game name="Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview)" id="0004">
+		<category>Demos</category>
+		<description>Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview)</description>
+		<rom name="Pichu Bros. Mini - Hoppip's Jump Match (Japan) (Preview).min" size="524288" crc="be22866a" md5="170271a2f4db89d241331805f26a71cf" sha1="1c928c1e989f37751536494e1e843ed01c7f2c93"/>
+	</game>
+	<game name="Pichu Bros. Mini - Netsukikyuu (Japan) (Preview)" id="0005">
+		<category>Demos</category>
+		<description>Pichu Bros. Mini - Netsukikyuu (Japan) (Preview)</description>
+		<rom name="Pichu Bros. Mini - Netsukikyuu (Japan) (Preview).min" size="524288" crc="a22d00a7" md5="63f9e1e524397ce39710fb87ca9ea591" sha1="041b6bea48d316eb63efcf930a9bda0dd3bd6618"/>
+	</game>
+	<game name="Pichu Bros. Mini - Skateboard (Japan) (Preview)" id="0006">
+		<category>Demos</category>
+		<description>Pichu Bros. Mini - Skateboard (Japan) (Preview)</description>
+		<rom name="Pichu Bros. Mini - Skateboard (Japan) (Preview).min" size="524288" crc="dec65262" md5="a9c6c4df7522803d8684d1d03283b7ee" sha1="b36ed9e3c86d37b128bcefbeb6088c4c66f11c52"/>
+	</game>
+	<game name="Pokemon Party Mini (USA)" id="0009">
+		<category>Games</category>
+		<description>Pokemon Party Mini (USA)</description>
+		<rom name="Pokemon Party Mini (USA).min" size="524288" crc="938d3819" md5="e0a064e6d758f958752a49c0ce798388" sha1="ac94ed80d6f857e9530d17cc77c43aa809bf0415" sha256="9c6619a683f76dcb63957d02ac4e812f9148b85e05cc6705b24a8a4e6080b221"/>
+	</game>
+	<game name="Pokemon Party Mini - Baseline Judge (USA) (GameCube)" id="0012">
+		<category>Games</category>
+		<description>Pokemon Party Mini - Baseline Judge (USA) (GameCube)</description>
+		<rom name="Pokemon Party Mini - Baseline Judge (USA) (GameCube).min" size="524288" crc="0cfb4d1c" md5="2dea1b54200cea6389357cda076933e5" sha1="20004ffc01eeb04e72402e70fc97170111aafa6a"/>
+	</game>
+	<game name="Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)" id="0013">
+		<category>Games</category>
+		<description>Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)</description>
+		<rom name="Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube).min" size="524288" crc="ba504497" md5="b8645e28349f7322dbd116785876bb50" sha1="c9a5f335c93e9bacf198b976d430cf798bc517bc"/>
+	</game>
+	<game name="Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)" id="0016">
+		<category>Games</category>
+		<description>Pokemon Party Mini - Ricochet Dribble (USA) (GameCube)</description>
+		<rom name="Pokemon Party Mini - Ricochet Dribble (USA) (GameCube).min" size="524288" crc="3322ed38" md5="21e538081f163dc394a48f17fe5fe39b" sha1="ba1db1745933a941479d885fe0d1b52365b7f817"/>
+	</game>
+	<game name="Pokemon Party Mini - Rocket Start (USA) (GameCube)" id="0017">
+		<category>Games</category>
+		<description>Pokemon Party Mini - Rocket Start (USA) (GameCube)</description>
+		<rom name="Pokemon Party Mini - Rocket Start (USA) (GameCube).min" size="524288" crc="44c5271e" md5="f899cab8f35452f83705484e16fef27a" sha1="840d43fe55e8e056940ff0b7bc6d7e4e11b5e047"/>
+	</game>
+	<game name="Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)" id="0018">
+		<category>Games</category>
+		<description>Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)</description>
+		<rom name="Pokemon Party Mini - Slowking's Judge (Europe) (GameCube).min" size="524288" crc="9fd4d48b" md5="a46b17f221404b64e914535831f36c3a" sha1="e3bd506b97ea94e9291c2fa4e1395e1829bafeaf"/>
+	</game>
+	<game name="Pokemon Pinball Mini (USA, Europe)" id="0021">
+		<category>Games</category>
+		<description>Pokemon Pinball Mini (USA, Europe)</description>
+		<rom name="Pokemon Pinball Mini (USA, Europe).min" size="524288" crc="a0091534" md5="086ec88930aa624a09d470858ccc9911" sha1="3ec1e04de413c22e9034074789ff2c45646ec0ac" sha256="5ac75fd2b6d5dea85e17e5e6131339e0e19eefe978a6f4b7f8700fb28c89cc23"/>
+	</game>
+	<game name="Pokemon Pinball Mini (USA, Europe, Australia) (Demo) (Pokemon Channel)" id="0022">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Pokemon Pinball Mini (USA, Europe, Australia) (Demo) (Pokemon Channel)</description>
+		<rom name="Pokemon Pinball Mini (USA, Europe, Australia) (Demo) (Pokemon Channel).min" size="524288" crc="5248c540" md5="0c765d2edfd62c3949f970defbd845bb" sha1="727b3b17ccbb9f446074dc936f3a422b9d17765f" sha256="72014f19abae806a976073f921e505c899c8862c026669f2e585bbd5ace8bdb0"/>
+	</game>
+	<game name="Pokemon Puzzle Collection (USA) (GameCube Preview)" id="0029">
+		<category>Demos</category>
+		<description>Pokemon Puzzle Collection (USA) (GameCube Preview)</description>
+		<rom name="Pokemon Puzzle Collection (USA) (GameCube Preview).min" size="524288" crc="6f8ae656" md5="f8dd05808312ffa9cf200bf4633821af" sha1="048bb1d30d6ff21be14dd123c52a375e12611238"/>
+	</game>
+	<game name="Pokemon Puzzle Collection (USA, Europe)" id="0028">
+		<category>Games</category>
+		<description>Pokemon Puzzle Collection (USA, Europe)</description>
+		<rom name="Pokemon Puzzle Collection (USA, Europe).min" size="524288" crc="2b348340" md5="1bb47758e8ea1c5ba39acf4a1d10c78e" sha1="9c5fa07cc9f93874b297f759a6c6fd98f6ec6f47" sha256="6c473867e9bad1883307d5372dedfa9443a620423d82ae83b6171fcaaffc291e"/>
+	</game>
+	<game name="Pokemon Puzzle Collection Vol. 2 (Japan)" id="0030">
+		<category>Games</category>
+		<description>Pokemon Puzzle Collection Vol. 2 (Japan)</description>
+		<rom name="Pokemon Puzzle Collection Vol. 2 (Japan).min" size="524288" crc="76a1bbf8" md5="66809741517a2f0809cacd6acdd77b27" sha1="11775bbac2e985ef90d4192ed6322dd3b8352ac9"/>
+	</game>
+	<game name="Pokemon Race Mini (Japan)" id="0031">
+		<category>Games</category>
+		<description>Pokemon Race Mini (Japan)</description>
+		<rom name="Pokemon Race Mini (Japan).min" size="524288" crc="f8c842b5" md5="8b50be4cf91a6a3268f5be5e67120056" sha1="12bfbd2c8a810b49338148feb6162e29a540ac3a"/>
+	</game>
+	<game name="Pokemon Race Mini (Japan) (Preview)" id="0032">
+		<category>Demos</category>
+		<description>Pokemon Race Mini (Japan) (Preview)</description>
+		<rom name="Pokemon Race Mini (Japan) (Preview).min" size="524288" crc="8f731830" md5="c8450d0975c7d64f955e527c617f1b6d" sha1="6b8dbaa68ede37e64a22ee4b1cbb722f038cf5b5"/>
+	</game>
+	<game name="Pokemon Sodateyasan Mini (Japan)" id="0034">
+		<category>Games</category>
+		<description>Pokemon Sodateyasan Mini (Japan)</description>
+		<rom name="Pokemon Sodateyasan Mini (Japan).min" size="524288" crc="d55fc4c8" md5="0eb5e7e191ce056f3ee2c6572bc61906" sha1="3b87d4d61ba3db92190b6ffa055f463adea2363c"/>
+	</game>
+	<game name="Pokemon Tetris (Europe) (En,Fr,De)" id="0035">
+		<category>Games</category>
+		<description>Pokemon Tetris (Europe) (En,Fr,De)</description>
+		<rom name="Pokemon Tetris (Europe) (En,Fr,De).min" size="524288" crc="2fb23527" md5="f100caf74574aeabe5084f3b5c9e03d2" sha1="5fd1198a4725e21629edd4869535b70edfe165d4"/>
+	</game>
+	<game name="Pokemon Zany Cards (USA, Europe)" id="0044">
+		<category>Games</category>
+		<description>Pokemon Zany Cards (USA, Europe)</description>
+		<rom name="Pokemon Zany Cards (USA, Europe).min" size="524288" crc="8a2fc063" md5="28ddb09ed326df90b706aa61a851c732" sha1="f34909ed7d1c1d432819ff774c0767ebfa42fb84" sha256="dc96d606ed54be035e8c3139a0b20d462b7622b15f617ccc6be411dcbd68c921"/>
+	</game>
+	<game name="Snorlax's Lunch Time (Europe) (GameCube)" id="0038">
+		<category>Games</category>
+		<description>Snorlax's Lunch Time (Europe) (GameCube)</description>
+		<rom name="Snorlax's Lunch Time (Europe) (GameCube).min" size="524288" crc="b9324f30" md5="0823b8d49dc88033659f0d4eae114907" sha1="22cc052d900909a9032b7c84a0c7ab7c366a4a57"/>
+	</game>
+	<game name="Togepi no Daibouken (Japan)" id="0040">
+		<category>Games</category>
+		<description>Togepi no Daibouken (Japan)</description>
+		<rom name="Togepi no Daibouken (Japan).min" size="524288" crc="33b3492b" md5="a4eb2facaa5beb947f306ced2bf5cd15" sha1="0f56e0a3e72180b1113b900a6d3e4f8e8f570bb3"/>
+	</game>
+	<game name="Togepi no Daibouken (Japan) (Preview)" id="0041">
+		<category>Demos</category>
+		<description>Togepi no Daibouken (Japan) (Preview)</description>
+		<rom name="Togepi no Daibouken (Japan) (Preview).min" size="524288" crc="8c557c89" md5="4b9f57ac5afc15792de84721066cea8f" sha1="db7d8209594c6e8edee5932f799f36ecf1cfac9f"/>
+	</game>
+</datafile>
