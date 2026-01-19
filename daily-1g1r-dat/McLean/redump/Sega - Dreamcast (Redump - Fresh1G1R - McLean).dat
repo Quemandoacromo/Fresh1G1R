@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (293) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-17 20-56-16) (Retool)</description>
-		<version>2026-01-17 20-56-16</version>
-		<date>2026-01-18 04-02-00</date>
+		<description>Sega - Dreamcast (292) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-18 20-00-08) (Retool)</description>
+		<version>2026-01-18 20-00-08</version>
+		<date>2026-01-19 04-06-31</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3072,30 +3072,6 @@
 		<rom name="SnoCross Championship Racing (USA) (Track 16).bin" size="11416608" crc="a3bd7086" md5="fc3ba73f268bd4a8918e98a092e191b0" sha1="16ec449124e29cf8852c02cc6108e04cab63572e"/>
 		<rom name="SnoCross Championship Racing (USA) (Track 17).bin" size="171987648" crc="b83ba903" md5="505ab2d7c780fb26af7b8aaaa406e7e4" sha1="6b768feed594063e16bccaeb373b08a6d8a78b90"/>
 		<rom name="SnoCross Championship Racing (USA).cue" size="2210" crc="337359c2" md5="469fe3fa1d197e6e436030507aba7fd0" sha1="dd0fd83a064d9dc06078f4ad5955cfa91ed1dc4a"/>
-	</game>
-	<game name="Snow Surfers (Europe)">
-		<category>Games</category>
-		<description>Snow Surfers (Europe)</description>
-		<rom name="Snow Surfers (Europe) (Track 01).bin" size="1058400" crc="0a3ebf95" md5="48d8b730adac21748181a1a2e5c42acc" sha1="d863e15cfba43d8eae8d4131ec6a4d8983a76481"/>
-		<rom name="Snow Surfers (Europe) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
-		<rom name="Snow Surfers (Europe) (Track 03).bin" size="385076496" crc="33a24672" md5="32a2cff8aebec743eb0856ca9eb93419" sha1="5cba9d00755dff0d19e2b2908739b170ddf51def"/>
-		<rom name="Snow Surfers (Europe) (Track 04).bin" size="29719872" crc="ef40675d" md5="9eed9ad8599852319f2c716d79cfe731" sha1="b0144c7b282cffd8dc29cce1e6b9eeecebdc1f20"/>
-		<rom name="Snow Surfers (Europe) (Track 05).bin" size="46790688" crc="9ac508fc" md5="c47cd847bc056125fb6fac35c35458a3" sha1="6f5fdca86ecb30e56124012c3563990e52982a96"/>
-		<rom name="Snow Surfers (Europe) (Track 06).bin" size="35282352" crc="463de3c7" md5="6186dff0e070bc4d5ec3f47f9537ff13" sha1="ff3a47ca6b6e9d45b96d393385896948f0c001bc"/>
-		<rom name="Snow Surfers (Europe) (Track 07).bin" size="48121920" crc="0993d72e" md5="6a063bac5c67ea767e6c1ab28db1803f" sha1="3a9b1779b2f2438a22184e74fc51d99440d8b818"/>
-		<rom name="Snow Surfers (Europe) (Track 08).bin" size="60641616" crc="dfc38f1f" md5="85b79f1f7c1baacf14ec882d5294c023" sha1="8760b62d2aa9f4d674c8599cdf700dffc1c25be0"/>
-		<rom name="Snow Surfers (Europe) (Track 09).bin" size="41256432" crc="907b84d8" md5="7da7261931ae8e1b5fee6b56fec75317" sha1="57c3b27d981a30535694fc675386e874648b96ba"/>
-		<rom name="Snow Surfers (Europe) (Track 10).bin" size="18096288" crc="c3b32d1f" md5="8a4dfe34cf177501ae5d29e3fc0b993a" sha1="28b57291aaf746beeec6c9aa1c5ec91d2ec4b6c6"/>
-		<rom name="Snow Surfers (Europe) (Track 11).bin" size="11407200" crc="22796e68" md5="e7fed1fb789d3a371e37a0792deb0b54" sha1="7a34a9b2fe6cabc297aa7f2af7d9ee186da22c6e"/>
-		<rom name="Snow Surfers (Europe) (Track 12).bin" size="38050656" crc="3a528aa8" md5="de6ba55f46c5d6c31e51f9397f8af516" sha1="4bd814ff2a796794f34bbfb2f7674d4c8015982b"/>
-		<rom name="Snow Surfers (Europe) (Track 13).bin" size="44998464" crc="8ca59268" md5="9389ae61ff552f27bfdf84d1c2c0cfa9" sha1="962e6670c4c1968466ab0a1036145d6f32cf2f5f"/>
-		<rom name="Snow Surfers (Europe) (Track 14).bin" size="52324944" crc="c2e72063" md5="fcbd8ef97dc48cea9c8178ca783eb78b" sha1="8577d499ba24c560f256ea3560e4e93b71166813"/>
-		<rom name="Snow Surfers (Europe) (Track 15).bin" size="32683392" crc="24d435a3" md5="454c51e743877c30bfad8934d5814dde" sha1="7a514ff6e6c9e807d12e20e0c7331d50c304ccd1"/>
-		<rom name="Snow Surfers (Europe) (Track 16).bin" size="57155952" crc="6ba7b5f7" md5="902dd47d226df744442f7d7a17d69456" sha1="73d24ea560a1e7fae92b279acd36ccb9fc2bb714"/>
-		<rom name="Snow Surfers (Europe) (Track 17).bin" size="50189328" crc="e7e2fbca" md5="62b4e43dcabefad882243a20ebb2d835" sha1="1bb50eab5facfb63149639d81da9c37f78498964"/>
-		<rom name="Snow Surfers (Europe) (Track 18).bin" size="40056912" crc="08f81819" md5="4f1bc1ae3000cc979e1bd894274ae6cd" sha1="a0bf1ce9c29f8b54e99a5f19ace792c19f0c2538"/>
-		<rom name="Snow Surfers (Europe) (Track 19).bin" size="193908288" crc="9a981845" md5="3e1d974ea4977dbb1c8f3a43be7619cd" sha1="658501881055bde54a6eba17c531bfa57aa12a9d"/>
-		<rom name="Snow Surfers (Europe).cue" size="2221" crc="e8d78942" md5="9e8cabb577017731567eb0c231a06f7a" sha1="f33519b7d260a071739578b6197356222a3f2d00"/>
 	</game>
 	<game name="Soldier of Fortune (USA)">
 		<category>Games</category>

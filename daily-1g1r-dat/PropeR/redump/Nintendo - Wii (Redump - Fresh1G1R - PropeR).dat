@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii (Retool)</name>
-		<description>Nintendo - Wii (1,663) (-y) [-aAbBcdkmMpPuv] (2026-01-17 15-13-03) (Retool)</description>
+		<description>Nintendo - Wii (1,658) (-y) [-aAbBcdkmMpPuv] (2026-01-17 15-13-03) (Retool)</description>
 		<version>2026-01-17 15-13-03</version>
-		<date>2026-01-18 04-07-31</date>
+		<date>2026-01-19 04-12-06</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1696,11 +1696,6 @@
 		<description>Densha de Go! Shinkansen EX - San'you Shinkansen Hen (Japan)</description>
 		<rom name="Densha de Go! Shinkansen EX - San'you Shinkansen Hen (Japan).iso" size="4699979776" crc="72c59dc2" md5="c484dc988a292c156ac90dabe225fcb8" sha1="3ca97f1c1ca4726192e67c1b41ff9cadb7402b2b"/>
 	</game>
-	<game name="Des Chiffres &amp; Des Lettres - Le Jeu Officiel (France)">
-		<category>Games</category>
-		<description>Des Chiffres &amp; Des Lettres - Le Jeu Officiel (France)</description>
-		<rom name="Des Chiffres &amp; Des Lettres - Le Jeu Officiel (France).iso" size="4699979776" crc="b26a2d99" md5="121c643a8124bf9eaff3e2ca7b1e8331" sha1="e339e48d3371b320f53d14f9515c141e5e23559c"/>
-	</game>
 	<game name="Despicable Me - The Game (USA) (En,Fr,Es)">
 		<category>Games</category>
 		<description>Despicable Me - The Game (USA) (En,Fr,Es)</description>
@@ -1905,11 +1900,6 @@
 		<category>Games</category>
 		<description>Disney's Chicken Little - Ace in Action (USA)</description>
 		<rom name="Disney's Chicken Little - Ace in Action (USA).iso" size="4699979776" crc="409558e8" md5="47490f3e816105dc8ce55e2df7df1119" sha1="6c32d52a7bdeb79addd6d90c840fc7b7156782c8"/>
-	</game>
-	<game name="Disney-Pixar Arabalar 2 (Turkey)">
-		<category>Games</category>
-		<description>Disney-Pixar Arabalar 2 (Turkey)</description>
-		<rom name="Disney-Pixar Arabalar 2 (Turkey).iso" size="4699979776" crc="0a37262e" md5="754ccda9b5243d24b1b066ce1d3047fe" sha1="06bdcede988725a1143e84ff56b308d1451f3e5e"/>
 	</game>
 	<game name="Disney-Pixar Brave (USA) (En,Fr,Es)">
 		<category>Games</category>
@@ -3646,11 +3636,6 @@
 		<description>Just Dance 3 (USA) (En,Fr,Es) (Best Buy) (Rev 1)</description>
 		<rom name="Just Dance 3 (USA) (En,Fr,Es) (Best Buy) (Rev 1).iso" size="4699979776" crc="ddb4a468" md5="3b31d80e903035bf593d1a9673f61667" sha1="d8d5449ffa81f8f67ea98e2953c1b95f41f503f6"/>
 	</game>
-	<game name="Just Dance 3 (USA) (En,Fr,Es) (Target) (Rev 1)">
-		<category>Games</category>
-		<description>Just Dance 3 (USA) (En,Fr,Es) (Target) (Rev 1)</description>
-		<rom name="Just Dance 3 (USA) (En,Fr,Es) (Target) (Rev 1).iso" size="4699979776" crc="a5d13234" md5="ec82a084ea494c7c5e12fe5d455b75c2" sha1="dfd7162d5bf5ef29e10d966491c6b0b17391c339"/>
-	</game>
 	<game name="Just Dance 4 (USA) (En,Fr,Es)">
 		<category>Games</category>
 		<description>Just Dance 4 (USA) (En,Fr,Es)</description>
@@ -5085,11 +5070,6 @@
 		<category>Games</category>
 		<description>Nancy Drew - The White Wolf of Icicle Creek (USA)</description>
 		<rom name="Nancy Drew - The White Wolf of Icicle Creek (USA).iso" size="4699979776" crc="e5964c1a" md5="17e31424f3fb030c8916c41fd60cff15" sha1="b269432bdcc0a41902d0b968a2cd8dcab1539475"/>
-	</game>
-	<game name="Narnia Koku Monogatari - Dai-2-shou - Caspian Ouji no Tsunobue (Japan)">
-		<category>Games</category>
-		<description>Narnia Koku Monogatari - Dai-2-shou - Caspian Ouji no Tsunobue (Japan)</description>
-		<rom name="Narnia Koku Monogatari - Dai-2-shou - Caspian Ouji no Tsunobue (Japan).iso" size="4699979776" crc="97658e91" md5="41d0fced2efbb326dc91e29f15d473bb" sha1="79060b2c0686206b4830ef01125a80288cdd20b7"/>
 	</game>
 	<game name="Naruto - Clash of Ninja Revolution (USA)">
 		<category>Games</category>
@@ -6755,11 +6735,6 @@
 		<category>Games</category>
 		<description>Sin &amp; Punishment - Star Successor (USA)</description>
 		<rom name="Sin &amp; Punishment - Star Successor (USA).iso" size="4699979776" crc="7df9d581" md5="ba9fad8530fac4a7f0c318b6c4036b71" sha1="76de816f77798136c870bd4a57d00eccc61d6cc3"/>
-	</game>
-	<game name="Sin and Punishment - Sora no Koukeisha (Japan)">
-		<category>Games</category>
-		<description>Sin and Punishment - Sora no Koukeisha (Japan)</description>
-		<rom name="Sin and Punishment - Sora no Koukeisha (Japan).iso" size="4699979776" crc="4780998f" md5="fd9f83599cb9962e3ba8137b19454c1f" sha1="cf4225060f76f3d8842a63bcdbe00313bb5cc155"/>
 	</game>
 	<game name="Sing 4 - The Hits Edition (USA) (En,Fr,Es)">
 		<category>Games</category>

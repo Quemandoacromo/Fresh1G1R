@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox (Retool)</name>
-		<description>Microsoft - Xbox (1,142) (-y) [-aAbBcefkmMoprv] (2026-01-12 03-14-41) (Retool)</description>
+		<description>Microsoft - Xbox (1,141) (-y) [-aAbBcefkmMoprv] (2026-01-12 03-14-41) (Retool)</description>
 		<version>2026-01-12 03-14-41</version>
-		<date>2026-01-18 03-55-39</date>
+		<date>2026-01-19 04-00-07</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4236,11 +4236,6 @@
 		<category>Games</category>
 		<description>Sentou Yousei Yukikaze - Yousei no Mau Sora (Japan)</description>
 		<rom name="Sentou Yousei Yukikaze - Yousei no Mau Sora (Japan).iso" size="7825162240" crc="d134aa71" md5="2b8f0b5ae20cdf7776157963f478df4d" sha1="58aa891fec254cb8e359787a4b1f86176a0566c6"/>
-	</game>
-	<game name="Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain)">
-		<category>Games</category>
-		<description>Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain)</description>
-		<rom name="Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain).iso" size="7825162240" crc="3a147cf2" md5="1f487c455435334d7859dfea1d8dfcc6" sha1="60288eed325f4cdb035e9caac617c0b9029ad5a5"/>
 	</game>
 	<game name="Serious Sam (USA)">
 		<category>Games</category>

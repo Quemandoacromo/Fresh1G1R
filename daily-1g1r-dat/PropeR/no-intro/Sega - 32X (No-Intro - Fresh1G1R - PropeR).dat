@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - 32X (Retool)</name>
-		<description>Sega - 32X (34) (-y) [-aAbBcdkmMpPuv] (20260116-211056) (Retool)</description>
-		<version>20260116-211056</version>
-		<date>2026-01-18 04-12-20</date>
-		<author>bikerspade, BitLooter, ElBarto, FakeShemp, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
+		<description>Sega - 32X (34) (-y) [-aAbBcdkmMpPuv] (20260117-211929) (Retool)</description>
+		<version>20260117-211929</version>
+		<date>2026-01-19 04-14-30</date>
+		<author>bikerspade, BitLooter, ElBarto, FakeShemp, Gefflon, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -19,7 +19,7 @@
 	<game name="Amazing Spider-Man, The - Web of Fire (USA)" id="0007">
 		<category>Games</category>
 		<description>Amazing Spider-Man, The - Web of Fire (USA)</description>
-		<rom name="Amazing Spider-Man, The - Web of Fire (USA).32x" size="3145728" crc="29dce257" md5="a60b0838a776966e17a8f10b94baddef" sha1="7cc2ea1e10f110338ad880bd3e7ff3bce72e7e9e"/>
+		<rom name="Amazing Spider-Man, The - Web of Fire (USA).32x" size="3145728" crc="29dce257" md5="a60b0838a776966e17a8f10b94baddef" sha1="7cc2ea1e10f110338ad880bd3e7ff3bce72e7e9e" sha256="567eb80a69ca1fea67f4cb64252e6a23e9bd41c3f9c4c422a6bc04dfb763509d"/>
 	</game>
 	<game name="BC Racers (USA)" id="0008">
 		<category>Games</category>
@@ -29,7 +29,7 @@
 	<game name="Blackthorne (USA)" id="0009">
 		<category>Games</category>
 		<description>Blackthorne (USA)</description>
-		<rom name="Blackthorne (USA).32x" size="3145728" crc="d1a60a47" md5="c238b112113b0297b2b9f4f618d56598" sha1="4bf120cf056fe1417ca5b02fa0372ef33cb8ec11"/>
+		<rom name="Blackthorne (USA).32x" size="3145728" crc="d1a60a47" md5="c238b112113b0297b2b9f4f618d56598" sha1="4bf120cf056fe1417ca5b02fa0372ef33cb8ec11" sha256="ed5da3dfc740881a0467679b8be5505e14282b1a61eff3121f6b714e24ddd9a6"/>
 	</game>
 	<game name="Brutal - Above the Claw (USA)" id="0010">
 		<category>Games</category>
@@ -49,7 +49,7 @@
 	<game name="Doom (Japan, USA) (En)" id="0016">
 		<category>Games</category>
 		<description>Doom (Japan, USA) (En)</description>
-		<rom name="Doom (Japan, USA) (En).32x" size="3145728" crc="208332fd" md5="79339867d9d4f58b169753d9a29ea1a5" sha1="b68e9c7af81853b8f05b8696033dfe4c80327e38"/>
+		<rom name="Doom (Japan, USA) (En).32x" size="3145728" crc="208332fd" md5="79339867d9d4f58b169753d9a29ea1a5" sha1="b68e9c7af81853b8f05b8696033dfe4c80327e38" sha256="0bfa9a1a9341bca5b68f29e0e94e334d9d2f781f84d02d60f51a8be24f12f11c"/>
 	</game>
 	<game name="FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv)" id="0018">
 		<category>Games</category>

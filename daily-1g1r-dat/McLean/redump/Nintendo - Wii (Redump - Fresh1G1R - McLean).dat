@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - Wii (Retool)</name>
-		<description>Nintendo - Wii (1,444) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-17 15-13-03) (Retool)</description>
+		<description>Nintendo - Wii (1,443) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-17 15-13-03) (Retool)</description>
 		<version>2026-01-17 15-13-03</version>
-		<date>2026-01-18 04-01-54</date>
+		<date>2026-01-19 04-06-25</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -3235,11 +3235,6 @@
 		<category>Games</category>
 		<description>Just Dance 3 (USA) (En,Fr,Es) (Best Buy) (Rev 1)</description>
 		<rom name="Just Dance 3 (USA) (En,Fr,Es) (Best Buy) (Rev 1).iso" size="4699979776" crc="ddb4a468" md5="3b31d80e903035bf593d1a9673f61667" sha1="d8d5449ffa81f8f67ea98e2953c1b95f41f503f6"/>
-	</game>
-	<game name="Just Dance 3 (USA) (En,Fr,Es) (Target) (Rev 1)">
-		<category>Games</category>
-		<description>Just Dance 3 (USA) (En,Fr,Es) (Target) (Rev 1)</description>
-		<rom name="Just Dance 3 (USA) (En,Fr,Es) (Target) (Rev 1).iso" size="4699979776" crc="a5d13234" md5="ec82a084ea494c7c5e12fe5d455b75c2" sha1="dfd7162d5bf5ef29e10d966491c6b0b17391c339"/>
 	</game>
 	<game name="Just Dance 4 (USA) (En,Fr,Es)">
 		<category>Games</category>

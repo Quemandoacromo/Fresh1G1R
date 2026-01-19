@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Game Boy Advance (Retool)</name>
-		<description>Nintendo - Game Boy Advance (1,684) (-y) [-aAbBcefkmMoprv] (20260112-164232) (Retool)</description>
-		<version>20260112-164232</version>
-		<date>2026-01-18 03-58-19</date>
+		<description>Nintendo - Game Boy Advance (1,684) (-y) [-aAbBcefkmMoprv] (20260117-013007) (Retool)</description>
+		<version>20260117-013007</version>
+		<date>2026-01-19 04-03-09</date>
 		<author>aci68, Arctic Circle System, Aringon, Bent, BigFred, bikerspade, buckwheat, C. V. Reynolds, chillerecke, DeadSkullzJr, Densetsu, DeriLoko3, einstein95, ElBarto, Enker, FakeShemp, Flashfire42, fuzzball, Gefflon, Hiccup, hking0036, hydr0x, InternalLoss, Jack, jimmsu, Just001Kim, kaos, kazumi213, Larsenv, Lesserkuma, Madeline, MeguCocoa, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, sCZther, smesgr, SonGoku, Tauwasser, Tescu, togemet2, ufocrossing, Vallaine01, Whovian9369, xprism, xuom2, zg</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -5554,7 +5554,7 @@
 	<game name="Pinball Challenge Deluxe (Europe)" id="0482">
 		<category>Games</category>
 		<description>Pinball Challenge Deluxe (Europe)</description>
-		<rom name="Pinball Challenge Deluxe (Europe).gba" size="4194304" crc="bcb204b7" md5="331ce7f78b6a56fa50b9a329b56da658" sha1="49ff583fb49d13046fac5b2a11d9bd00c159fa08"/>
+		<rom name="Pinball Challenge Deluxe (Europe).gba" size="4194304" crc="bcb204b7" md5="331ce7f78b6a56fa50b9a329b56da658" sha1="49ff583fb49d13046fac5b2a11d9bd00c159fa08" sha256="459aa49b369e4f725348992bfd6463aba568a5e1ffc640728889d8558ed73a89"/>
 	</game>
 	<game name="Pinball Tycoon (USA)" id="0793">
 		<category>Games</category>

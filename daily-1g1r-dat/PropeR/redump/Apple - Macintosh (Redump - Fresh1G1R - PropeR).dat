@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Apple - Macintosh (Retool)</name>
-		<description>Apple - Macintosh (613) (-y) [-aAbBcdkmMpPuv] (2026-01-17 14-42-42) (Retool)</description>
+		<description>Apple - Macintosh (605) (-y) [-aAbBcdkmMpPuv] (2026-01-17 14-42-42) (Retool)</description>
 		<version>2026-01-17 14-42-42</version>
-		<date>2026-01-18 04-06-29</date>
+		<date>2026-01-19 04-11-04</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -383,30 +383,6 @@
 		<description>Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 4)</description>
 		<rom name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 4).bin" size="482082384" crc="25b64380" md5="35e6dabfe648b1c62db095848445957c" sha1="3fd8918c9c2a00c71b0e3e6bfaae3e34f3f4a745"/>
 		<rom name="Atlantis - Das sagenhafte Abenteuer (Germany) (Disc 4).cue" size="143" crc="fc4e70f3" md5="280c4d4429e19209aedfd2320253d2bb" sha1="99f5606be176a167da85963c623d611b7c62ae97"/>
-	</game>
-	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 1)">
-		<category>Games</category>
-		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 1)</description>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 1).bin" size="783143088" crc="6d458977" md5="238b962a0bc8cfc70125b5ab35a36807" sha1="5ba7a8df4cf1022552cfb1bda2b94a2745f668ac"/>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 1).cue" size="138" crc="8a845d83" md5="3938b420dd71a6e387da7e5be2284e6b" sha1="231c6f5399ddb115d8020baf78818f1552b51f95"/>
-	</game>
-	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 2)">
-		<category>Games</category>
-		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 2)</description>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 2).bin" size="783143088" crc="b6e7bcc9" md5="c6bc9671333b96fc6915945f936fe7c2" sha1="fe315fd65ed8ad90bf43ffc0d9c27ebd34517bbe"/>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 2).cue" size="115" crc="8544e0f7" md5="a178861983d9bc3ec7d2cac5a7ea9c76" sha1="f7cdc8df437dc0ab8ef0bcb8688ed8a0c9ed19ed"/>
-	</game>
-	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 3)">
-		<category>Games</category>
-		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 3)</description>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 3).bin" size="783143088" crc="eb7d09c1" md5="bb4a3afa7d532c42a8666351a6908c5a" sha1="837a692ca93f8e2a1aaf82573869ea8225372cc9"/>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 3).cue" size="115" crc="335f0087" md5="445ff3f054ec687842d535017c2a6834" sha1="80157e35c88f5db8eecee55ea61626ef2669e3fc"/>
-	</game>
-	<game name="Atlantis - Det foersvunna riket (Sweden) (Disc 4)">
-		<category>Games</category>
-		<description>Atlantis - Det foersvunna riket (Sweden) (Disc 4)</description>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 4).bin" size="482082384" crc="b103f582" md5="0444d9fa199edab283bb3e33e8eae995" sha1="8c2c95e08d5b91f5d2daaf63ca7a7af0f26355f0"/>
-		<rom name="Atlantis - Det foersvunna riket (Sweden) (Disc 4).cue" size="115" crc="87fead55" md5="6ccf322bbbbefdd8baff29292cb2749a" sha1="2854c75221d5e2843b37f745e73edacba83a204b"/>
 	</game>
 	<game name="Baldur's Gate II - Shadows of Amn (USA) (Disc 1)">
 		<category>Games</category>
@@ -1510,24 +1486,6 @@
 		<rom name="Flashback (USA).bin" size="29755152" crc="820d1217" md5="7aba6bb20d8251f5cfd324949e88ca74" sha1="74cd1e2d43418d80ed908944b690f10c2febd7ac"/>
 		<rom name="Flashback (USA).cue" size="81" crc="9c9f8893" md5="8a5dee57f28857ac886dae4cf7239985" sha1="7eb8cf3e809ed2b8b1507eaf3eaeb59c7c7901d6"/>
 	</game>
-	<game name="Fly! (Europe) (Disc 1)">
-		<category>Games</category>
-		<description>Fly! (Europe) (Disc 1)</description>
-		<rom name="Fly! (Europe) (Disc 1).bin" size="639932160" crc="f31b7288" md5="cc11d6f6278dba1c0b45bf643cd47ece" sha1="6c70ba108063a3002f58c83d4246ab4e93d7a839"/>
-		<rom name="Fly! (Europe) (Disc 1).cue" size="88" crc="5cf77890" md5="801d5e06505f8ea310316bd0046bb0a0" sha1="8cfae1ebe6d178dd8e6b7c3d148bdaa669899bd9"/>
-	</game>
-	<game name="Fly! (Europe) (Disc 2)">
-		<category>Games</category>
-		<description>Fly! (Europe) (Disc 2)</description>
-		<rom name="Fly! (Europe) (Disc 2).bin" size="782969040" crc="745428c3" md5="d068306adbb7ade3972ee5cc63defd0c" sha1="42d877cf52c377b3c54871bfb1e18414796cc450"/>
-		<rom name="Fly! (Europe) (Disc 2).cue" size="88" crc="5daa5e41" md5="fb6fd296e6544753d787fe6f226901be" sha1="bb98af92f342a72162627569d45c9707924d3589"/>
-	</game>
-	<game name="Fly! (Europe) (Disc 3)">
-		<category>Games</category>
-		<description>Fly! (Europe) (Disc 3)</description>
-		<rom name="Fly! (Europe) (Disc 3).bin" size="612171504" crc="390d21d1" md5="f93383cc31199c480fd0ceb7e5070f8a" sha1="d69d5decbdae2b5ae706edcaec195ff9a052437c"/>
-		<rom name="Fly! (Europe) (Disc 3).cue" size="88" crc="ebb1be31" md5="e9408ac91a99666c5f1916794a9733ae" sha1="94844ff15d3a5842de88cab9e85b1c3c6aa71e3a"/>
-	</game>
 	<game name="Fly! 2K (USA) (Disc 1) (Program Install)">
 		<category>Games</category>
 		<description>Fly! 2K (USA) (Disc 1) (Program Install)</description>
@@ -2349,12 +2307,6 @@
 		<description>Mac FunPack (USA) (Disc 1)</description>
 		<rom name="Mac FunPack (USA) (Disc 1).bin" size="35835072" crc="98d70f2b" md5="b75e9f41d963a1623a87b1d0273d315d" sha1="e826185667b8810753d211e8ca4b9fb14b829a00"/>
 		<rom name="Mac FunPack (USA) (Disc 1).cue" size="115" crc="d422b3da" md5="57ae1753c06273b23f5aba2a11e55c4e" sha1="19aff26ed14eac3459557b9f5d8fa9593601b4a7"/>
-	</game>
-	<game name="Mac FunPack (USA) (Disc 2)">
-		<category>Games</category>
-		<description>Mac FunPack (USA) (Disc 2)</description>
-		<rom name="Mac FunPack (USA) (Disc 2).bin" size="626302320" crc="baa1e87a" md5="b569883f7af70f386a796e0ea94fc75d" sha1="8686d5a18efb17220e8ddf74922b7e28827db4bd"/>
-		<rom name="Mac FunPack (USA) (Disc 2).cue" size="115" crc="d57f950b" md5="838f9c6a4c196e73cbc29ad86da323cd" sha1="fceb1ebc2afc77b0d5d58d6958ee25ae5ca57ac2"/>
 	</game>
 	<game name="MacPack Blitz (USA) (Disc 4)">
 		<category>Games</category>

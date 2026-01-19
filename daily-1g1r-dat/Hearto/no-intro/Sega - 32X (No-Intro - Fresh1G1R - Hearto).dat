@@ -2,10 +2,10 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - 32X (Retool)</name>
-		<description>Sega - 32X (42) (-y) [-aAbBcefkmMoprv] (20260116-211056) (Retool)</description>
-		<version>20260116-211056</version>
-		<date>2026-01-18 04-00-37</date>
-		<author>bikerspade, BitLooter, ElBarto, FakeShemp, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
+		<description>Sega - 32X (43) (-y) [-aAbBcefkmMoprv] (20260117-211929) (Retool)</description>
+		<version>20260117-211929</version>
+		<date>2026-01-19 04-02-43</date>
+		<author>bikerspade, BitLooter, ElBarto, FakeShemp, Gefflon, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
@@ -19,7 +19,7 @@
 	<game name="Amazing Spider-Man, The - Web of Fire (USA)" id="0007">
 		<category>Games</category>
 		<description>Amazing Spider-Man, The - Web of Fire (USA)</description>
-		<rom name="Amazing Spider-Man, The - Web of Fire (USA).32x" size="3145728" crc="29dce257" md5="a60b0838a776966e17a8f10b94baddef" sha1="7cc2ea1e10f110338ad880bd3e7ff3bce72e7e9e"/>
+		<rom name="Amazing Spider-Man, The - Web of Fire (USA).32x" size="3145728" crc="29dce257" md5="a60b0838a776966e17a8f10b94baddef" sha1="7cc2ea1e10f110338ad880bd3e7ff3bce72e7e9e" sha256="567eb80a69ca1fea67f4cb64252e6a23e9bd41c3f9c4c422a6bc04dfb763509d"/>
 	</game>
 	<game name="BC Racers (USA)" id="0008">
 		<category>Games</category>
@@ -29,7 +29,7 @@
 	<game name="Blackthorne (USA)" id="0009">
 		<category>Games</category>
 		<description>Blackthorne (USA)</description>
-		<rom name="Blackthorne (USA).32x" size="3145728" crc="d1a60a47" md5="c238b112113b0297b2b9f4f618d56598" sha1="4bf120cf056fe1417ca5b02fa0372ef33cb8ec11"/>
+		<rom name="Blackthorne (USA).32x" size="3145728" crc="d1a60a47" md5="c238b112113b0297b2b9f4f618d56598" sha1="4bf120cf056fe1417ca5b02fa0372ef33cb8ec11" sha256="ed5da3dfc740881a0467679b8be5505e14282b1a61eff3121f6b714e24ddd9a6"/>
 	</game>
 	<game name="Brutal - Above the Claw (USA)" id="0010">
 		<category>Games</category>
@@ -55,7 +55,7 @@
 	<game name="Doom (Japan, USA) (En)" id="0016">
 		<category>Games</category>
 		<description>Doom (Japan, USA) (En)</description>
-		<rom name="Doom (Japan, USA) (En).32x" size="3145728" crc="208332fd" md5="79339867d9d4f58b169753d9a29ea1a5" sha1="b68e9c7af81853b8f05b8696033dfe4c80327e38"/>
+		<rom name="Doom (Japan, USA) (En).32x" size="3145728" crc="208332fd" md5="79339867d9d4f58b169753d9a29ea1a5" sha1="b68e9c7af81853b8f05b8696033dfe4c80327e38" sha256="0bfa9a1a9341bca5b68f29e0e94e334d9d2f781f84d02d60f51a8be24f12f11c"/>
 	</game>
 	<game name="Ecco the Dolphin (USA) (Auto Demo)" id="0017">
 		<category>Demos</category>
@@ -76,6 +76,13 @@
 		<category>Games</category>
 		<description>Knuckles' Chaotix (Japan, USA) (En)</description>
 		<rom name="Knuckles' Chaotix (Japan, USA) (En).32x" size="3145728" crc="d0b0b842" md5="47b1095e68b053125cd2cd5b1ac4eb50" sha1="0c2fff7bc79ed26507c08ac47464c3af19f7ced7" sha256="70e1a92a982f2684be3bc315267e545fb9c530d533fd62b6d38bb625541ed957"/>
+	</game>
+	<game name="Knuckles' Chaotix (Japan, USA) (En) (Beta 12)" id="0134">
+		<category>Demos</category>
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>Knuckles' Chaotix (Japan, USA) (En) (Beta 12)</description>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En) (Beta 12).32x" size="3145728" crc="ba0a1108" md5="5e1012438fdeda44b64589fd33daad5f" sha1="af3bfd9540098581aef08664d625725ffcc90be2" sha256="caf7d4adde55371dfd514636262cc07d104253c272857c0d02d55ca887c44a79"/>
 	</game>
 	<game name="Kolibri (USA, Europe)" id="0022">
 		<category>Games</category>
@@ -112,10 +119,11 @@
 		<description>NFL Quarterback Club (World)</description>
 		<rom name="NFL Quarterback Club (World).32x" size="3145728" crc="0bc7018d" md5="e273c10114351cdafeba1abccca8909d" sha1="a0dc24f2f3a7fc5bfd12791cf25af7f7888843cf"/>
 	</game>
-	<game name="Pinocchio (Europe) (Proto) (1995-12-06)" id="0066">
+	<game name="Pinocchio (Europe) (Proto)" id="0066">
+		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Pinocchio (Europe) (Proto) (1995-12-06)</description>
-		<rom name="Pinocchio (Europe) (Proto) (1995-12-06).32x" size="4194304" crc="390a90f9" md5="406ab3e46797d8459c3d9efbbc044282" sha1="39ccf67e516bdaec879f1e30b23d5f253e82b6c8"/>
+		<description>Pinocchio (Europe) (Proto)</description>
+		<rom name="Pinocchio (Europe) (Proto).32x" size="4194304" crc="390a90f9" md5="406ab3e46797d8459c3d9efbbc044282" sha1="39ccf67e516bdaec879f1e30b23d5f253e82b6c8" sha256="743d3c56e1e6416e7689f05ff12f4bd5d5ed4bb578598539431defc4f0f5798b"/>
 	</game>
 	<game name="Pitfall - The Mayan Adventure (USA)" id="0038">
 		<category>Games</category>

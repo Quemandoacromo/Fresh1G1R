@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,598) (-y) [-aAbBcefkmMoprv] (2026-01-15 15-19-46) (Retool)</description>
-		<version>2026-01-15 15-19-46</version>
-		<date>2026-01-18 03-55-42</date>
+		<description>Microsoft - Xbox 360 (1,589) (-y) [-aAbBcefkmMoprv] (2026-01-19 00-46-41) (Retool)</description>
+		<version>2026-01-19 00-46-41</version>
+		<date>2026-01-19 04-00-10</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -666,11 +666,6 @@
 		<description>Biggest Loser, The - Ultimate Workout (USA, Europe)</description>
 		<rom name="Biggest Loser, The - Ultimate Workout (USA, Europe).iso" size="7838695424" crc="5cb86202" md5="1543e89df55842645c4ded148732f68d" sha1="e7f004e3081ddbe33e11b601526607977a1bd4f8"/>
 	</game>
-	<game name="Bigs 2 - Baseball, The (Europe)">
-		<category>Games</category>
-		<description>Bigs 2 - Baseball, The (Europe)</description>
-		<rom name="Bigs 2 - Baseball, The (Europe).iso" size="7838695424" crc="a022a86b" md5="2d5cc4c489146bcdc0f42582fc694852" sha1="1c1d25603bf182befa8cf670b5c5eb1b7fdd5e01"/>
-	</game>
 	<game name="Bigs 2, The (USA)">
 		<category>Games</category>
 		<description>Bigs 2, The (USA)</description>
@@ -891,10 +886,10 @@
 		<description>Bound by Flame (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Bound by Flame (USA, Europe) (En,Fr,De,Es,It).iso" size="7838695424" crc="05266d23" md5="137b81e999fdd3ffbc255e877e8fab56" sha1="5eec92bec490525952ab0729f612404f941e8bf7"/>
 	</game>
-	<game name="Brave - A Warrior's Tale (USA)">
+	<game name="Brave - A Warrior's Tale (USA, Europe)">
 		<category>Games</category>
-		<description>Brave - A Warrior's Tale (USA)</description>
-		<rom name="Brave - A Warrior's Tale (USA).iso" size="7838695424" crc="b7017dc5" md5="4eea906963dd20f8982500b50aa02c5a" sha1="68d3f3489b2897b335c1681ebefab9d8d7e79411"/>
+		<description>Brave - A Warrior's Tale (USA, Europe)</description>
+		<rom name="Brave - A Warrior's Tale (USA, Europe).iso" size="7838695424" crc="b7017dc5" md5="4eea906963dd20f8982500b50aa02c5a" sha1="68d3f3489b2897b335c1681ebefab9d8d7e79411"/>
 	</game>
 	<game name="Brian Lara International Cricket 2007 (Europe)">
 		<category>Games</category>
@@ -1085,11 +1080,6 @@
 		<category>Games</category>
 		<description>Call of Duty - Black Ops III (World) (En,Fr,De,Es,It,Pt,Pl,Ru)</description>
 		<rom name="Call of Duty - Black Ops III (World) (En,Fr,De,Es,It,Pt,Pl,Ru).iso" size="8738846720" crc="a5424f1d" md5="33d514473b740649556d11d16a53c9aa" sha1="2686d8e53d854637b553764d9034545477578d48"/>
-	</game>
-	<game name="Call of Duty - Ghosts (Poland) (Dysk 1) (Dysk Z Gra)">
-		<category>Games</category>
-		<description>Call of Duty - Ghosts (Poland) (Dysk 1) (Dysk Z Gra)</description>
-		<rom name="Call of Duty - Ghosts (Poland) (Dysk 1) (Dysk Z Gra).iso" size="8738846720" crc="20e4a2db" md5="9438c7495f844062b36f2dc6fab7bd26" sha1="5280b8672dd851f2874ec034adf6b450630c20e3"/>
 	</game>
 	<game name="Call of Duty - Ghosts (USA, Europe) (Disc 1) (Game Disc)">
 		<category>Games</category>
@@ -1760,11 +1750,6 @@
 		<category>Games</category>
 		<description>Destroy All Humans! Path of the Furon (USA)</description>
 		<rom name="Destroy All Humans! Path of the Furon (USA).iso" size="7835492352" crc="9369077b" md5="7ca5852a0c157d515e1762429d2af4d8" sha1="3351347f91b8d0335c3b31fc12332fda503ae0a9"/>
-	</game>
-	<game name="Deus Ex (Japan)">
-		<category>Games</category>
-		<description>Deus Ex (Japan)</description>
-		<rom name="Deus Ex (Japan).iso" size="7838695424" crc="c12438e2" md5="b22b3c3dd4f76d9f300a032f8ec781d6" sha1="2575e96c31cac9d42d7ddc7075624eb5cda28372"/>
 	</game>
 	<game name="Deus Ex - Human Revolution - Director's Cut (USA, Europe) (En,Fr,De,Es,It) (Disc 1)">
 		<category>Games</category>
@@ -2640,16 +2625,6 @@
 		<category>Games</category>
 		<description>Fallout 3 - Game of the Year Edition (USA, Europe) (Disc 2)</description>
 		<rom name="Fallout 3 - Game of the Year Edition (USA, Europe) (Disc 2).iso" size="7838695424" crc="8d87bc87" md5="17b2810b438eec02b64bb103ff43e76d" sha1="1e7513c405003573471ba2f040c2158fccb449a1"/>
-	</game>
-	<game name="Fallout 3 - Pack de Expansion del Juego - Broken Steel y Point Lookout (Spain)">
-		<category>Add-Ons</category>
-		<description>Fallout 3 - Pack de Expansion del Juego - Broken Steel y Point Lookout (Spain)</description>
-		<rom name="Fallout 3 - Pack de Expansion del Juego - Broken Steel y Point Lookout (Spain).iso" size="7838695424" crc="e7eea315" md5="c5605bfa9fbf8865cac9059bafeb3cd3" sha1="66efbb04b4ec8aec422646565059fb27bd766afa"/>
-	</game>
-	<game name="Fallout 3 - Pack de Expansion del Juego - The Pitt y Operation - Anchorage (Spain)">
-		<category>Add-Ons</category>
-		<description>Fallout 3 - Pack de Expansion del Juego - The Pitt y Operation - Anchorage (Spain)</description>
-		<rom name="Fallout 3 - Pack de Expansion del Juego - The Pitt y Operation - Anchorage (Spain).iso" size="7838695424" crc="345e6b7e" md5="1bd8908340165f688c9e42919b64567d" sha1="0c056c97ffc05a5bc4c94e87fb4ed04805efce03"/>
 	</game>
 	<game name="Family Feud - 2012 Edition (USA)">
 		<category>Games</category>
@@ -4345,11 +4320,6 @@
 		<category>Games</category>
 		<description>Marvel - Ultimate Alliance (USA) (En,It) (Gold Edition)</description>
 		<rom name="Marvel - Ultimate Alliance (USA) (En,It) (Gold Edition).iso" size="7835492352" crc="1e78eff0" md5="4e5fcd4cf7df3508ee7aa20788bb13e4" sha1="efc3d878be04532ee22c57b1fdfba1378b4b3e9b"/>
-	</game>
-	<game name="Marvel - Ultimate Alliance (USA, Europe) (En,It)">
-		<category>Games</category>
-		<description>Marvel - Ultimate Alliance (USA, Europe) (En,It)</description>
-		<rom name="Marvel - Ultimate Alliance (USA, Europe) (En,It).iso" size="7834892288" crc="2c7b3a7f" md5="03345fe7c66a21040042eb949f87279b" sha1="96842b2dc5ffea9089ea8a988e84513c12b7f070"/>
 	</game>
 	<game name="Marvel - Ultimate Alliance 2 (USA)">
 		<category>Games</category>
@@ -7930,21 +7900,6 @@
 		<category>Games</category>
 		<description>Zegapain XOR (Japan)</description>
 		<rom name="Zegapain XOR (Japan).iso" size="7834892288" crc="9befe018" md5="865b71b3bdf325bed2df41a2451dc89c" sha1="ba9431ba4e0d68e4ea8f2e37497aa3ffe574dd3e"/>
-	</game>
-	<game name="Zhen Sanguo Wushuang - Multi Raid Special (Taiwan)">
-		<category>Games</category>
-		<description>Zhen Sanguo Wushuang - Multi Raid Special (Taiwan)</description>
-		<rom name="Zhen Sanguo Wushuang - Multi Raid Special (Taiwan).iso" size="7838695424" crc="11f2d6ee" md5="b99868be9129c58f8dd69035149d48ab" sha1="773c1076fe93639508a5994e874c5a59b1d04e44"/>
-	</game>
-	<game name="Zhen Sanguo Wushuang 5 (Taiwan)">
-		<category>Games</category>
-		<description>Zhen Sanguo Wushuang 5 (Taiwan)</description>
-		<rom name="Zhen Sanguo Wushuang 5 (Taiwan).iso" size="7835492352" crc="fb0fc7ca" md5="4774f4f30f5fd0e7958f40a291c7568b" sha1="735f09fc3488da09078f3a3881e4da35dea22b65"/>
-	</game>
-	<game name="Zhen Sanguo Wushuang 7 (Taiwan) (En,Zh)">
-		<category>Games</category>
-		<description>Zhen Sanguo Wushuang 7 (Taiwan) (En,Zh)</description>
-		<rom name="Zhen Sanguo Wushuang 7 (Taiwan) (En,Zh).iso" size="8738846720" crc="e7c234fe" md5="102e80e2b7583c6d680c281abf9c3514" sha1="4210c25b1ba47327882ec597a27d9d6f3722e278"/>
 	</game>
 	<game name="Zoids Assault (USA)">
 		<category>Games</category>

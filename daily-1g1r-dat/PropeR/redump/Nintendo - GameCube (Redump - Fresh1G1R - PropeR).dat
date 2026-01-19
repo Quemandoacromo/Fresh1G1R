@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Nintendo - GameCube (Retool)</name>
-		<description>Nintendo - GameCube (683) (-y) [-aAbBcdkmMpPuv] (2026-01-11 20-45-13) (Retool)</description>
+		<description>Nintendo - GameCube (682) (-y) [-aAbBcdkmMpPuv] (2026-01-11 20-45-13) (Retool)</description>
 		<version>2026-01-11 20-45-13</version>
-		<date>2026-01-18 04-07-28</date>
+		<date>2026-01-19 04-12-02</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2595,11 +2595,6 @@
 		<category>Games</category>
 		<description>Sega Soccer Slam (USA)</description>
 		<rom name="Sega Soccer Slam (USA).iso" size="1459978240" crc="887f3876" md5="9c1b0c55e9bd9c69cbb5bc3fc0034d4c" sha1="d00123a8af05123ca03d9341626ff4e4cbeb9aa0"/>
-	</game>
-	<game name="Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain)">
-		<category>Games</category>
-		<description>Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain)</description>
-		<rom name="Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain).iso" size="1459978240" crc="03487e7a" md5="931ffece90fcb762114a0b4f2e78c270" sha1="4b268f922c874f9c1448738c86cabcd1f1b6639e"/>
 	</game>
 	<game name="Serious Sam - Next Encounter (USA) (Rev 1)">
 		<category>Games</category>

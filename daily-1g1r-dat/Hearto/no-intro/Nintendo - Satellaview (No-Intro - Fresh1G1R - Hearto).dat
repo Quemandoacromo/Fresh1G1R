@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (316) (-y) [-aAbBcefkmMoprv] (20260110-134030) (Retool)</description>
-		<version>20260110-134030</version>
-		<date>2026-01-18 03-59-47</date>
+		<description>Nintendo - Satellaview (317) (-y) [-aAbBcefkmMoprv] (20260117-023118) (Retool)</description>
+		<version>20260117-023118</version>
+		<date>2026-01-19 04-04-35</date>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1418,6 +1418,12 @@
 		<category>Magazines</category>
 		<description>Uchida Yuki Yuugure Street Kids (Japan) (9-9) (SoundLink Magazine)</description>
 		<rom name="Uchida Yuki Yuugure Street Kids (Japan) (9-9) (SoundLink Magazine).bs" size="1048576" crc="0fd1f689" md5="103a67f4e233dabffa8aa93494921f23" sha1="9afcbedc2fe497d6e14ba7df826d0e71c2b8b84f" sha256="c16071238612986a6f8fcb5027b56c6521321648ca5202188ccdf226d1b9c9f5"/>
+	</game>
+	<game name="Ultra Baseball Jitsumei Ban 3 (Japan) (Demo) (1995-10-27)" id="3968">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Ultra Baseball Jitsumei Ban 3 (Japan) (Demo) (1995-10-27)</description>
+		<rom name="Ultra Baseball Jitsumei Ban 3 (Japan) (Demo) (1995-10-27).bs" size="1048576" crc="b3a1f758" md5="abedb92456755b0e5fb470973e359c8d" sha1="4b2b9aa79f0fa13a4b6e59c61e21541c50c52621" sha256="5df40ca332084309e3603cba326881ec3332aee98998a424caf312b8713a97bc"/>
 	</game>
 	<game name="Umi no Nushi Tsuri (Japan) (Demo)" id="3945">
 		<category>Demos</category>

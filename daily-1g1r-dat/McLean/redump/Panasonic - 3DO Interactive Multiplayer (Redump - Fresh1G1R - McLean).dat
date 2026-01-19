@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Panasonic - 3DO Interactive Multiplayer (Retool)</name>
-		<description>Panasonic - 3DO Interactive Multiplayer (155) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-17 15-36-01) (Retool)</description>
+		<description>Panasonic - 3DO Interactive Multiplayer (154) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-17 15-36-01) (Retool)</description>
 		<version>2026-01-17 15-36-01</version>
-		<date>2026-01-18 04-01-55</date>
+		<date>2026-01-19 04-06-27</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -22,12 +22,6 @@
 		<description>Alone in the Dark 2 (USA)</description>
 		<rom name="Alone in the Dark 2 (USA).bin" size="674906400" crc="c4351a5e" md5="0cbb06c9daa8239837624111c8ae1132" sha1="feef790130d05ca5446be4550e4f8799e5f983aa"/>
 		<rom name="Alone in the Dark 2 (USA).cue" size="114" crc="fb1fe530" md5="46902a501402ca94fb5cb7158dcbb138" sha1="ee6867e30372f07be18d8e01bb561691f4127d48"/>
-	</game>
-	<game name="Another World (Europe)">
-		<category>Games</category>
-		<description>Another World (Europe)</description>
-		<rom name="Another World (Europe).bin" size="302114400" crc="723b4d3e" md5="bc9dd627428b9b3f607cd75fa3fd1d82" sha1="62aa07d39e9ca55b58fe19f9cdc6815065b7ee1b"/>
-		<rom name="Another World (Europe).cue" size="111" crc="98443c7e" md5="6d6c79df43d9a1522492719dd90bbc45" sha1="df3bb1d729a7a99cf4dfc5671d21f42338506227"/>
 	</game>
 	<game name="AutoBahn Tokio (Japan)">
 		<category>Games</category>
