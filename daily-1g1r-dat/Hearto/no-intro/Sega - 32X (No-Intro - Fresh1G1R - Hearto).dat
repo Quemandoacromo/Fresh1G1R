@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - 32X (Retool)</name>
-		<description>Sega - 32X (43) (-y) [-aAbBcefkmMoprv] (20260117-211929) (Retool)</description>
-		<version>20260117-211929</version>
-		<date>2026-01-19 04-02-43</date>
+		<description>Sega - 32X (43) (-y) [-aAbBcefkmMoprv] (20260118-212006) (Retool)</description>
+		<version>20260118-212006</version>
+		<date>2026-01-20 03-59-38</date>
 		<author>bikerspade, BitLooter, ElBarto, FakeShemp, Gefflon, gigadeath, Hiccup, norkmetnoil577, omonim2007, psykopat, relax, Seventy7, SonGoku, Special T, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -14,7 +14,7 @@
 	<game name="After Burner Complete (Japan, USA) (En)" id="0006">
 		<category>Games</category>
 		<description>After Burner Complete (Japan, USA) (En)</description>
-		<rom name="After Burner Complete (Japan, USA) (En).32x" size="2097152" crc="204044c4" md5="ec9529858cc7961b39f5382b2f657b8f" sha1="9cf575feb036e2f26e78350154d5eb2fd3825325"/>
+		<rom name="After Burner Complete (Japan, USA) (En).32x" size="2097152" crc="204044c4" md5="ec9529858cc7961b39f5382b2f657b8f" sha1="9cf575feb036e2f26e78350154d5eb2fd3825325" sha256="5225e4a73a893bd40579b6fedd6f50fe294b06be23b8ab928024498ed6f633f3"/>
 	</game>
 	<game name="Amazing Spider-Man, The - Web of Fire (USA)" id="0007">
 		<category>Games</category>
@@ -24,7 +24,7 @@
 	<game name="BC Racers (USA)" id="0008">
 		<category>Games</category>
 		<description>BC Racers (USA)</description>
-		<rom name="BC Racers (USA).32x" size="3145728" crc="936c3d27" md5="35a11e021ca0b7ff909e4774eb8b3236" sha1="9b5fd499eaa442d48a2c97fceb1d505dc8e8ddff"/>
+		<rom name="BC Racers (USA).32x" size="3145728" crc="936c3d27" md5="35a11e021ca0b7ff909e4774eb8b3236" sha1="9b5fd499eaa442d48a2c97fceb1d505dc8e8ddff" sha256="e606ab6b3d205011a811c8569cd17075f0b67139f90b8418e565567a5592bf73"/>
 	</game>
 	<game name="Blackthorne (USA)" id="0009">
 		<category>Games</category>
@@ -50,7 +50,7 @@
 	<game name="Darxide (Europe) (En,Fr,De,Es)" id="0014">
 		<category>Games</category>
 		<description>Darxide (Europe) (En,Fr,De,Es)</description>
-		<rom name="Darxide (Europe) (En,Fr,De,Es).32x" size="2097152" crc="22d7c906" md5="30ee320f76db70a836edeff2c8ce9cd2" sha1="108b4ffed8643abdefa921cfb58389b119b47f3d"/>
+		<rom name="Darxide (Europe) (En,Fr,De,Es).32x" size="2097152" crc="22d7c906" md5="30ee320f76db70a836edeff2c8ce9cd2" sha1="108b4ffed8643abdefa921cfb58389b119b47f3d" sha256="31ae1b06ede2127c61b7e6ad58d56b21cf1a604f46f9d3a6f535679693ef929b"/>
 	</game>
 	<game name="Doom (Japan, USA) (En)" id="0016">
 		<category>Games</category>
@@ -87,12 +87,12 @@
 	<game name="Kolibri (USA, Europe)" id="0022">
 		<category>Games</category>
 		<description>Kolibri (USA, Europe)</description>
-		<rom name="Kolibri (USA, Europe).32x" size="3145728" crc="20ca53ef" md5="6af6207b1e67072a9104178130c61712" sha1="191ae0b525ecf32664086d8d748e0b35f776ddfe"/>
+		<rom name="Kolibri (USA, Europe).32x" size="3145728" crc="20ca53ef" md5="6af6207b1e67072a9104178130c61712" sha1="191ae0b525ecf32664086d8d748e0b35f776ddfe" sha256="3e8bf99e7257921b5f0f4b2c2b836e2c414193cc3771540c603fd925c6316525"/>
 	</game>
 	<game name="Metal Head (Japan, USA) (En,Ja)" id="0030">
 		<category>Games</category>
 		<description>Metal Head (Japan, USA) (En,Ja)</description>
-		<rom name="Metal Head (Japan, USA) (En,Ja).32x" size="3145728" crc="ef5553ff" md5="03cc5d7549d71ba4e9ddc1beae3805fb" sha1="4e872fbb44ecb2bd730abd8cc8f32f96b10582c0"/>
+		<rom name="Metal Head (Japan, USA) (En,Ja).32x" size="3145728" crc="ef5553ff" md5="03cc5d7549d71ba4e9ddc1beae3805fb" sha1="4e872fbb44ecb2bd730abd8cc8f32f96b10582c0" sha256="950154ccd4d3dc9fdfcdff49d4d9a96021ffa68226f27528d8a6008f2cbc76f9"/>
 	</game>
 	<game name="Mortal Kombat II (Japan, USA) (En)" id="0032">
 		<category>Games</category>
@@ -101,13 +101,15 @@
 	</game>
 	<game name="Motherbase (Europe) (Sample)" id="0212">
 		<category>Demos</category>
+		<category>Games</category>
+		<category>Preproduction</category>
 		<description>Motherbase (Europe) (Sample)</description>
 		<rom name="Motherbase (Europe) (Sample).32x" size="2097152" crc="e181c5d0" md5="937371a9985dfe7b42053ab882ef27a9" sha1="6d457a613e91ed265b0e2835a02e05558bc7e3ca" sha256="1338e30ba7c8f435e01224e4d870341c1e33b6a94c05e288d13297215b82fd78"/>
 	</game>
 	<game name="Motocross Championship (USA)" id="0034">
 		<category>Games</category>
 		<description>Motocross Championship (USA)</description>
-		<rom name="Motocross Championship (USA).32x" size="2097152" crc="a21c5761" md5="2c4a934985021624d48725b8d7b039e8" sha1="5f1a107991aaf9eff0b3ce864b2e3151f56abe7b"/>
+		<rom name="Motocross Championship (USA).32x" size="2097152" crc="a21c5761" md5="2c4a934985021624d48725b8d7b039e8" sha1="5f1a107991aaf9eff0b3ce864b2e3151f56abe7b" sha256="b003d1194c7798ec8feca6c907b19e8b243150ee9fa0a3237f4dd643bf740fa2"/>
 	</game>
 	<game name="NBA Jam - Tournament Edition (World)" id="0035">
 		<category>Games</category>
@@ -128,7 +130,7 @@
 	<game name="Pitfall - The Mayan Adventure (USA)" id="0038">
 		<category>Games</category>
 		<description>Pitfall - The Mayan Adventure (USA)</description>
-		<rom name="Pitfall - The Mayan Adventure (USA).32x" size="3145728" crc="f9126f15" md5="e091e542f7ea29ef3daf6022b36e219b" sha1="ee864d1677c6d976d0846eb5f8d8edb839acfb76"/>
+		<rom name="Pitfall - The Mayan Adventure (USA).32x" size="3145728" crc="f9126f15" md5="e091e542f7ea29ef3daf6022b36e219b" sha1="ee864d1677c6d976d0846eb5f8d8edb839acfb76" sha256="901a582a9b2d0a2f55f07f1a7b1aaa6484e680fabe4f83c9daffef955f4ec95b"/>
 	</game>
 	<game name="Primal Rage (USA, Europe)" id="0039">
 		<category>Games</category>
@@ -146,9 +148,10 @@
 		<rom name="Sangokushi IV (Japan).32x" size="4194304" crc="e4de7625" md5="f4bb8844d77442dbb5bee78d0246b456" sha1="74a3ba27c55cff12409bf6c9324ece6247abbad1"/>
 	</game>
 	<game name="Soulstar X (USA) (Proto)" id="0063">
+		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Soulstar X (USA) (Proto)</description>
-		<rom name="Soulstar X (USA) (Proto).32x" size="2097152" crc="5ea52f22" md5="4e9d4bd4122fbe72d6f6918e55a58a35" sha1="4726988f28c5e49971e1f38e335fecc3f9dd6c1f"/>
+		<rom name="Soulstar X (USA) (Proto).32x" size="2097152" crc="5ea52f22" md5="4e9d4bd4122fbe72d6f6918e55a58a35" sha1="4726988f28c5e49971e1f38e335fecc3f9dd6c1f" sha256="8be1bdb8532a7be814fca9a64010c7158cada8fe89db1d72dcfef192d04abf2c"/>
 	</game>
 	<game name="Space Harrier (Japan, USA) (En)" id="0044">
 		<category>Games</category>
@@ -159,7 +162,7 @@
 		<category>Games</category>
 		<category>Preproduction</category>
 		<description>Spot Goes to Hollywood (USA) (Proto)</description>
-		<rom name="Spot Goes to Hollywood (USA) (Proto).32x" size="3145728" crc="ce6c4b99" md5="11caaeaa76ac810400e9a08985e0eb29" sha1="f233175e65928727a789b89850702af43fa8d4a4"/>
+		<rom name="Spot Goes to Hollywood (USA) (Proto).32x" size="3145728" crc="ce6c4b99" md5="11caaeaa76ac810400e9a08985e0eb29" sha1="f233175e65928727a789b89850702af43fa8d4a4" sha256="c6d36a8f493f377593eee6de40a727cf4b1b33c8713f24db5e98afe2be3a4923"/>
 	</game>
 	<game name="Star Trek - Starfleet Academy - Starship Bridge Simulator (USA)" id="0045">
 		<category>Games</category>
@@ -174,7 +177,7 @@
 	<game name="Stellar Assault (USA, Europe)" id="0042">
 		<category>Games</category>
 		<description>Stellar Assault (USA, Europe)</description>
-		<rom name="Stellar Assault (USA, Europe).32x" size="2097152" crc="60c49e4d" md5="1415a8675adf3e8647b3df673b50056d" sha1="561c8c63dbcabc0b1b6f31673ca75a0bde7abc72"/>
+		<rom name="Stellar Assault (USA, Europe).32x" size="2097152" crc="60c49e4d" md5="1415a8675adf3e8647b3df673b50056d" sha1="561c8c63dbcabc0b1b6f31673ca75a0bde7abc72" sha256="2f9b6017258fbb1c37d81df07c68d5255495d3bf76d9c7b680ff66bccf665750"/>
 	</game>
 	<game name="T-MEK (USA, Europe)" id="0049">
 		<category>Games</category>
