@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 2 (Retool)</name>
-		<description>Sony - PlayStation 2 (4,481) (-y) [-aAbBcdkmMpPuv] (2026-01-15 08-57-09) (Retool)</description>
-		<version>2026-01-15 08-57-09</version>
-		<date>2026-01-16 10-14-16</date>
+		<description>Sony - PlayStation 2 (4,464) (-y) [-aAbBcdkmMpPuv] (2026-01-23 14-22-30) (Retool)</description>
+		<version>2026-01-23 14-22-30</version>
+		<date>2026-01-24 03-59-09</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -953,11 +953,6 @@
 		<description>Armored Core - Formula Front (Japan)</description>
 		<rom name="Armored Core - Formula Front (Japan).iso" size="3470426112" crc="333c05a1" md5="0203f54d83d8a521ec39ad000ca86f89" sha1="7b63da9ffde4adf15af47de88fde66d8939fc36b"/>
 	</game>
-	<game name="Armored Core - Last Raven (Japan) (Champion Tokubetsuban)">
-		<category>Games</category>
-		<description>Armored Core - Last Raven (Japan) (Champion Tokubetsuban)</description>
-		<rom name="Armored Core - Last Raven (Japan) (Champion Tokubetsuban).iso" size="2980216832" crc="a9f61240" md5="b4003be9d2f07ca3e31648d3d91366fa" sha1="ad3aa03acdbeee3a8e03836ce5a2104d314f519d"/>
-	</game>
 	<game name="Armored Core - Last Raven (USA)">
 		<category>Games</category>
 		<description>Armored Core - Last Raven (USA)</description>
@@ -1681,11 +1676,6 @@
 		<category>Games</category>
 		<description>Bionicle Heroes (USA)</description>
 		<rom name="Bionicle Heroes (USA).iso" size="2753396736" crc="13797ae4" md5="b12bd17844fbe04491b881c181924de7" sha1="ea28897c053425cbc6b885d033497db51e8356e4"/>
-	</game>
-	<game name="Bistro Cupid 2 (Japan)">
-		<category>Games</category>
-		<description>Bistro Cupid 2 (Japan)</description>
-		<rom name="Bistro Cupid 2 (Japan).iso" size="2296709120" crc="d0ab71bb" md5="a71317b08d7236f56807fb1eb87843ed" sha1="d8862d86f483ea74143a66d022da20ff486ca425"/>
 	</game>
 	<game name="Bistro Cupid 2 (Japan) (Tokubetsuban)">
 		<category>Games</category>
@@ -4075,11 +4065,6 @@
 		<description>Devil Summoner - Kuzunoha Raidou tai Abaddon-ou Plus (Japan)</description>
 		<rom name="Devil Summoner - Kuzunoha Raidou tai Abaddon-ou Plus (Japan).iso" size="4177985536" crc="db862b21" md5="0832fca2f4c3e053818ac24ef09c3e97" sha1="9fcc27e946f9495bab540e5057957105e16960a6"/>
 	</game>
-	<game name="Di Gi Charat Fantasy Excellent (Japan)">
-		<category>Games</category>
-		<description>Di Gi Charat Fantasy Excellent (Japan)</description>
-		<rom name="Di Gi Charat Fantasy Excellent (Japan).iso" size="1646854144" crc="1eb1576b" md5="43e520fb47eae8bfeb98f9675de341af" sha1="0f5bc61cd6f23b3ecbafd3fc70ebc40d10f9923e"/>
-	</game>
 	<game name="Di Gi Charat Fantasy Excellent (Japan) (Premium-ban)">
 		<category>Games</category>
 		<description>Di Gi Charat Fantasy Excellent (Japan) (Premium-ban)</description>
@@ -5234,12 +5219,6 @@
 		<description>European Club Soccer - Winning Eleven Tactics (Japan)</description>
 		<rom name="European Club Soccer - Winning Eleven Tactics (Japan).iso" size="4665114624" crc="3f7e9ba3" md5="392de31af994ee62df23f3d2d77ecda5" sha1="eebb26273e335ea840fe7708513b553c52050f48"/>
 	</game>
-	<game name="European Game Collection (Japan)">
-		<category>Games</category>
-		<description>European Game Collection (Japan)</description>
-		<rom name="European Game Collection (Japan).bin" size="36505392" crc="0cdf586b" md5="7ced4bcb832a64f3f40f0f87cceab2b7" sha1="a39c9126428f709e03911f30a7ab27eec021dc29"/>
-		<rom name="European Game Collection (Japan).cue" size="98" crc="ba7afd0f" md5="23abc9013e43ffb80ec7c90961e48c24" sha1="1c0c281bc15fbe99f33b5d413c22f8eb132f134d"/>
-	</game>
 	<game name="European Tennis Pro (Europe)">
 		<category>Games</category>
 		<description>European Tennis Pro (Europe)</description>
@@ -5260,11 +5239,6 @@
 		<category>Games</category>
 		<description>Eve - New Generation (Japan) (DX Pack)</description>
 		<rom name="Eve - New Generation (Japan) (DX Pack).iso" size="2989228032" crc="c953c439" md5="a02998dd8d9d83cedd2d38daade447e4" sha1="22cebcd1f27a5c69987faac6b7f821a653bfb68a"/>
-	</game>
-	<game name="Ever 17 - The Out of Infinity (Japan) (Ren'ai Game Selection)">
-		<category>Games</category>
-		<description>Ever 17 - The Out of Infinity (Japan) (Ren'ai Game Selection)</description>
-		<rom name="Ever 17 - The Out of Infinity (Japan) (Ren'ai Game Selection).iso" size="2963406848" crc="1c7239bb" md5="4808771239e08991595f5ebc96661112" sha1="7121516169f5fdff9b1fad8a24ea3ec872bd8869"/>
 	</game>
 	<game name="Ever 17 - The Out of Infinity - Premium Edition (Japan)">
 		<category>Games</category>
@@ -5366,11 +5340,6 @@
 		<rom name="EyeToy - EduKids (Korea).bin" size="523089504" crc="18910ce1" md5="348abb7b0325df388004679cf3fe3ba9" sha1="06e966cbb2216ae40084094fa1667d7f21da4e88"/>
 		<rom name="EyeToy - EduKids (Korea).cue" size="90" crc="6e7a7f01" md5="2f22aa9a08ba7399e5d3e8e21c7d785f" sha1="3294153a684845c6e1f223dd4cc9062b4bfbd5b7"/>
 	</game>
-	<game name="EyeToy - Gen Houzi Wan Ba! Shouwu Zuta Nao Fantian!! (Asia)">
-		<category>Games</category>
-		<description>EyeToy - Gen Houzi Wan Ba! Shouwu Zuta Nao Fantian!! (Asia)</description>
-		<rom name="EyeToy - Gen Houzi Wan Ba! Shouwu Zuta Nao Fantian!! (Asia).iso" size="1989869568" crc="97ade6a0" md5="f92ea76021f7e93c50a6fb4ced61304d" sha1="4e5d1eaea59a0bd3927b1986a73fdf7a997fbdb9"/>
-	</game>
 	<game name="EyeToy - Groove (USA)">
 		<category>Games</category>
 		<description>EyeToy - Groove (USA)</description>
@@ -5415,11 +5384,6 @@
 		<category>Games</category>
 		<description>EyeToy - Play Sports (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Cs,Tr)</description>
 		<rom name="EyeToy - Play Sports (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,El,Cs,Tr).iso" size="4438687744" crc="81b80531" md5="2780312ec7fadeae25cf788d51e1fcff" sha1="463e530487b071ef0a45db0163a187d78079a704"/>
-	</game>
-	<game name="EyeToy - Saru EyeToy - Oosawagi! Ukkiuki Game Tenkomori!! (Japan) (EyeToy Camera Doukonban)">
-		<category>Games</category>
-		<description>EyeToy - Saru EyeToy - Oosawagi! Ukkiuki Game Tenkomori!! (Japan) (EyeToy Camera Doukonban)</description>
-		<rom name="EyeToy - Saru EyeToy - Oosawagi! Ukkiuki Game Tenkomori!! (Japan) (EyeToy Camera Doukonban).iso" size="3492052992" crc="c55a6128" md5="f3521056ae9ea8d515cc7edbbbeb6f62" sha1="88bf86b1975c8cf3cada143c28905abacb0fe736"/>
 	</game>
 	<game name="EyeToy - Tales (Korea)">
 		<category>Games</category>
@@ -7737,11 +7701,6 @@
 		<description>Harukanaru Toki no Naka de 3 - Izayoiki (Japan) (Premium Box)</description>
 		<rom name="Harukanaru Toki no Naka de 3 - Izayoiki (Japan) (Premium Box).iso" size="3564732416" crc="ffaf4ef8" md5="f329afb712ee9ad78cc27ad72fb85618" sha1="68f101c81b9be796da5c9b178f219030eef2cfbf"/>
 	</game>
-	<game name="Harukanaru Toki no Naka de 3 - Izayoiki (Japan) (Twin Pack)">
-		<category>Games</category>
-		<description>Harukanaru Toki no Naka de 3 - Izayoiki (Japan) (Twin Pack)</description>
-		<rom name="Harukanaru Toki no Naka de 3 - Izayoiki (Japan) (Twin Pack).iso" size="3564732416" crc="02083720" md5="bf63ab07b0f71edfb76285eecd78cd9f" sha1="d9b1ef32e28302e52b4e8bf2dedc675a6f0220a7"/>
-	</game>
 	<game name="Harukanaru Toki no Naka de 3 - Unmei no Labyrinth (Japan) (Premium Box)">
 		<category>Games</category>
 		<description>Harukanaru Toki no Naka de 3 - Unmei no Labyrinth (Japan) (Premium Box)</description>
@@ -8964,11 +8923,6 @@
 		<rom name="Jelly Belly - Ballistic Beans (Europe) (En,Fr,De,Es,It).bin" size="83780592" crc="b60538d4" md5="aec5abb4e6c6eb989becb1de77fbb6fd" sha1="5dce0519acb890921379c8354d4a86ff3b018c6e"/>
 		<rom name="Jelly Belly - Ballistic Beans (Europe) (En,Fr,De,Es,It).cue" size="121" crc="71ceccd5" md5="9df5f8c7e0632defb3cb30e568122fbd" sha1="3ce92cfdf743005e1179a2d5c912980dcd3c6d3a"/>
 	</game>
-	<game name="Jeonguk Mussang 2 (Korea)">
-		<category>Games</category>
-		<description>Jeonguk Mussang 2 (Korea)</description>
-		<rom name="Jeonguk Mussang 2 (Korea).iso" size="4521426944" crc="fc691296" md5="61241cc899740fb1bfe85fdf91b8fd37" sha1="06aea7e3c982dfc993420c38aa67d6b653380495"/>
-	</game>
 	<game name="Jeopardy! (USA)">
 		<category>Games</category>
 		<description>Jeopardy! (USA)</description>
@@ -9196,12 +9150,6 @@
 		<category>Games</category>
 		<description>Jim Henson's Muppets Party Cruise (USA)</description>
 		<rom name="Jim Henson's Muppets Party Cruise (USA).iso" size="2800943104" crc="8b979af4" md5="8abfb3bf9a3bf651e19541e8e1deac20" sha1="db6c2a7643e3a2ab710334430872293b22d23233"/>
-	</game>
-	<game name="Jin Hondura (Korea) (En,Fr,De,Es,It)">
-		<category>Games</category>
-		<description>Jin Hondura (Korea) (En,Fr,De,Es,It)</description>
-		<rom name="Jin Hondura (Korea) (En,Fr,De,Es,It).bin" size="751990848" crc="f9c92439" md5="81b5e0add3f2a6b466a3673f13df6d3a" sha1="ef4db979913e077c8861767fc366ef2a37f99764"/>
-		<rom name="Jin Hondura (Korea) (En,Fr,De,Es,It).cue" size="102" crc="f908facd" md5="1fd5f348fcedce88fce274dd883779fb" sha1="4d8f7a4535a7b2defe9044ee61cf9aa86ae51bef"/>
 	</game>
 	<game name="Jin Samguk Mussang 2 &amp; Maengjangjeon - Choegang Data (Korea)">
 		<category>Bonus Discs</category>
@@ -9685,10 +9633,10 @@
 		<rom name="Kao the Kangaroo - Round 2 (USA).bin" size="600289200" crc="112eebcc" md5="3c1250dfb95a7bee3f602889f63c6e90" sha1="1a34fead2e789dbb3b8093879bb8c848fdf640f1"/>
 		<rom name="Kao the Kangaroo - Round 2 (USA).cue" size="98" crc="6a09fa6d" md5="aca734ea6a9830a0ac8fd6c17c51c0a8" sha1="e939ffc74479b0ea140d8a4a1e0de8c0f6174922"/>
 	</game>
-	<game name="Kappa no Kai-kata - How to Breed Kappas (Japan)">
+	<game name="Kappa no Kaikata - How to Breed Kappas (Japan)">
 		<category>Games</category>
-		<description>Kappa no Kai-kata - How to Breed Kappas (Japan)</description>
-		<rom name="Kappa no Kai-kata - How to Breed Kappas (Japan).iso" size="1228832768" crc="a7a775cb" md5="52ad37290e903826c72c2e1f0c3c3330" sha1="6f619139339079bccaf4ea503c0c6dfd5b80507d"/>
+		<description>Kappa no Kaikata - How to Breed Kappas (Japan)</description>
+		<rom name="Kappa no Kaikata - How to Breed Kappas (Japan).iso" size="1228832768" crc="a7a775cb" md5="52ad37290e903826c72c2e1f0c3c3330" sha1="6f619139339079bccaf4ea503c0c6dfd5b80507d"/>
 	</game>
 	<game name="Karaoke Revolution (USA)">
 		<category>Games</category>
@@ -9967,11 +9915,6 @@
 		<rom name="Kiddies Party Pack (Europe) (En,Fr,De).bin" size="148935696" crc="40aee36e" md5="51ab64afa98a8521c6c701116446fb22" sha1="6595d59295fde67638c58f7a1f9081909f9ba49b"/>
 		<rom name="Kiddies Party Pack (Europe) (En,Fr,De).cue" size="104" crc="2f319357" md5="63502729b957cb67859a8212cafc35f1" sha1="9aadfd8bc81ab7e301ae6cd8e30a0c305e23c59a"/>
 	</game>
-	<game name="Kidou Senshi Gundam (Japan) (Tokubetsuban)">
-		<category>Games</category>
-		<description>Kidou Senshi Gundam (Japan) (Tokubetsuban)</description>
-		<rom name="Kidou Senshi Gundam (Japan) (Tokubetsuban).iso" size="3743776768" crc="8aa04f0d" md5="a0d1def77c76258e8eb05167fe198933" sha1="34f05f46f431c4da4cdbd32659233c84307e9385"/>
-	</game>
 	<game name="Kidou Senshi Gundam - Gihren no Yabou - Axis no Kyoui V (Japan)">
 		<category>Games</category>
 		<description>Kidou Senshi Gundam - Gihren no Yabou - Axis no Kyoui V (Japan)</description>
@@ -10217,11 +10160,6 @@
 		<category>Games</category>
 		<description>King of Fighters 2002, The - Unlimited Match - Tougeki Ver. (Japan)</description>
 		<rom name="King of Fighters 2002, The - Unlimited Match - Tougeki Ver. (Japan).iso" size="4209311744" crc="8ffe69bc" md5="251e5ff99d2c23990ff83fdeb90d256b" sha1="86ca970504155065e11ace2faae931d66268b354"/>
-	</game>
-	<game name="King of Fighters 2003, The (Japan) (SNK Best Collection)">
-		<category>Games</category>
-		<description>King of Fighters 2003, The (Japan) (SNK Best Collection)</description>
-		<rom name="King of Fighters 2003, The (Japan) (SNK Best Collection).iso" size="1817313280" crc="74562f86" md5="9da1a62486260465282ceb231c600ede" sha1="1f2b6b5a9ec3f4b49907249c689a7e7e595a4802"/>
 	</game>
 	<game name="King of Fighters 2003, The (USA)">
 		<category>Games</category>
@@ -16073,10 +16011,10 @@
 		<description>Reishiki Kanjou Sentouki Ni (Japan)</description>
 		<rom name="Reishiki Kanjou Sentouki Ni (Japan).iso" size="1259143168" crc="66791693" md5="7dc481a47796ee158f4f565a71765b51" sha1="3f5e68e2c22e1aba47e053cd33ac542a1c1aeefe"/>
 	</game>
-	<game name="Remember11 - The Age of Infinity (Japan) (Infinity Plus)">
+	<game name="Remember 11 - The Age of Infinity (Japan) (Infinity Plus)">
 		<category>Games</category>
-		<description>Remember11 - The Age of Infinity (Japan) (Infinity Plus)</description>
-		<rom name="Remember11 - The Age of Infinity (Japan) (Infinity Plus).iso" size="3427991552" crc="a784bcaa" md5="1c0d37e28e83283e068137b32b863287" sha1="5dd53aec76bb4d56bdfcbfde76f7769a76b76032"/>
+		<description>Remember 11 - The Age of Infinity (Japan) (Infinity Plus)</description>
+		<rom name="Remember 11 - The Age of Infinity (Japan) (Infinity Plus).iso" size="3427991552" crc="a784bcaa" md5="1c0d37e28e83283e068137b32b863287" sha1="5dd53aec76bb4d56bdfcbfde76f7769a76b76032"/>
 	</game>
 	<game name="Remote Control Dandy SF (Japan)">
 		<category>Games</category>
@@ -16959,11 +16897,6 @@
 		<description>Sangoku Rensenki - Otome no Heihou! (Japan)</description>
 		<rom name="Sangoku Rensenki - Otome no Heihou! (Japan).iso" size="4615929856" crc="47d98f2f" md5="f76332560e5875aaeeb0079f8deba2ff" sha1="32475886172d85540f98ec029735cf56e884cb0d"/>
 	</game>
-	<game name="Sanguozhi Zhanji (Taiwan)">
-		<category>Games</category>
-		<description>Sanguozhi Zhanji (Taiwan)</description>
-		<rom name="Sanguozhi Zhanji (Taiwan).iso" size="3962732544" crc="97210fc7" md5="895015bb02151c66c9dd94e695abd830" sha1="f882787c4c09066b707c58d055f5fbc6f6ffa036"/>
-	</game>
 	<game name="Sanyo Pachinko Paradise 10 - Gen-san Okaeri! (Japan)">
 		<category>Games</category>
 		<description>Sanyo Pachinko Paradise 10 - Gen-san Okaeri! (Japan)</description>
@@ -17536,11 +17469,6 @@
 		<description>Separate Hearts (Japan)</description>
 		<rom name="Separate Hearts (Japan).iso" size="3410821120" crc="307e511f" md5="c7c2f2c4bab7d6d326bf24bee2d2cf34" sha1="c6252609faba910b24ae5020798640fb63c6fe62"/>
 	</game>
-	<game name="Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain)">
-		<category>Games</category>
-		<description>Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain)</description>
-		<rom name="Serie de Catastroficas Desdichas de Lemony Snicket, Una (Spain).iso" size="2207940608" crc="b852aeb0" md5="7feeb21fa57dbd14e77d54dc138e718e" sha1="bd6a5fa61553211684dd19a47ae66cfb2e6ad8d6"/>
-	</game>
 	<game name="Serious Sam - Next Encounter (USA)">
 		<category>Games</category>
 		<description>Serious Sam - Next Encounter (USA)</description>
@@ -17994,20 +17922,10 @@
 		<description>Shoujo Mahou Gaku Littlewitch Romanesque - Aria to Kaya to Kuro no Tou (Japan)</description>
 		<rom name="Shoujo Mahou Gaku Littlewitch Romanesque - Aria to Kaya to Kuro no Tou (Japan).iso" size="4261085184" crc="dab76795" md5="04deffb4e1a178520aeb90938c83e0f5" sha1="e9d76f4b61b878b4be8357242356b263fe960fe6"/>
 	</game>
-	<game name="Shoujo Yoshitsune-den (Japan)">
-		<category>Games</category>
-		<description>Shoujo Yoshitsune-den (Japan)</description>
-		<rom name="Shoujo Yoshitsune-den (Japan).iso" size="2199781376" crc="61f8f9f5" md5="f474ad6a0b6f334b08a6660553cfc938" sha1="fa5f1f8172d2fe812aa6b20e9cbf70e951253773"/>
-	</game>
 	<game name="Shoujo Yoshitsune-den (Japan) (Tokubetsuban)">
 		<category>Games</category>
 		<description>Shoujo Yoshitsune-den (Japan) (Tokubetsuban)</description>
 		<rom name="Shoujo Yoshitsune-den (Japan) (Tokubetsuban).iso" size="2199781376" crc="b2629066" md5="8b2482bde3f4e88e4b2b8e896427017d" sha1="bce0ffd211c4a414a64f7eb52602473b91ccc655"/>
-	</game>
-	<game name="Shoujo Yoshitsune-den Ni - Toki o Koeru Chigiri (Japan)">
-		<category>Games</category>
-		<description>Shoujo Yoshitsune-den Ni - Toki o Koeru Chigiri (Japan)</description>
-		<rom name="Shoujo Yoshitsune-den Ni - Toki o Koeru Chigiri (Japan).iso" size="1727889408" crc="a975d152" md5="c90ca3ca4175866b689f178eedd0e869" sha1="1166fa9a7567ec600c178c8231e511214db252c3"/>
 	</game>
 	<game name="Shoujo Yoshitsune-den Ni - Toki o Koeru Chigiri (Japan) (Tokubetsuban)">
 		<category>Games</category>
@@ -20046,11 +19964,11 @@
 		<description>Suggoi! Arcana Heart 2 (Japan)</description>
 		<rom name="Suggoi! Arcana Heart 2 (Japan).iso" size="1805123584" crc="5fdaf607" md5="497f919c849c78dbae4cc05c7ed94bdb" sha1="6efb2f446e5f995461269954d80b0ce149e3ee1f"/>
 	</game>
-	<game name="Sui Sui Sweet - Amai Koi no Mitsuke-kata (Japan)">
+	<game name="Sui Sui Sweet - Amai Koi no Mitsukekata (Japan)">
 		<category>Games</category>
-		<description>Sui Sui Sweet - Amai Koi no Mitsuke-kata (Japan)</description>
-		<rom name="Sui Sui Sweet - Amai Koi no Mitsuke-kata (Japan).bin" size="427525392" crc="58e28390" md5="e0b5108848447dcc3d7370515d9b096c" sha1="010828994e1a11ba678d030a0799002dc376dc2f"/>
-		<rom name="Sui Sui Sweet - Amai Koi no Mitsuke-kata (Japan).cue" size="114" crc="6091bf40" md5="8e0403bdf98ac61efcf0db10406d8d63" sha1="3912f4d26ddf926c0d90e9cb5c1810fa96a0c9df"/>
+		<description>Sui Sui Sweet - Amai Koi no Mitsukekata (Japan)</description>
+		<rom name="Sui Sui Sweet - Amai Koi no Mitsukekata (Japan).bin" size="427525392" crc="58e28390" md5="e0b5108848447dcc3d7370515d9b096c" sha1="010828994e1a11ba678d030a0799002dc376dc2f"/>
+		<rom name="Sui Sui Sweet - Amai Koi no Mitsukekata (Japan).cue" size="113" crc="1972c233" md5="6ab1c20882cbc81b64d2c0e9d455057d" sha1="004b356c029a3aaa0c7e264e5af739b0134f4ad5"/>
 	</game>
 	<game name="Suigetsu - Mayoigokoro (Japan)">
 		<category>Games</category>
@@ -20383,6 +20301,11 @@
 		<rom name="SuperLite 2000 Vol. 30 - Yoshinoya (Japan).bin" size="644064624" crc="c085bcda" md5="9ca9c77d01289d0539c5a243303132c1" sha1="20e42f0166f26594684c0c8f674402d62e13ade1"/>
 		<rom name="SuperLite 2000 Vol. 30 - Yoshinoya (Japan).cue" size="108" crc="654ac1ef" md5="7989bafacf3b3703f6da25c3db1657af" sha1="07f25e0e95adffce6fd031b8b8f5db4801d0b32f"/>
 	</game>
+	<game name="SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity (Japan)">
+		<category>Games</category>
+		<description>SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity (Japan)</description>
+		<rom name="SuperLite 2000 Vol. 31 - Remember 11 - The Age of Infinity (Japan).iso" size="3429826560" crc="da43a624" md5="60e205af6a58b3e778812dffcabaf27d" sha1="f77597ba6038a6da83a969f9da86e542c84e0552"/>
+	</game>
 	<game name="SuperLite 2000 Vol. 34 - Akai Ito (Japan)">
 		<category>Games</category>
 		<description>SuperLite 2000 Vol. 34 - Akai Ito (Japan)</description>
@@ -20464,11 +20387,6 @@
 		<category>Games</category>
 		<description>Surveillance - Kanshisha (Japan, Asia)</description>
 		<rom name="Surveillance - Kanshisha (Japan, Asia).iso" size="4445896704" crc="0de177ed" md5="4c35bf90a281e946c814bc7bdc7d7155" sha1="1ead2e994ba2eb358c55a146f770507e93a7e310"/>
-	</game>
-	<game name="Suwanggi - Project Altered Beast (Korea)">
-		<category>Games</category>
-		<description>Suwanggi - Project Altered Beast (Korea)</description>
-		<rom name="Suwanggi - Project Altered Beast (Korea).iso" size="2128019456" crc="c6763962" md5="f0a6141388fb28af9bd5d4dc4e32302f" sha1="71c8aa7be751e5e630f2801602386129a91269d8"/>
 	</game>
 	<game name="Suzuki Super-Bikes II - Riding Challenge (USA, Canada) (En,Fr,Es)">
 		<category>Games</category>
@@ -21817,10 +21735,10 @@
 		<description>True Fortune (Japan)</description>
 		<rom name="True Fortune (Japan).iso" size="2651619328" crc="a1d54522" md5="3a9d3f2ee2ef3c07759383e4d4ac51c5" sha1="e00ac9369bc9ba62cb3f707ab51cdc4378b6e2e9"/>
 	</game>
-	<game name="True Love Story - Summer Days, and Yet ... (Japan)">
+	<game name="True Love Story - Summer Days, and Yet... (Japan)">
 		<category>Games</category>
-		<description>True Love Story - Summer Days, and Yet ... (Japan)</description>
-		<rom name="True Love Story - Summer Days, and Yet ... (Japan).iso" size="2396880896" crc="7b9357bb" md5="b63b17b73292067d17ef0724cdbdf08f" sha1="e8c295de3270d3a0de794592b569b08c8649b152"/>
+		<description>True Love Story - Summer Days, and Yet... (Japan)</description>
+		<rom name="True Love Story - Summer Days, and Yet... (Japan).iso" size="2396880896" crc="7b9357bb" md5="b63b17b73292067d17ef0724cdbdf08f" sha1="e8c295de3270d3a0de794592b569b08c8649b152"/>
 	</game>
 	<game name="True Love Story 3 (Japan)">
 		<category>Games</category>
@@ -23639,11 +23557,6 @@
 		<category>Games</category>
 		<description>Zathura (USA)</description>
 		<rom name="Zathura (USA).iso" size="2323808256" crc="4d59be6f" md5="296943e22d76c88409522073a22b3002" sha1="b0ad2270f807d1e4286638a15fc1d9f8fb076a6b"/>
-	</game>
-	<game name="Zeonic Front - Kidou Senshi Gundam 0079 (Japan) (Tokubetsuban)">
-		<category>Games</category>
-		<description>Zeonic Front - Kidou Senshi Gundam 0079 (Japan) (Tokubetsuban)</description>
-		<rom name="Zeonic Front - Kidou Senshi Gundam 0079 (Japan) (Tokubetsuban).iso" size="2068414464" crc="11e0c555" md5="741475e9a43a794c25900d4360ae0aa7" sha1="0022ff7b5fba2605768edc5e392d8705bf2a94c7"/>
 	</game>
 	<game name="Zero 4 Champ Series - Drift Champ (Japan)">
 		<category>Games</category>

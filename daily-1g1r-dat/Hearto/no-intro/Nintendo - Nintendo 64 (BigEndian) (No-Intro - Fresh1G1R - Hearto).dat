@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo 64 (BigEndian) (Retool)</name>
-		<description>Nintendo - Nintendo 64 (BigEndian) (435) (-y) [-aAbBcefkmMoprv] (20260108-135415) (Retool)</description>
-		<version>20260108-135415</version>
-		<date>2026-01-16 10-04-57</date>
+		<description>Nintendo - Nintendo 64 (BigEndian) (437) (-y) [-aAbBcefkmMoprv] (20260117-153535) (Retool)</description>
+		<version>20260117-153535</version>
+		<date>2026-01-24 03-47-59</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, C. V. Reynolds, chillerecke, DeriLoko3, EggmanPEI, einstein95, ElBarto, FakeShemp, Gefflon, Hiccup, jimmsu, Just001Kim, kazumi213, LNRC, Madeline, MeguCocoa, MisterSheeple, Money_114, NESBrew12, nnssxx, NovaAurora, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, root, scorp256, sCZther, SonGoku, Special T, TeamEurope, togemet2, UnlockerPT, xprism, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -964,10 +964,20 @@
 		<description>Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)</description>
 		<rom name="Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk).z64" size="33554432" crc="dcc110a0" md5="8f281800fba5ddcb1d2b377731fc0215" sha1="2f0744f2422b0421697a74b305cb1ef27041ab11"/>
 	</game>
+	<game name="Legend of Zelda, The - Majora's Mask (USA) (Zelda Collection)" id="0928">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Majora's Mask (USA) (Zelda Collection)</description>
+		<rom name="Legend of Zelda, The - Majora's Mask (USA) (Zelda Collection).z64" size="33554432" crc="b008458f" md5="ac0751dbc23ab2ec0c3144203aca0003" sha1="9743aa026e9269b339eb0e3044cd5830a440c1fd" sha256="e951a0cd34c137267a6434c62b97947e62486212aab5dd412e17131428c6e5d5"/>
+	</game>
 	<game name="Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)" id="0378">
 		<category>Games</category>
 		<description>Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)</description>
 		<rom name="Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).z64" size="33554432" crc="32120c23" md5="57a9719ad547c516342e1a15d5c28c3d" sha1="41b3bdc48d98c48529219919015a1af22f5057c2" sha256="49acd3885f13b0730119b78fb970911cc8aba614fe383368015c21565983368d"/>
+	</game>
+	<game name="Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (Zelda Collection)" id="0931">
+		<category>Games</category>
+		<description>Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (Zelda Collection)</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (Zelda Collection).z64" size="33554432" crc="832d6449" md5="1618403427e4344a57833043db5ce3c3" sha1="f46239439f59a2a594ef83cf68ef65043b1bffe2"/>
 	</game>
 	<game name="Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)" id="0927">
 		<category>Games</category>

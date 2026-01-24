@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation 3 (Retool)</name>
-		<description>Sony - PlayStation 3 (1,629) (-y) [-aAbBcdkmMpPuv] (2026-01-09 22-21-44) (Retool)</description>
-		<version>2026-01-09 22-21-44</version>
-		<date>2026-01-16 10-14-20</date>
+		<description>Sony - PlayStation 3 (1,625) (-y) [-aAbBcdkmMpPuv] (2026-01-23 17-31-09) (Retool)</description>
+		<version>2026-01-23 17-31-09</version>
+		<date>2026-01-24 03-59-13</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -1690,11 +1690,6 @@
 		<category>Games</category>
 		<description>Disney Universe (USA, Korea) (En,Fr,Es)</description>
 		<rom name="Disney Universe (USA, Korea) (En,Fr,Es).iso" size="5963644928" crc="8db3f0ab" md5="df2eefe45ca2f27c6a7a3e403385ccee" sha1="f9520e6503d7faeb538bdba08491bc8ca35a4445"/>
-	</game>
-	<game name="Disney-Pixar Arabalar 2 (Turkey)">
-		<category>Games</category>
-		<description>Disney-Pixar Arabalar 2 (Turkey)</description>
-		<rom name="Disney-Pixar Arabalar 2 (Turkey).iso" size="3654090752" crc="e730780d" md5="b1f42302e5ed8bd40ffaba54b7bd5cd2" sha1="c720f037ceacf69f747531197e91e471770a2069"/>
 	</game>
 	<game name="Disney-Pixar Brave (USA, Asia) (En,Fr,Es)">
 		<category>Games</category>
@@ -3650,11 +3645,6 @@
 		<category>Games</category>
 		<description>LEGO Dimensions (USA) (En,Fr,Es)</description>
 		<rom name="LEGO Dimensions (USA) (En,Fr,Es).iso" size="24269488128" crc="2ae81dde" md5="cc0442c89080400cc2e596a7303a3921" sha1="fd29cdb9b6b9ad929fbcf9d081d9297e2ffa5d6a"/>
-	</game>
-	<game name="LEGO Harry Potter - Dai-1-shou - Dai-4-shou (Japan)">
-		<category>Games</category>
-		<description>LEGO Harry Potter - Dai-1-shou - Dai-4-shou (Japan)</description>
-		<rom name="LEGO Harry Potter - Dai-1-shou - Dai-4-shou (Japan).iso" size="8629714944" crc="5f415a48" md5="31fa0c48066f6a73c325aeefe771cddd" sha1="ea8700629c0f4721a2623f099ab40894b5d452ac"/>
 	</game>
 	<game name="LEGO Harry Potter - Years 1-4 (USA) (En,Fr,De,Es,It,Da) (v03.00)">
 		<category>Games</category>
@@ -5656,11 +5646,6 @@
 		<description>Remember Me (USA, Korea) (En,Fr,De,Es,It)</description>
 		<rom name="Remember Me (USA, Korea) (En,Fr,De,Es,It).iso" size="7126646784" crc="7d308ab2" md5="351f94d32646758f5a51379b1c1070f8" sha1="47fe0d47bc0a2363661457c0537fa82c57cd6e48"/>
 	</game>
-	<game name="Renzhong zhi Long 0 - Shiyue de Changsuo (Asia)">
-		<category>Games</category>
-		<description>Renzhong zhi Long 0 - Shiyue de Changsuo (Asia)</description>
-		<rom name="Renzhong zhi Long 0 - Shiyue de Changsuo (Asia).iso" size="24296292352" crc="d10dc9eb" md5="eee0e2e986583e065890e175a5b8e8ae" sha1="fd8c9d5e4ac9edcbf0d737f968fd6c8f03ecb40c"/>
-	</game>
 	<game name="Resident Evil - Operation Raccoon City (USA, Asia) (En,Fr,De,Es,It,Nl,Pl,Ru)">
 		<category>Games</category>
 		<description>Resident Evil - Operation Raccoon City (USA, Asia) (En,Fr,De,Es,It,Nl,Pl,Ru)</description>
@@ -7546,10 +7531,10 @@
 		<description>Ultimate Stealth Triple Pack (USA) (En,Fr,Es)</description>
 		<rom name="Ultimate Stealth Triple Pack (USA) (En,Fr,Es).iso" size="42613735424" crc="e39c6d23" md5="cf8435874c5a83972803b09453033de5" sha1="18d97ab1694545dd42bc110ef8b95fe91aa8ff60"/>
 	</game>
-	<game name="Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko)">
+	<game name="Ultra Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko)">
 		<category>Games</category>
-		<description>Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko)</description>
-		<rom name="Ultra Street Fighter IV (USA) (En,Ja,Fr,De,Es,It,Ko).iso" size="19465175040" crc="721067f3" md5="d72af6231721d3550741ef16f7915de5" sha1="ea9641dfb9197c9c34b6527bf3fa83da3b7c8e12"/>
+		<description>Ultra Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko)</description>
+		<rom name="Ultra Street Fighter IV (USA, Asia) (En,Ja,Fr,De,Es,It,Ko).iso" size="19465175040" crc="721067f3" md5="d72af6231721d3550741ef16f7915de5" sha1="ea9641dfb9197c9c34b6527bf3fa83da3b7c8e12"/>
 	</game>
 	<game name="Umineko no Naku Koro ni - Majo to Suiri no Rondo (Japan)">
 		<category>Games</category>
@@ -8040,11 +8025,6 @@
 		<category>Games</category>
 		<description>Worms Collection (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Worms Collection (USA) (En,Fr,De,Es,It).iso" size="1404895232" crc="c36b7a96" md5="a15ced01be788dcbc53ef89a5ff8d7ed" sha1="dd0498f640c34f656f447c944c1e1c353615db98"/>
-	</game>
-	<game name="X Factor (France) (En,Fr,De,It,Nl)">
-		<category>Games</category>
-		<description>X Factor (France) (En,Fr,De,It,Nl)</description>
-		<rom name="X Factor (France) (En,Fr,De,It,Nl).iso" size="3468754944" crc="6dd969fb" md5="e4ce9697788d2f03a7d80a3327439b34" sha1="2ccc071262b1ef1a61fbade16b3146f4dc265f85"/>
 	</game>
 	<game name="X Factor, The (Europe) (En,Fr,De,It,Nl)">
 		<category>Games</category>

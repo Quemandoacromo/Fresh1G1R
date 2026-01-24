@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>SNK - NeoGeo Pocket Color (Retool)</name>
-		<description>SNK - NeoGeo Pocket Color (75) (-y) [-aAbBcdkmMpPuv] (20240506-123728) (Retool)</description>
+		<description>SNK - NeoGeo Pocket Color (73) (-y) [-aAbBcdkmMpPuv] (20240506-123728) (Retool)</description>
 		<version>20240506-123728</version>
-		<date>2026-01-16 10-17-55</date>
+		<date>2026-01-24 04-01-28</date>
 		<author>BigFred, BitLooter, ElBarto, Gefflon, Hiccup, omonim2007, Powerpuff, psykopat, rarenight, relax, SonGoku, xuom2, xxxddd</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -90,11 +90,6 @@
 		<category>Games</category>
 		<description>Dynamite Slugger (Japan, Europe) (En,Ja)</description>
 		<rom name="Dynamite Slugger (Japan, Europe) (En,Ja).ngc" size="1048576" crc="7f1779cd" md5="c84f675a617df14b1a1bf06f02be773d" sha1="90104d5917db4cacfd1d0ef8b2b01fea09679a93" sha256="c8a31bb171d8991fd8b78b6b4a229b4c7f5d97a33353e85358062a35440a74f3"/>
-	</game>
-	<game name="Evolution - Eternal Dungeons (Europe) (v03)" id="0135">
-		<category>Games</category>
-		<description>Evolution - Eternal Dungeons (Europe) (v03)</description>
-		<rom name="Evolution - Eternal Dungeons (Europe) (v03).ngc" size="2097152" crc="a60582f8" md5="277ce8138fbf2d493c0478bfdb30e21f" sha1="b054fffae64f3c97c6d9fb68dd68ef7c8a92053c" sha256="0c6e90a7c4031c418b402485c18bea3b8e91c11c9f8bbe8bfbdb6ed24b85e8c0"/>
 	</game>
 	<game name="Evolution - Eternal Dungeons (Europe) (vA1)" id="0021">
 		<category>Games</category>
@@ -295,11 +290,6 @@
 		<category>Games</category>
 		<description>Pocket Love - if (Japan)</description>
 		<rom name="Pocket Love - if (Japan).ngc" size="2097152" crc="c2ee1ee5" md5="62347264d918559a95034be7cea8756d" sha1="2b5d9628b7b5911f90c28321227d47a527a719ea" sha256="9aa72a5bd6b224ef182c3d05ae3346fc53ad513198da4917767c5960aec62f30"/>
-	</game>
-	<game name="Pocket Reversi (Europe) (v03)" id="0134">
-		<category>Games</category>
-		<description>Pocket Reversi (Europe) (v03)</description>
-		<rom name="Pocket Reversi (Europe) (v03).ngc" size="524288" crc="9589f2f2" md5="48b11e8772b752db938685639b667e2f" sha1="e1698b96dd37aca3d0b977235234550292baaa74" sha256="fde70f1e88bdcbca7d5f4d4b32d5d504c55f15a491ac734acb2a1b7b85aa2cad"/>
 	</game>
 	<game name="Pocket Reversi (Europe) (vA1)" id="0067">
 		<category>Games</category>

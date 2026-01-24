@@ -2,15 +2,30 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Watara - Supervision (Retool)</name>
-		<description>Watara - Supervision (65) (-ly) [-aAbBcdDefkmMopPruv] (20250625-093232) (Retool)</description>
+		<description>Watara - Supervision (69) (-ly) [-aAbBcdDefkmMopPruv] (20250625-093232) (Retool)</description>
 		<version>20250625-093232</version>
-		<date>2026-01-16 10-12-55</date>
+		<date>2026-01-24 03-55-31</date>
 		<author>Flashfire42, Hiccup, Psychofox11, psykopat, relax, Schrodinger, SonGoku, TeamEurope, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
 		<clrmamepro forcenodump="required"></clrmamepro>
 		<retool>Created by Retool 2.4.8</retool>
 	</header>
+	<game name="2 in 1 - Block Buster + Cross High (USA, Europe)" id="0001">
+		<category>Games</category>
+		<description>2 in 1 - Block Buster + Cross High (USA, Europe)</description>
+		<rom name="2 in 1 - Block Buster + Cross High (USA, Europe).sv" size="65536" crc="7e05d84f" md5="316929b844f277c6b1c4ee1613d13394" sha1="f2b7902b8c522f63858c99caa81d63f4cdcb60cb" sha256="b1b35a4c8bdd96eef9ccbfc3f0bd3313acbfeee646a5cb4b71e52475c9f334e6"/>
+	</game>
+	<game name="2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)" id="0002">
+		<category>Games</category>
+		<description>2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)</description>
+		<rom name="2 in 1 - Hash Blocks + Eagle Plan (USA, Europe).sv" size="65536" crc="c1354952" md5="4ed067ce17d373e3a531a422254b61e6" sha1="bca1c05ebac50a1acd4a8d3b440a29867edc9826" sha256="eaa5a6251ec8cf4b269ed40903a85f69e12c289c6a41b992759e97e9f81a0546"/>
+	</game>
+	<game name="4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky (USA, Europe)" id="0070">
+		<category>Games</category>
+		<description>4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky (USA, Europe)</description>
+		<rom name="4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky (USA, Europe).sv" size="262144" crc="ab3bbf1a" md5="e24ba13bf9b54da75c543835ca0c5810" sha1="3e220d943787467a46b3170506720ca872314e24"/>
+	</game>
 	<game name="Alien (USA, Europe)" id="0003">
 		<category>Games</category>
 		<description>Alien (USA, Europe)</description>
@@ -305,6 +320,11 @@
 		<category>Games</category>
 		<description>Super Pang (USA, Europe)</description>
 		<rom name="Super Pang (USA, Europe).sv" size="65536" crc="181d12dd" md5="c93782ad97197a5134bb82a65bba1a54" sha1="c4d61fcab3e8eb2aedb48b41bac24bf7197a7e21" sha256="6c63577475d324492de4c90f3e5824863e8c3b5c1dc7f8903bb5c1f50862bb7a"/>
+	</game>
+	<game name="TV-Link (USA, Europe)" id="0067">
+		<category>Games</category>
+		<description>TV-Link (USA, Europe)</description>
+		<rom name="TV-Link (USA, Europe).sv" size="32768" crc="af3ea0dd" md5="e3494460f4a14c18a2aafa0d791189f8" sha1="08ea89ec012034cde36919ff94af95b9d8af8aa6" sha256="f73babcf401fd81924ec2237ac3bfe7f375fb760cca08f883be6ae2ed73b1829"/>
 	</game>
 	<game name="Tasac 2010 (USA, Europe)" id="0042">
 		<category>Games</category>

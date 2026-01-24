@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Satellaview (Retool)</name>
-		<description>Nintendo - Satellaview (301) (-y) [-aAbBcdkmMpPuv] (20260110-134030) (Retool)</description>
-		<version>20260110-134030</version>
-		<date>2026-01-16 10-17-14</date>
+		<description>Nintendo - Satellaview (301) (-y) [-aAbBcdkmMpPuv] (20260117-023118) (Retool)</description>
+		<version>20260117-023118</version>
+		<date>2026-01-24 04-03-01</date>
 		<author>Arctic Circle System, BigFred, Blank, C. V. Reynolds, dead_screem, Gefflon, Hiccup, kazumi213, leekindo, Money_114, NovaAurora, omonim2007, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>

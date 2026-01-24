@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Panasonic - 3DO Interactive Multiplayer (Retool)</name>
-		<description>Panasonic - 3DO Interactive Multiplayer (300) (-y) [-aAbBcdkmMpPuv] (2026-01-07 02-04-07) (Retool)</description>
-		<version>2026-01-07 02-04-07</version>
-		<date>2026-01-16 10-13-50</date>
+		<description>Panasonic - 3DO Interactive Multiplayer (299) (-y) [-aAbBcdkmMpPuv] (2026-01-17 15-36-01) (Retool)</description>
+		<version>2026-01-17 15-36-01</version>
+		<date>2026-01-24 03-58-41</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -40,12 +40,6 @@
 		<description>Anno Mitsumasa Pepperon-mura no Shiki (Japan)</description>
 		<rom name="Anno Mitsumasa Pepperon-mura no Shiki (Japan).bin" size="422184000" crc="445e80f9" md5="9d2295d20446c75c4278cf8fecad3fcb" sha1="4c5306566eca1800e3f80ac36ef429de6711cf8c"/>
 		<rom name="Anno Mitsumasa Pepperon-mura no Shiki (Japan).cue" size="134" crc="c4b2654b" md5="71489e485448ef774394e3c3a9ab296b" sha1="c111de381b53b8c2e47d91b67f34640c7f5344e1"/>
-	</game>
-	<game name="Another World (Europe)">
-		<category>Games</category>
-		<description>Another World (Europe)</description>
-		<rom name="Another World (Europe).bin" size="302114400" crc="723b4d3e" md5="bc9dd627428b9b3f607cd75fa3fd1d82" sha1="62aa07d39e9ca55b58fe19f9cdc6815065b7ee1b"/>
-		<rom name="Another World (Europe).cue" size="111" crc="98443c7e" md5="6d6c79df43d9a1522492719dd90bbc45" sha1="df3bb1d729a7a99cf4dfc5671d21f42338506227"/>
 	</game>
 	<game name="Armageddon (Korea)">
 		<category>Games</category>

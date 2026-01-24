@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Dreamcast (Retool)</name>
-		<description>Sega - Dreamcast (819) (-y) [-aAbBcefkmMoprv] (2026-01-10 08-39-37) (Retool)</description>
-		<version>2026-01-10 08-39-37</version>
-		<date>2026-01-16 10-02-07</date>
+		<description>Sega - Dreamcast (818) (-y) [-aAbBcefkmMoprv] (2026-01-23 04-07-39) (Retool)</description>
+		<version>2026-01-23 04-07-39</version>
+		<date>2026-01-24 03-46-46</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -377,21 +377,21 @@
 		<rom name="Atari Anniversary Edition (USA) (Track 5).bin" size="945047712" crc="a23bb3bc" md5="5a3bc29d16ad7a1783a85b6cf5982087" sha1="11b9243169233a6014f9a9dcfd11a01075fa88b0"/>
 		<rom name="Atari Anniversary Edition (USA).cue" size="642" crc="f74eb5f2" md5="1be76fbeff38ef4cb51aeb2632447318" sha1="648c5f2dc006cc0b0b1d35d7b3ed869fc12e74b2"/>
 	</game>
-	<game name="Atsumare! Guru Guru Onsen (Japan) (Demo 1)">
+	<game name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1)">
 		<category>Demos</category>
-		<description>Atsumare! Guru Guru Onsen (Japan) (Demo 1)</description>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 1) (Track 1).bin" size="1470000" crc="66724bcc" md5="bc0ff850834c4730abc062f23f197820" sha1="103ceec87a1c769c5bdb9887d0ba5cc675fd2614"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 1) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 1) (Track 3).bin" size="1185760800" crc="d2e4a39a" md5="c4eb429c5a2baf19022b5a93628d49bc" sha1="e592e9432d6af9195394dc723d47fe52206dd28e"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 1).cue" size="420" crc="57b437f2" md5="1c1d539048ff1818d5666a1a24f40d28" sha1="986c6fcbd444787f26c4106f8a4b9b8fd37a5a09"/>
+		<description>Atsumare! Guru Guru Onsen (Japan) (Taikenban 1)</description>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1) (Track 1).bin" size="1470000" crc="66724bcc" md5="bc0ff850834c4730abc062f23f197820" sha1="103ceec87a1c769c5bdb9887d0ba5cc675fd2614"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1) (Track 3).bin" size="1185760800" crc="d2e4a39a" md5="c4eb429c5a2baf19022b5a93628d49bc" sha1="e592e9432d6af9195394dc723d47fe52206dd28e"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 1).cue" size="435" crc="938e9180" md5="e2e58f61610f2b72efcf32dd3f37e29b" sha1="b379a3403c74fde22b8fed4e0852d9f6df175ad2"/>
 	</game>
-	<game name="Atsumare! Guru Guru Onsen (Japan) (Demo 2)">
+	<game name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2)">
 		<category>Demos</category>
-		<description>Atsumare! Guru Guru Onsen (Japan) (Demo 2)</description>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 2) (Track 1).bin" size="1470000" crc="2aadb6d7" md5="6b599ced39a8e949449d7d243ffb7130" sha1="50a33639a742a83ac3a19ea89e18943c47f429c1"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 2) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 2) (Track 3).bin" size="1185760800" crc="c2e71479" md5="2a8fdd8d917cd223167728e6b790bed2" sha1="405b4776f715e07402986a55d2c1078bcb6df4b4"/>
-		<rom name="Atsumare! Guru Guru Onsen (Japan) (Demo 2).cue" size="420" crc="e8db1820" md5="0c07ea72a3e6c92f5c4176d05537debe" sha1="42c54bea521105d04ad45cd4e29d6ab38d5c1b40"/>
+		<description>Atsumare! Guru Guru Onsen (Japan) (Taikenban 2)</description>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2) (Track 1).bin" size="1470000" crc="2aadb6d7" md5="6b599ced39a8e949449d7d243ffb7130" sha1="50a33639a742a83ac3a19ea89e18943c47f429c1"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2) (Track 3).bin" size="1185760800" crc="c2e71479" md5="2a8fdd8d917cd223167728e6b790bed2" sha1="405b4776f715e07402986a55d2c1078bcb6df4b4"/>
+		<rom name="Atsumare! Guru Guru Onsen (Japan) (Taikenban 2).cue" size="435" crc="f6b46676" md5="b71453896b1a7f1696c00eb825cddc5e" sha1="820e22301d4691d4d803c7a08613775661339f4c"/>
 	</game>
 	<game name="Atsumare! Guru Guru Onsen BB (Japan) (Rev A)">
 		<category>Games</category>
@@ -991,13 +991,13 @@
 		<rom name="Chocolat - Maid Cafe Curio (Japan) (Track 3).bin" size="1185760800" crc="49ff060e" md5="c21e90c0ca78f8203651797e3e41ae0a" sha1="f47ffe679b63c9bc37581b9818e9809c5a035058"/>
 		<rom name="Chocolat - Maid Cafe Curio (Japan).cue" size="396" crc="9c1ccd8c" md5="47b012647963cf26c6b1195d22c253f8" sha1="56602183569320c3cd0ffffb63951ff17f30d45e"/>
 	</game>
-	<game name="Chocolat - Maid Cafe Curio (Japan) (Demo)">
+	<game name="Chocolat - Maid Cafe Curio (Japan) (Taikenban)">
 		<category>Demos</category>
-		<description>Chocolat - Maid Cafe Curio (Japan) (Demo)</description>
-		<rom name="Chocolat - Maid Cafe Curio (Japan) (Demo) (Track 1).bin" size="705600" crc="60b4057c" md5="3d6b30772f7fffc352058d9a7a72049f" sha1="efc1a3ed37d873edc874436cf2fe1b18efd28112"/>
-		<rom name="Chocolat - Maid Cafe Curio (Japan) (Demo) (Track 2).bin" size="5268480" crc="cc64e5d5" md5="4ef539c4f9fce5a719a2282115464eb1" sha1="2be6dc6c95cece5e406b85c7e1f8651e677ac084"/>
-		<rom name="Chocolat - Maid Cafe Curio (Japan) (Demo) (Track 3).bin" size="1185760800" crc="a7451710" md5="40063879b1825d013144d3e203bcbaa1" sha1="61ded0ebafe3d53248904eeb718b572cb72d3ea9"/>
-		<rom name="Chocolat - Maid Cafe Curio (Japan) (Demo).cue" size="417" crc="c894cda5" md5="6ea0f6250126da4dd048517412e32c76" sha1="9600a42ad5e255d4dcd9a9434373e0f00721ad21"/>
+		<description>Chocolat - Maid Cafe Curio (Japan) (Taikenban)</description>
+		<rom name="Chocolat - Maid Cafe Curio (Japan) (Taikenban) (Track 1).bin" size="705600" crc="60b4057c" md5="3d6b30772f7fffc352058d9a7a72049f" sha1="efc1a3ed37d873edc874436cf2fe1b18efd28112"/>
+		<rom name="Chocolat - Maid Cafe Curio (Japan) (Taikenban) (Track 2).bin" size="5268480" crc="cc64e5d5" md5="4ef539c4f9fce5a719a2282115464eb1" sha1="2be6dc6c95cece5e406b85c7e1f8651e677ac084"/>
+		<rom name="Chocolat - Maid Cafe Curio (Japan) (Taikenban) (Track 3).bin" size="1185760800" crc="a7451710" md5="40063879b1825d013144d3e203bcbaa1" sha1="61ded0ebafe3d53248904eeb718b572cb72d3ea9"/>
+		<rom name="Chocolat - Maid Cafe Curio (Japan) (Taikenban).cue" size="432" crc="dad345b8" md5="be1714fb4f8ffef3bea37ba11b703f16" sha1="3723bb4b775e8a5dcdc2852b1b41d60d9723d8c5"/>
 	</game>
 	<game name="Chou Hatsumei Boy Kanipan - Bousou Robot no Nazo! (Japan)">
 		<category>Games</category>
@@ -3725,26 +3725,26 @@
 		<rom name="Hydro Thunder (USA) (Rev 1) (Track 37).bin" size="579617472" crc="3593f844" md5="9193c49ef799bb375da8c4c35a8f212e" sha1="53b62d8ad8faa123e90f92f812b8f3df189f4425"/>
 		<rom name="Hydro Thunder (USA) (Rev 1).cue" size="4531" crc="eab7cb27" md5="861d6c7bfe1c7d010b8c8c7c7671868c" sha1="c2cd6e7e8b2f828ba52790bb9606dcc37e41c0d7"/>
 	</game>
-	<game name="Idol Janshi o Tsukucchaou (Japan)">
+	<game name="Idol Janshi o Tsukutchaou (Japan)">
 		<category>Games</category>
-		<description>Idol Janshi o Tsukucchaou (Japan)</description>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 01).bin" size="35315280" crc="e8894cfe" md5="4dc1716aa0982571320d0b23fbd4eca1" sha1="6efca4d239170417c6a51e51d415659e3ef3b1c8"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 03).bin" size="283470096" crc="e771a27c" md5="9e0681afc433570bafd761f220db8515" sha1="775db064ab70473ca581e3a852df192f8e09b2be"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 04).bin" size="17127264" crc="6a626529" md5="2e01ea8cab2d3de64dd6db30684f4847" sha1="e9533ec2a681146eb7998e24b67ec45928f0f7f9"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 05).bin" size="42491232" crc="3763e857" md5="58f36ef2e562d332226fe0bff79f795b" sha1="d70dba7d76f5f8195efb305415c6faddd4092535"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 06).bin" size="52844736" crc="efbd42df" md5="de8b69ee6010ef49aaa3787c1612979a" sha1="3db51abbf3fd22c7f496b737dea21981eaab56f5"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 07).bin" size="36027936" crc="1fb753bc" md5="8c22a6e37ff4a80438669d46c53b6284" sha1="5e21ec0feb2b98d7cfa5e3a07d5158f1b62912a4"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 08).bin" size="50528016" crc="f75825c6" md5="833c4cc5e822fa0ff9cf9386bb07eace" sha1="07da0a6e36b73726ed7819f54ba92ad33c99ebdc"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 09).bin" size="50680896" crc="36e2aca3" md5="9937981595cf9c154c89952c0738ca08" sha1="30039fbc3a73da34e2927af9471fc3673e039fb0"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 10).bin" size="21325584" crc="a0a39f77" md5="3f012095d36a79bc1702d11ae3b72a8f" sha1="fa5485325e96c2fd25e5b9cff76be9c6d572a5a3"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 11).bin" size="21320880" crc="510ab97d" md5="0e6baca786eac04947da72726f4f02b7" sha1="f41b8e16f25f96a7661c55f5db5126f0c5c563d5"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 12).bin" size="21316176" crc="b4609a74" md5="81a9337090a47511f4d517a8a8eb8b97" sha1="ab76675e8d55ba228a93eed0d30ac4d31bf21aec"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 13).bin" size="21290304" crc="4181ff00" md5="f9990996a64a8c0988eae8874b3384d1" sha1="443603794e1be7812f12457ae9ecb08ac1e5b812"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 14).bin" size="21320880" crc="0c000070" md5="353afcfc2116e4146d4343ac769c1460" sha1="ee914139481581954fbe3553a6c5d0f6e94f9c3d"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 15).bin" size="21311472" crc="7ce9781a" md5="ba7ee1dd414dfcbc580cccc6fe13496a" sha1="37b3ccb115fed9dab711db8b0e0c2b4ac4d6ba36"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan) (Track 16).bin" size="524705328" crc="251c7cb2" md5="09f1a9db6803d23b7805b42ad9989111" sha1="727b38b90e8e5afeb7b36418d34bc3beccfe1c15"/>
-		<rom name="Idol Janshi o Tsukucchaou (Japan).cue" size="2065" crc="e21ff289" md5="dc7ea5821089ba83d3a78db331ace78a" sha1="9fdb581c90190d0d5b9cb3ff796c722d80459d0e"/>
+		<description>Idol Janshi o Tsukutchaou (Japan)</description>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 01).bin" size="35315280" crc="e8894cfe" md5="4dc1716aa0982571320d0b23fbd4eca1" sha1="6efca4d239170417c6a51e51d415659e3ef3b1c8"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 02).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 03).bin" size="283470096" crc="e771a27c" md5="9e0681afc433570bafd761f220db8515" sha1="775db064ab70473ca581e3a852df192f8e09b2be"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 04).bin" size="17127264" crc="6a626529" md5="2e01ea8cab2d3de64dd6db30684f4847" sha1="e9533ec2a681146eb7998e24b67ec45928f0f7f9"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 05).bin" size="42491232" crc="3763e857" md5="58f36ef2e562d332226fe0bff79f795b" sha1="d70dba7d76f5f8195efb305415c6faddd4092535"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 06).bin" size="52844736" crc="efbd42df" md5="de8b69ee6010ef49aaa3787c1612979a" sha1="3db51abbf3fd22c7f496b737dea21981eaab56f5"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 07).bin" size="36027936" crc="1fb753bc" md5="8c22a6e37ff4a80438669d46c53b6284" sha1="5e21ec0feb2b98d7cfa5e3a07d5158f1b62912a4"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 08).bin" size="50528016" crc="f75825c6" md5="833c4cc5e822fa0ff9cf9386bb07eace" sha1="07da0a6e36b73726ed7819f54ba92ad33c99ebdc"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 09).bin" size="50680896" crc="36e2aca3" md5="9937981595cf9c154c89952c0738ca08" sha1="30039fbc3a73da34e2927af9471fc3673e039fb0"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 10).bin" size="21325584" crc="a0a39f77" md5="3f012095d36a79bc1702d11ae3b72a8f" sha1="fa5485325e96c2fd25e5b9cff76be9c6d572a5a3"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 11).bin" size="21320880" crc="510ab97d" md5="0e6baca786eac04947da72726f4f02b7" sha1="f41b8e16f25f96a7661c55f5db5126f0c5c563d5"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 12).bin" size="21316176" crc="b4609a74" md5="81a9337090a47511f4d517a8a8eb8b97" sha1="ab76675e8d55ba228a93eed0d30ac4d31bf21aec"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 13).bin" size="21290304" crc="4181ff00" md5="f9990996a64a8c0988eae8874b3384d1" sha1="443603794e1be7812f12457ae9ecb08ac1e5b812"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 14).bin" size="21320880" crc="0c000070" md5="353afcfc2116e4146d4343ac769c1460" sha1="ee914139481581954fbe3553a6c5d0f6e94f9c3d"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 15).bin" size="21311472" crc="7ce9781a" md5="ba7ee1dd414dfcbc580cccc6fe13496a" sha1="37b3ccb115fed9dab711db8b0e0c2b4ac4d6ba36"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan) (Track 16).bin" size="524705328" crc="251c7cb2" md5="09f1a9db6803d23b7805b42ad9989111" sha1="727b38b90e8e5afeb7b36418d34bc3beccfe1c15"/>
+		<rom name="Idol Janshi o Tsukutchaou (Japan).cue" size="2065" crc="9b0622e6" md5="d40c56473957135aef0510a891b06d98" sha1="fa804ccc9b5a46bc98ec38f4aaf9288ae5cab2f9"/>
 	</game>
 	<game name="Ikaruga (Japan)">
 		<category>Games</category>
@@ -7123,13 +7123,13 @@
 		<rom name="Sakura Momoko Gekijou - Coji-Coji (Japan) (Track 3).bin" size="1185760800" crc="553f2c14" md5="963e9d9a31f9f4cb5a86188ead50690f" sha1="dd1d8cee1d683f41a29af3cc85cff74bb9412a66"/>
 		<rom name="Sakura Momoko Gekijou - Coji-Coji (Japan).cue" size="417" crc="12c9c4be" md5="ae0714a28d46b21778371a8d84a9c121" sha1="3d849b0b7f827dcd79f3e4c0471221532caa3067"/>
 	</game>
-	<game name="Sakura Taisen (Japan) (Disc 1)">
+	<game name="Sakura Taisen (Japan) (Disc 1) (Rev A)">
 		<category>Games</category>
-		<description>Sakura Taisen (Japan) (Disc 1)</description>
-		<rom name="Sakura Taisen (Japan) (Disc 1) (Track 1).bin" size="705600" crc="a4dc0757" md5="6fe7c844c5372a649e9c5a6a2e2161b9" sha1="129fc9679818d92d0bbf99450019dae37e8d073a"/>
-		<rom name="Sakura Taisen (Japan) (Disc 1) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
-		<rom name="Sakura Taisen (Japan) (Disc 1) (Track 3).bin" size="1185760800" crc="afd23241" md5="9f9a7792b3425e7c3e4526e6e3f2c247" sha1="a7c66254b88072afebdf2c842f6dffcb025c20b9"/>
-		<rom name="Sakura Taisen (Japan) (Disc 1).cue" size="384" crc="20102641" md5="5e7adeb3387bd77cc7e7c82936929a62" sha1="9e1fabff7acbe73ac0eff17280ac136a476bd671"/>
+		<description>Sakura Taisen (Japan) (Disc 1) (Rev A)</description>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 1).bin" size="705600" crc="60851f18" md5="7af762924158ce757c0eb6a9a09311f9" sha1="a9042bc74c4e10e0db2d8a6e72872da3813128cc"/>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A) (Track 3).bin" size="1185760800" crc="240b4117" md5="5f8da8e838af9b41dea8b1872d809a2c" sha1="f4077a914e66ff7ec0f53f403ea2a61b5dfbfd83"/>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (Rev A).cue" size="408" crc="0f1e37b3" md5="bae5198d60b37ffb6625b30f10a3b9e4" sha1="9d7964ac96e6fcb6aac82e9453eaca3a9cd4603d"/>
 	</game>
 	<game name="Sakura Taisen (Japan) (Disc 2) (Rev A)">
 		<category>Games</category>
@@ -7859,30 +7859,6 @@
 		<rom name="Snow (Japan) (Track 2).bin" size="2088576" crc="1859ea65" md5="652a31166a58b8f933e8a924e7c88780" sha1="0ecd537e42946f3e74c80c9fcb8d0bccccfc96f1"/>
 		<rom name="Snow (Japan) (Track 3).bin" size="1185760800" crc="490aa4b7" md5="f733da986e78c48315b2f92e1921f7cb" sha1="2c37c74068dd7352ead67f0c6fc8b1649bcc182c"/>
 		<rom name="Snow (Japan).cue" size="330" crc="d284a7c0" md5="741277ff64683b3c5ff4d3e05e5464c6" sha1="ecff329b5be91f8059ba96013d574ed3d89c89d3"/>
-	</game>
-	<game name="Snow Surfers (Europe)">
-		<category>Games</category>
-		<description>Snow Surfers (Europe)</description>
-		<rom name="Snow Surfers (Europe) (Track 01).bin" size="1058400" crc="0a3ebf95" md5="48d8b730adac21748181a1a2e5c42acc" sha1="d863e15cfba43d8eae8d4131ec6a4d8983a76481"/>
-		<rom name="Snow Surfers (Europe) (Track 02).bin" size="14347200" crc="49e43706" md5="9cca4624e62f04dc398aed22b5370a34" sha1="a34bdc73ac1e360b13d0592b501a388e0225e994"/>
-		<rom name="Snow Surfers (Europe) (Track 03).bin" size="385076496" crc="33a24672" md5="32a2cff8aebec743eb0856ca9eb93419" sha1="5cba9d00755dff0d19e2b2908739b170ddf51def"/>
-		<rom name="Snow Surfers (Europe) (Track 04).bin" size="29719872" crc="ef40675d" md5="9eed9ad8599852319f2c716d79cfe731" sha1="b0144c7b282cffd8dc29cce1e6b9eeecebdc1f20"/>
-		<rom name="Snow Surfers (Europe) (Track 05).bin" size="46790688" crc="9ac508fc" md5="c47cd847bc056125fb6fac35c35458a3" sha1="6f5fdca86ecb30e56124012c3563990e52982a96"/>
-		<rom name="Snow Surfers (Europe) (Track 06).bin" size="35282352" crc="463de3c7" md5="6186dff0e070bc4d5ec3f47f9537ff13" sha1="ff3a47ca6b6e9d45b96d393385896948f0c001bc"/>
-		<rom name="Snow Surfers (Europe) (Track 07).bin" size="48121920" crc="0993d72e" md5="6a063bac5c67ea767e6c1ab28db1803f" sha1="3a9b1779b2f2438a22184e74fc51d99440d8b818"/>
-		<rom name="Snow Surfers (Europe) (Track 08).bin" size="60641616" crc="dfc38f1f" md5="85b79f1f7c1baacf14ec882d5294c023" sha1="8760b62d2aa9f4d674c8599cdf700dffc1c25be0"/>
-		<rom name="Snow Surfers (Europe) (Track 09).bin" size="41256432" crc="907b84d8" md5="7da7261931ae8e1b5fee6b56fec75317" sha1="57c3b27d981a30535694fc675386e874648b96ba"/>
-		<rom name="Snow Surfers (Europe) (Track 10).bin" size="18096288" crc="c3b32d1f" md5="8a4dfe34cf177501ae5d29e3fc0b993a" sha1="28b57291aaf746beeec6c9aa1c5ec91d2ec4b6c6"/>
-		<rom name="Snow Surfers (Europe) (Track 11).bin" size="11407200" crc="22796e68" md5="e7fed1fb789d3a371e37a0792deb0b54" sha1="7a34a9b2fe6cabc297aa7f2af7d9ee186da22c6e"/>
-		<rom name="Snow Surfers (Europe) (Track 12).bin" size="38050656" crc="3a528aa8" md5="de6ba55f46c5d6c31e51f9397f8af516" sha1="4bd814ff2a796794f34bbfb2f7674d4c8015982b"/>
-		<rom name="Snow Surfers (Europe) (Track 13).bin" size="44998464" crc="8ca59268" md5="9389ae61ff552f27bfdf84d1c2c0cfa9" sha1="962e6670c4c1968466ab0a1036145d6f32cf2f5f"/>
-		<rom name="Snow Surfers (Europe) (Track 14).bin" size="52324944" crc="c2e72063" md5="fcbd8ef97dc48cea9c8178ca783eb78b" sha1="8577d499ba24c560f256ea3560e4e93b71166813"/>
-		<rom name="Snow Surfers (Europe) (Track 15).bin" size="32683392" crc="24d435a3" md5="454c51e743877c30bfad8934d5814dde" sha1="7a514ff6e6c9e807d12e20e0c7331d50c304ccd1"/>
-		<rom name="Snow Surfers (Europe) (Track 16).bin" size="57155952" crc="6ba7b5f7" md5="902dd47d226df744442f7d7a17d69456" sha1="73d24ea560a1e7fae92b279acd36ccb9fc2bb714"/>
-		<rom name="Snow Surfers (Europe) (Track 17).bin" size="50189328" crc="e7e2fbca" md5="62b4e43dcabefad882243a20ebb2d835" sha1="1bb50eab5facfb63149639d81da9c37f78498964"/>
-		<rom name="Snow Surfers (Europe) (Track 18).bin" size="40056912" crc="08f81819" md5="4f1bc1ae3000cc979e1bd894274ae6cd" sha1="a0bf1ce9c29f8b54e99a5f19ace792c19f0c2538"/>
-		<rom name="Snow Surfers (Europe) (Track 19).bin" size="193908288" crc="9a981845" md5="3e1d974ea4977dbb1c8f3a43be7619cd" sha1="658501881055bde54a6eba17c531bfa57aa12a9d"/>
-		<rom name="Snow Surfers (Europe).cue" size="2221" crc="e8d78942" md5="9e8cabb577017731567eb0c231a06f7a" sha1="f33519b7d260a071739578b6197356222a3f2d00"/>
 	</game>
 	<game name="Soldier of Fortune (USA)">
 		<category>Games</category>

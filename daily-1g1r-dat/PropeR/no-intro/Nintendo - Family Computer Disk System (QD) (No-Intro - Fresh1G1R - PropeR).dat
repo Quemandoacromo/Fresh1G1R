@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Family Computer Disk System (QD) (Retool)</name>
-		<description>Nintendo - Family Computer Disk System (QD) (200) (-y) [-aAbBcdkmMpPuv] (20251108-025914) (Retool)</description>
-		<version>20251108-025914</version>
-		<date>2026-01-16 10-16-04</date>
+		<description>Nintendo - Family Computer Disk System (QD) (200) (-y) [-aAbBcdkmMpPuv] (20260118-023845) (Retool)</description>
+		<version>20260118-023845</version>
+		<date>2026-01-24 04-02-44</date>
 		<author>Arctic Circle System, BigFred, bikerspade, Blank, C. V. Reynolds, chillerecke, dead_screem, Flashfire42, fuzzball, Gefflon, Hiccup, kazumi213, MeguCocoa, nnssxx, omonim2007, rarenight, relax, RetroUprising, SonGoku, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -1181,6 +1181,6 @@
 	<game name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition)" id="0337">
 		<category>Games</category>
 		<description>Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition)</description>
-		<rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition).qd" size="131072" crc="b9367eff" md5="ecaa6dc4de07e280fa7ec73316960285" sha1="6988177928785901b5b1ed53edc87c5e335f82ba"/>
+		<rom name="Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition).qd" size="131072" crc="b9367eff" md5="ecaa6dc4de07e280fa7ec73316960285" sha1="6988177928785901b5b1ed53edc87c5e335f82ba" sha256="09aaa32bd1dfdc943faa335fa2c7c4cb2c73c8ae2a7f46172c947d7af9f91014"/>
 	</game>
 </datafile>

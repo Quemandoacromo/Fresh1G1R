@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,814) (-y) [-aAbBcefkmMoprv] (20260115-143526) (Retool)</description>
-		<version>20260115-143526</version>
-		<date>2026-01-16 10-05-23</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,818) (-y) [-aAbBcefkmMoprv] (20260122-064936) (Retool)</description>
+		<version>20260122-064936</version>
+		<date>2026-01-24 03-50-48</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4506,6 +4506,11 @@
 		<description>Legend of Zelda, The (USA) (Rev 1)</description>
 		<rom name="Legend of Zelda, The (USA) (Rev 1).unh" size="131072" crc="eaf7ed72" md5="d3f453931146e95b04a31647de80fdab" sha1="be2f5dc8c5ba8ec1a344a71f9fb204750af24fe7" sha256="ec0d4ebf6d2fcecd1d95fef7329954efe79676959bc281ea908b226459bc6dc2"/>
 	</game>
+	<game name="Legend of Zelda, The (USA) (Zelda Collection)" id="2655">
+		<category>Games</category>
+		<description>Legend of Zelda, The (USA) (Zelda Collection)</description>
+		<rom name="Legend of Zelda, The (USA) (Zelda Collection).unh" size="131072" crc="34540318" md5="0b32851acecf93212b198e074c5e59bc" sha1="2ff3122a9d499920bdeeac9f3033fbd74ff5d94a" sha256="4106807e662d661621bf1cda90c24f29b6560bb8f19354f23154a769f10c9039"/>
+	</game>
 	<game name="Legendary Wings (USA)" id="1256">
 		<category>Games</category>
 		<description>Legendary Wings (USA)</description>
@@ -6239,10 +6244,20 @@
 		<description>Puzslot (Japan)</description>
 		<rom name="Puzslot (Japan).unh" size="262144" crc="f4dd5ba5" md5="04de971fa984af0afa01bb503d53c90e" sha1="6eae7638e08b790bbfdd29310ce6c77b3f1e6c83" sha256="04876421677718d4eeb96ffde6a189ebf7645de7c421243b403480eefcb6feff"/>
 	</game>
+	<game name="Puzzle (USA) (1 EPROM) (Unl)" id="8316">
+		<category>Games</category>
+		<description>Puzzle (USA) (1 EPROM) (Unl)</description>
+		<rom name="Puzzle (USA) (1 EPROM) (Unl).unh" size="65536" crc="ea19080a" md5="51cc17698a54580c54409fc293698c51" sha1="6afc82dbdb84b09286d09192bffd641d9b3d003f" sha256="88ebfd7a124182cce8ac9f545b5cfe897b25edc09d27c4685c026323cbd0d42b"/>
+	</game>
+	<game name="Puzzle (USA) (2 EPROMs) (Unl)" id="8315">
+		<category>Games</category>
+		<description>Puzzle (USA) (2 EPROMs) (Unl)</description>
+		<rom name="Puzzle (USA) (2 EPROMs) (Unl).unh" size="65536" crc="ccec1416" md5="71e69fa50d147b654ee83fb7b0ecca79" sha1="7a1098c3038444870d9c770b754f1776f49141cf" sha256="d7f1a0fde0dae86f739f271e450cc2231cbfcb5a18260e83e9754bdac6e75e19"/>
+	</game>
 	<game name="Puzzle (USA) (Unl)" id="1743">
 		<category>Games</category>
 		<description>Puzzle (USA) (Unl)</description>
-		<rom name="Puzzle (USA) (Unl).unh" size="65536" crc="ea19080a" md5="51cc17698a54580c54409fc293698c51" sha1="6afc82dbdb84b09286d09192bffd641d9b3d003f" sha256="88ebfd7a124182cce8ac9f545b5cfe897b25edc09d27c4685c026323cbd0d42b"/>
+		<rom name="Puzzle (USA) (Unl).unh" size="65536" crc="c71be787" md5="f88525ceaaae889a5e5e394b43490728" sha1="0b218c63e22e0c93e337f00f401d79e60f423947" sha256="0aca302a56374c7cc9d7de1ecab3e0c7fcc1b870c3325331246d751f0e94768d"/>
 	</game>
 	<game name="Puzznic (USA)" id="1747">
 		<category>Games</category>
@@ -9078,6 +9093,11 @@
 		<category>Games</category>
 		<description>Zelda II - The Adventure of Link (USA)</description>
 		<rom name="Zelda II - The Adventure of Link (USA).unh" size="262144" crc="ba322865" md5="88c0493fb1146834836c0ff4f3e06e45" sha1="11333adb723a5975e0ecca3aee8f4747aa8d2d26" sha256="4cfc55e1521e58039d502f2a5ff16c233b84c0a05b1048185c75c971f3814c16"/>
+	</game>
+	<game name="Zelda II - The Adventure of Link (USA) (Zelda Collection)" id="2656">
+		<category>Games</category>
+		<description>Zelda II - The Adventure of Link (USA) (Zelda Collection)</description>
+		<rom name="Zelda II - The Adventure of Link (USA) (Zelda Collection).unh" size="262144" crc="262f31ac" md5="039256a05556fb689ae3c04503381de4" sha1="6168ddc77c8703ea0a034f79ad0025bc420d634b" sha256="a73c3a7ac26cf0f142a497f2b897ad19df2ad67f7b20e75ea2c66a0178ce1c31"/>
 	</game>
 	<game name="Zen - Intergalactic Ninja (USA)" id="2552">
 		<category>Games</category>
