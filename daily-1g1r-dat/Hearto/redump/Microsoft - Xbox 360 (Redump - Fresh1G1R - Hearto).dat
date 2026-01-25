@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,590) (-y) [-aAbBcefkmMoprv] (2026-01-22 16-38-04) (Retool)</description>
-		<version>2026-01-22 16-38-04</version>
-		<date>2026-01-24 03-46-30</date>
+		<description>Microsoft - Xbox 360 (1,591) (-y) [-aAbBcefkmMoprv] (2026-01-25 01-40-41) (Retool)</description>
+		<version>2026-01-25 01-40-41</version>
+		<date>2026-01-25 04-02-41</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -4046,10 +4046,10 @@
 		<description>Lost - Via Domus (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Lost - Via Domus (USA, Europe) (En,Fr,De,Es,It).iso" size="7835492352" crc="0daa92f4" md5="6803737f64b78b4e83b9f1f269e538c7" sha1="0b9695d6d3ee09dc34eef99cb63e39d897451d8d"/>
 	</game>
-	<game name="Lost Odyssey (Japan) (Demo)">
+	<game name="Lost Odyssey (Japan) (Taikenban)">
 		<category>Demos</category>
-		<description>Lost Odyssey (Japan) (Demo)</description>
-		<rom name="Lost Odyssey (Japan) (Demo).iso" size="7834892288" crc="56542cb1" md5="d22aa3c3c8a53ac8148c4f66bbe927b9" sha1="bf8d354f6c093ff4f4e9e558175af3d3fae17437"/>
+		<description>Lost Odyssey (Japan) (Taikenban)</description>
+		<rom name="Lost Odyssey (Japan) (Taikenban).iso" size="7834892288" crc="56542cb1" md5="d22aa3c3c8a53ac8148c4f66bbe927b9" sha1="bf8d354f6c093ff4f4e9e558175af3d3fae17437"/>
 	</game>
 	<game name="Lost Odyssey (USA, Europe) (En,Ja,Fr,De,Es,It) (Disc 1)">
 		<category>Games</category>
@@ -4870,6 +4870,11 @@
 		<category>Games</category>
 		<description>NBA 2K8 (USA)</description>
 		<rom name="NBA 2K8 (USA).iso" size="7835492352" crc="1e18e6ee" md5="0746a06934ab2cca6830808772c9b464" sha1="981139b97f12dcb59f63623ee8ae92ad6b4371e0"/>
+	</game>
+	<game name="NBA 2K8 (USA) (Demo)">
+		<category>Demos</category>
+		<description>NBA 2K8 (USA) (Demo)</description>
+		<rom name="NBA 2K8 (USA) (Demo).iso" size="7835492352" crc="9e66c8b2" md5="b53f9acbb9ce4126ac5714c0306fe15a" sha1="55800da55beb5940607eb6d67762868661c2d1ce"/>
 	</game>
 	<game name="NBA 2K9 (USA, Europe)">
 		<category>Games</category>
