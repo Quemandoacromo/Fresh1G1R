@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (1,163) (-y) [-aAbBcefkmMoprv] (20260124-124924) (Retool)</description>
-		<version>20260124-124924</version>
-		<date>2026-01-26 04-07-59</date>
+		<description>Sega - Mega Drive - Genesis (1,163) (-y) [-aAbBcefkmMoprv] (20260125-212239) (Retool)</description>
+		<version>20260125-212239</version>
+		<date>2026-01-27 03-59-02</date>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3748,10 +3748,11 @@
 		<description>Pit-Fighter (World) (En,Ja)</description>
 		<rom name="Pit-Fighter (World) (En,Ja).md" size="1048576" crc="d48a8b02" md5="9af02a38fd858a7d4d54a6bc3b8cb75a" sha1="8cd0ffaf3c29b3aa1f9068cd89cb64f492066d74" sha256="e092d94035ee35309d5a6e121a6c7f0a7df0e273efd299d8ebd98febfcb40a87"/>
 	</game>
-	<game name="Pit-Fighter II (World) (En,Ja) (Proto)" id="3699">
+	<game name="Pit-Fighter II (USA) (Proto)" id="3699">
+		<category>Games</category>
 		<category>Preproduction</category>
-		<description>Pit-Fighter II (World) (En,Ja) (Proto)</description>
-		<rom name="Pit-Fighter II (World) (En,Ja) (Proto).md" size="1984488" crc="9eefe971" md5="c8a7681decb2f498b68ee341d804dd38" sha1="dd2a7b40feb6d91ff5cdf4103a107ae509ea4d76" sha256="9383679a504d3f5c1c1b3e1ecf0b28ae276824e59fe2838475030edfe65d9ef7"/>
+		<description>Pit-Fighter II (USA) (Proto)</description>
+		<rom name="Pit-Fighter II (USA) (Proto).md" size="1984488" crc="9eefe971" md5="c8a7681decb2f498b68ee341d804dd38" sha1="dd2a7b40feb6d91ff5cdf4103a107ae509ea4d76" sha256="9383679a504d3f5c1c1b3e1ecf0b28ae276824e59fe2838475030edfe65d9ef7"/>
 	</game>
 	<game name="Pitfall - The Mayan Adventure (USA)" id="1021">
 		<category>Games</category>

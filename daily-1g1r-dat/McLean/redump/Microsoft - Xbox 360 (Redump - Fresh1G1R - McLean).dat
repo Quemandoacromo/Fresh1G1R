@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,392) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-26 04-04-29) (Retool)</description>
-		<version>2026-01-26 04-04-29</version>
-		<date>2026-01-26 04-12-12</date>
+		<description>Microsoft - Xbox 360 (1,392) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-27 04-00-54) (Retool)</description>
+		<version>2026-01-27 04-00-54</version>
+		<date>2026-01-27 04-02-51</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -371,10 +371,10 @@
 		<description>Autobahn Polizei (USA)</description>
 		<rom name="Autobahn Polizei (USA).iso" size="7838695424" crc="53d629ec" md5="ac31625a794c14fa11c824151dd88a06" sha1="96a3c943c2aaec97590d7638f779339bad29f58d"/>
 	</game>
-	<game name="Back to the Future - The Game - 30th Anniversary Edition (USA) (En,Fr,De)">
+	<game name="Back to the Future - The Game - 30th Anniversary Edition (USA, Europe) (En,Fr,De)">
 		<category>Games</category>
-		<description>Back to the Future - The Game - 30th Anniversary Edition (USA) (En,Fr,De)</description>
-		<rom name="Back to the Future - The Game - 30th Anniversary Edition (USA) (En,Fr,De).iso" size="7838695424" crc="09534bc9" md5="6dc87c731ad7f3536f1c715e4119ab38" sha1="a7cbd50eac82971c1262176f2840e88627da2d09"/>
+		<description>Back to the Future - The Game - 30th Anniversary Edition (USA, Europe) (En,Fr,De)</description>
+		<rom name="Back to the Future - The Game - 30th Anniversary Edition (USA, Europe) (En,Fr,De).iso" size="7838695424" crc="09534bc9" md5="6dc87c731ad7f3536f1c715e4119ab38" sha1="a7cbd50eac82971c1262176f2840e88627da2d09"/>
 	</game>
 	<game name="Backbreaker (USA, Europe)">
 		<category>Games</category>
@@ -576,10 +576,10 @@
 		<description>Ben 10 - Galactic Racing (USA, Europe)</description>
 		<rom name="Ben 10 - Galactic Racing (USA, Europe).iso" size="7838695424" crc="78c5224e" md5="34a3be98c0f94f33ce8a4df277540a9d" sha1="5cc95888e08560d648f60e89211a1c9367adb20f"/>
 	</game>
-	<game name="Ben 10 - Omniverse (USA)">
+	<game name="Ben 10 - Omniverse (USA, Europe)">
 		<category>Games</category>
-		<description>Ben 10 - Omniverse (USA)</description>
-		<rom name="Ben 10 - Omniverse (USA).iso" size="7838695424" crc="895fdc00" md5="4b7b27d39a1cfe064cef9d421a546082" sha1="f4461b432d6e17a1882b92d864b2c74f5623ac9e"/>
+		<description>Ben 10 - Omniverse (USA, Europe)</description>
+		<rom name="Ben 10 - Omniverse (USA, Europe).iso" size="7838695424" crc="895fdc00" md5="4b7b27d39a1cfe064cef9d421a546082" sha1="f4461b432d6e17a1882b92d864b2c74f5623ac9e"/>
 	</game>
 	<game name="Ben 10 - Omniverse 2 (USA, Europe)">
 		<category>Games</category>
@@ -701,10 +701,10 @@
 		<description>Blazing Angels - Squadrons of WWII (USA, Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Blazing Angels - Squadrons of WWII (USA, Europe) (En,Fr,De,Es,It).iso" size="7834892288" crc="413e3945" md5="b016ac151b3a3e1280c8e0f75afdb4c7" sha1="967830bdddeb5e9d59c93a051a999e6351925c53"/>
 	</game>
-	<game name="Blazing Angels 2 - Secret Missions of WWII (USA) (En,Fr,De,Es,It)">
+	<game name="Blazing Angels 2 - Secret Missions of WWII (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
-		<description>Blazing Angels 2 - Secret Missions of WWII (USA) (En,Fr,De,Es,It)</description>
-		<rom name="Blazing Angels 2 - Secret Missions of WWII (USA) (En,Fr,De,Es,It).iso" size="7835492352" crc="3e70ab40" md5="57987489b98c658c79f1febf5dbe0749" sha1="ba85b8d537de6716705a5c796afebef33a7313e0"/>
+		<description>Blazing Angels 2 - Secret Missions of WWII (USA, Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Blazing Angels 2 - Secret Missions of WWII (USA, Europe) (En,Fr,De,Es,It).iso" size="7835492352" crc="3e70ab40" md5="57987489b98c658c79f1febf5dbe0749" sha1="ba85b8d537de6716705a5c796afebef33a7313e0"/>
 	</game>
 	<game name="Blitz - The League (USA, Europe)">
 		<category>Games</category>

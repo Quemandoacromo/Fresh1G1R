@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,743) (-y) [-aAbBcdkmMpPuv] (20260124-122207) (Retool)</description>
-		<version>20260124-122207</version>
-		<date>2026-01-26 04-21-12</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,743) (-y) [-aAbBcdkmMpPuv] (20260125-223147) (Retool)</description>
+		<version>20260125-223147</version>
+		<date>2026-01-27 04-10-58</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8016,10 +8016,10 @@
 		<description>Uchuu no Kishi - Tekkaman Blade (Japan)</description>
 		<rom name="Uchuu no Kishi - Tekkaman Blade (Japan).sfc" size="1048576" crc="7e107c35" md5="303db6a77d5a4b353b9d96231e91a481" sha1="4f7505f76d9094376395c96a19f038e85e71f840" sha256="72cd9d19eab369610008e5888c62785cadf844d99449a5c654c20212587c729f"/>
 	</game>
-	<game name="Ugoku E Ver. 2.0 - Aryol (Japan)" id="0137">
+	<game name="Ugoku E Ver. 2.0 - Aryol (Japan) (En,Ja)" id="0137">
 		<category>Games</category>
-		<description>Ugoku E Ver. 2.0 - Aryol (Japan)</description>
-		<rom name="Ugoku E Ver. 2.0 - Aryol (Japan).sfc" size="1048576" crc="43b1aad9" md5="03c868ab217e6e676f965a2319871a5c" sha1="108774bfbb16f11d9884587f98a4a76077e7b12f" sha256="7a150a9a51723f89450bedca7cbbbf0c7441e7935cea223f514960d13f520c64"/>
+		<description>Ugoku E Ver. 2.0 - Aryol (Japan) (En,Ja)</description>
+		<rom name="Ugoku E Ver. 2.0 - Aryol (Japan) (En,Ja).sfc" size="1048576" crc="43b1aad9" md5="03c868ab217e6e676f965a2319871a5c" sha1="108774bfbb16f11d9884587f98a4a76077e7b12f" sha256="7a150a9a51723f89450bedca7cbbbf0c7441e7935cea223f514960d13f520c64"/>
 	</game>
 	<game name="Ultima - Kyouryuu Teikoku - The Savage Empire (Japan)" id="3162">
 		<category>Games</category>

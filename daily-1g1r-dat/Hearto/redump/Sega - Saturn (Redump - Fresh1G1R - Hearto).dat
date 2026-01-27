@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sega - Saturn (Retool)</name>
-		<description>Sega - Saturn (1,365) (-y) [-aAbBcefkmMoprv] (2026-01-18 20-25-04) (Retool)</description>
-		<version>2026-01-18 20-25-04</version>
-		<date>2026-01-26 04-06-29</date>
+		<description>Sega - Saturn (1,366) (-y) [-aAbBcefkmMoprv] (2026-01-26 12-53-29) (Retool)</description>
+		<version>2026-01-26 12-53-29</version>
+		<date>2026-01-27 03-57-03</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -13670,6 +13670,46 @@
 		<rom name="Pocket Fighter (Japan) (Track 34).bin" size="3706752" crc="a78e9028" md5="4d4906455fb03271e7957a487651a7f4" sha1="912c85588887eca8342f906e973c718c294e86fe"/>
 		<rom name="Pocket Fighter (Japan) (Track 35).bin" size="10936800" crc="c25e28f1" md5="2064026e723129977192c60d12773eb7" sha1="265f6444e2d283cf1b13018c07f4946a1e5ea9be"/>
 		<rom name="Pocket Fighter (Japan).cue" size="4100" crc="16cfa732" md5="e8566d61c3243af3e15c83ea3b62392b" sha1="b896b66eaede84c9996b08cc5cbe1d386f95973f"/>
+	</game>
+	<game name="Pocket Fighter (Japan) (Demo)">
+		<category>Demos</category>
+		<description>Pocket Fighter (Japan) (Demo)</description>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 01).bin" size="70014336" crc="468bca05" md5="205bedf1b519fce3210a98321ecd4a78" sha1="373ad1e70ae0d7c5a1ed49e0550c6c30ccfcd204"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 02).bin" size="1239504" crc="86e01c1b" md5="650937f88d0a32a98c2c9917fb080164" sha1="25a031e1a6dbb39d3c1f45871bd02517aa57b42c"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 03).bin" size="12616128" crc="ab4dfef2" md5="1867fef930353ec31a946e1102ed25ce" sha1="28ca4c3900b9e5b88a173a14df30c680395f6690"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 04).bin" size="12025776" crc="8900c28a" md5="ea59364b4e6b2f370104292323df0efe" sha1="78b053426e139ba458e76a52113c2a545c0ca579"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 05).bin" size="4146576" crc="d2b67a32" md5="c88b31c10cb73f71fc6c3f30be8a7de1" sha1="d3d4e0a0032079fef4fe208532d7d22d7f22868b"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 06).bin" size="11376624" crc="36b0ff96" md5="67a96fcb053c892770c0bb060f564ab4" sha1="65ba3e214a8d65afc9142fb200b734aa6a013050"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 07).bin" size="1060752" crc="dcd90aea" md5="9311235770a190a962a3cbf3ccc84309" sha1="d528446f037c6035d5732ee0cbab17cbd4ea1c5a"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 08).bin" size="32107152" crc="a6672553" md5="9a40d3679e17a31b126c7e6253f5df7e" sha1="c198d2f2c9fa4bf3abd3fb1d165e04b34ef190f4"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 09).bin" size="32107152" crc="6e4d9938" md5="e5e027612c98d0472e0e5af2dab1ec16" sha1="77fa6a9be6e7cecafad0621fe10f278c53ca2774"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 10).bin" size="32107152" crc="4e3f75c6" md5="3ab13269f902f73313e57aa1ef2fb6c0" sha1="f371970c19d7d48a0ea47201c39859ede41f1c19"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 11).bin" size="32104800" crc="1987b8b5" md5="efdfa1138e67356a5b01fb0dfdab4a5b" sha1="da4664e9e43ff65498a3a01f89d4b9c0827edfec"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 12).bin" size="32107152" crc="ee158b93" md5="7f4e6b5cb79839433254461ec7b81619" sha1="ad8dc465ad19ea12edb97cd49063090d25a9907e"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 13).bin" size="32107152" crc="7a2370a3" md5="78d0c05f32e3c66dd60e0b66598f16e5" sha1="73fcc2fe88e7cea3ffa586327f384a885bb72ffd"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 14).bin" size="32107152" crc="f43f94c6" md5="c336cdab14e395198af58cf73145e225" sha1="573ab22a7602b9baacaa8cdba544e1b01925833b"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 15).bin" size="32107152" crc="dc9e659a" md5="c2b396034fb50f8a9696bcde2d076a28" sha1="e7a8e06882ddc8a99d6ce27f8952f45212168bbb"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 16).bin" size="32107152" crc="04ffd1d5" md5="447874bf732f28746ef538008bbb22ab" sha1="3771d9d7398be454607268592cddd7e8c48914fe"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 17).bin" size="32107152" crc="6076f532" md5="9b8e5c3967905c6fab63a276860cd428" sha1="2cccf1d8860efb48f76ad59dfa83b4027827e9f9"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 18).bin" size="32107152" crc="4b53ccf7" md5="f0ca8870b2d0e2c0619bf4ef5339ad28" sha1="ac6cf144dd35d0cb3344100dee03367cee087433"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 19).bin" size="2439024" crc="44451b49" md5="e6588772bfdce7bff8015bca72eca00f" sha1="9df77eabfd25c1bc9200aef997663dfcf127aa98"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 20).bin" size="10939152" crc="d264a2ac" md5="862a6fd41762907cef4a024d381cbf76" sha1="78da435f451dd062d54c4ffde70b63bee685fdb1"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 21).bin" size="11059104" crc="8993e314" md5="877a365eb9055207976a57524a361233" sha1="aa7fcf5a1c37f3af0390fef01560d0f1584d530a"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 22).bin" size="10939152" crc="825f3c29" md5="78d29a7193c5e1e8c3792ed9b9e04248" sha1="c7f20406aca1b7074bd2d4fdc8df31b24510d408"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 23).bin" size="10939152" crc="ee75ab3f" md5="8de41dd79f5afaf29a1e353b4bab061e" sha1="bf30a7e94385806e25621348e8f04b62f7847bc3"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 24).bin" size="10939152" crc="8cd93db0" md5="326aa23243c9ce4f0cba195bef93c65a" sha1="74aaa58ae716b4480a217aefa7ef44dd41ef5db6"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 25).bin" size="10939152" crc="a441ab49" md5="278f77567a53fcdb04281f74563c4bff" sha1="e28f58613727adb14eeee2f92ed6f97ff28aab55"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 26).bin" size="10939152" crc="618e9cd7" md5="72f724fa2c86872d0b3727be927e2557" sha1="6243d2cc5f03aa6742b6a6e15aac81e0827b52bf"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 27).bin" size="10939152" crc="d5c629d0" md5="a62952e244d2379cc7dcf56f78049139" sha1="6ea3cc705f2d5dfe39f352905d733a9f0c9233d4"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 28).bin" size="10939152" crc="241e2663" md5="a617dd35b2b9f8bbf1ba007101a2cfc8" sha1="0095ad96e447e5ab2c2b535cbda2440ed4d51180"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 29).bin" size="10939152" crc="8b9aac04" md5="07f4c221367d4daa9ddab34baabb1fcf" sha1="529c125e6a7469ed5376119ef3a7ebe2e9e2cd50"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 30).bin" size="10939152" crc="d4d070d6" md5="4f6da7f7fa03afe6ce2c873f912245b0" sha1="09be4934538827a8ded8d3f5d859c2f52e753e99"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 31).bin" size="10939152" crc="e979371a" md5="4472e9e6ef63f8e6498c77d2b533a3a5" sha1="d3d42a773f1e63b2f3a34ffdc7d48a4ead35b02f"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 32).bin" size="10939152" crc="9a42f5de" md5="441e7148ccdbc2504883e01d905207ee" sha1="520292405950c1c3a16c60ba935658c24529db25"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 33).bin" size="11106144" crc="a9df461d" md5="b8c33d284ce39ce93d41354faed62397" sha1="2a24876ad401c8dcec7da645716bb2575236f218"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 34).bin" size="3706752" crc="a78e9028" md5="4d4906455fb03271e7957a487651a7f4" sha1="912c85588887eca8342f906e973c718c294e86fe"/>
+		<rom name="Pocket Fighter (Japan) (Demo) (Track 35).bin" size="10936800" crc="c25e28f1" md5="2064026e723129977192c60d12773eb7" sha1="265f6444e2d283cf1b13018c07f4946a1e5ea9be"/>
+		<rom name="Pocket Fighter (Japan) (Demo).cue" size="4345" crc="861c48cb" md5="c3454d382797f8e56a51ff549891cb44" sha1="e94a9e822755d6a0763654c1d0ffe900adf6cfc2"/>
 	</game>
 	<game name="Policenauts (Japan) (Disc 1)">
 		<category>Games</category>
