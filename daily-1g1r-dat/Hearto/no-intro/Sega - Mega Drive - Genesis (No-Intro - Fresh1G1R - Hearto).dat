@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Sega - Mega Drive - Genesis (Retool)</name>
-		<description>Sega - Mega Drive - Genesis (1,163) (-y) [-aAbBcefkmMoprv] (20260125-212239) (Retool)</description>
-		<version>20260125-212239</version>
-		<date>2026-01-27 03-59-02</date>
+		<description>Sega - Mega Drive - Genesis (1,163) (-y) [-aAbBcefkmMoprv] (20260126-204602) (Retool)</description>
+		<version>20260126-204602</version>
+		<date>2026-01-28 03-56-30</date>
 		<author>Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, buckwheat, C. V. Reynolds, coraz, dead_screem, DeadSkullzJr, Densetsu, DeriLoko3, EggmanPEI, einstein95, ElBarto, Flashfire42, Gefflon, gigadeath, Goratrix, Hiccup, Jack, Madeline, MeguCocoa, Money_114, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, Prominos, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, root, sCZther, smesgr, SonGoku, Special T, sunbeam, Tauwasser, TeamEurope, Vigi, xNo, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -4269,10 +4269,10 @@
 		<description>Second Samurai (Europe)</description>
 		<rom name="Second Samurai (Europe).md" size="1048576" crc="78e92143" md5="333f15e8bc4ecacf168b399a988fe1e7" sha1="72bfe0d4c56d9600a39fae00399fef157eb1fe6f" sha256="a636037c6772db0dd91ccdc504896a5d01cd6846e7678f6ee49c0c32c16f987b"/>
 	</game>
-	<game name="Sega Channel (USA) (Demo) (1994-02-16)" id="0031">
+	<game name="Sega Channel (USA) (Demo)" id="0031">
 		<category>Demos</category>
-		<description>Sega Channel (USA) (Demo) (1994-02-16)</description>
-		<rom name="Sega Channel (USA) (Demo) (1994-02-16).md" size="524288" crc="2abae889" md5="a45842e6f4ba3441a67077a0416ddde3" sha1="b473b18592cac3c0761718ea515f0c6c1237249a" sha256="39ade4ec518e915060ca42220856a247caee881b24635af271cb672dc507a15f"/>
+		<description>Sega Channel (USA) (Demo)</description>
+		<rom name="Sega Channel (USA) (Demo).md" size="524288" crc="2abae889" md5="a45842e6f4ba3441a67077a0416ddde3" sha1="b473b18592cac3c0761718ea515f0c6c1237249a" sha256="39ade4ec518e915060ca42220856a247caee881b24635af271cb672dc507a15f"/>
 	</game>
 	<game name="Segapede (USA) (Proto)" id="2796">
 		<category>Games</category>

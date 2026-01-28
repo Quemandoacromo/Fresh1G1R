@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,392) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-27 04-00-54) (Retool)</description>
-		<version>2026-01-27 04-00-54</version>
-		<date>2026-01-27 04-02-51</date>
+		<description>Microsoft - Xbox 360 (1,392) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-28 00-29-06) (Retool)</description>
+		<version>2026-01-28 00-29-06</version>
+		<date>2026-01-28 04-00-16</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -2031,10 +2031,10 @@
 		<description>Dynasty Warriors 7 (USA)</description>
 		<rom name="Dynasty Warriors 7 (USA).iso" size="7838695424" crc="93e87fd1" md5="fbe617ce00f62f3ff95a668ac41f8ec6" sha1="cd4b05f3b6e580105f71fbc1bd1de0b36461386a"/>
 	</game>
-	<game name="Dynasty Warriors 8 (USA)">
+	<game name="Dynasty Warriors 8 (USA) (En,Fr,De)">
 		<category>Games</category>
-		<description>Dynasty Warriors 8 (USA)</description>
-		<rom name="Dynasty Warriors 8 (USA).iso" size="8738846720" crc="f3d6cb17" md5="787e03a88080edbdd6e9519a427efce0" sha1="6f656c1293a018b06b77abb8afe2a9f920c4e5c6"/>
+		<description>Dynasty Warriors 8 (USA) (En,Fr,De)</description>
+		<rom name="Dynasty Warriors 8 (USA) (En,Fr,De).iso" size="8738846720" crc="f3d6cb17" md5="787e03a88080edbdd6e9519a427efce0" sha1="6f656c1293a018b06b77abb8afe2a9f920c4e5c6"/>
 	</game>
 	<game name="EA Sports Active 2 - Personal Trainer (USA) (En,Fr,Es)">
 		<category>Games</category>
