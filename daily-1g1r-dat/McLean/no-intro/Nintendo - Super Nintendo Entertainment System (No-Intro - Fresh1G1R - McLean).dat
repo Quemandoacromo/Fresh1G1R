@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (794) (-ly) [-aAbBcdDefkmMopPruv] (20260122-133416) (Retool)</description>
-		<version>20260122-133416</version>
-		<date>2026-01-24 03-56-04</date>
+		<description>Nintendo - Super Nintendo Entertainment System (795) (-ly) [-aAbBcdDefkmMopPruv] (20260126-085236) (Retool)</description>
+		<version>20260126-085236</version>
+		<date>2026-01-29 06-00-32</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3615,6 +3615,11 @@
 		<category>Games</category>
 		<description>Uchuu Race - Astro Go! Go! (Japan) (En)</description>
 		<rom name="Uchuu Race - Astro Go! Go! (Japan) (En).sfc" size="1048576" crc="e949d47f" md5="0f3c8410c9852eda44301b98b750c4f0" sha1="5ce834eaca982791916c10df4f40e3214a0d976c" sha256="9f7a548738deb62318c483757d294a70eeef2f03b1c0ceb465eb7a9741b9a301"/>
+	</game>
+	<game name="Ugoku E Ver. 2.0 - Aryol (Japan) (En,Ja)" id="0137">
+		<category>Games</category>
+		<description>Ugoku E Ver. 2.0 - Aryol (Japan) (En,Ja)</description>
+		<rom name="Ugoku E Ver. 2.0 - Aryol (Japan) (En,Ja).sfc" size="1048576" crc="43b1aad9" md5="03c868ab217e6e676f965a2319871a5c" sha1="108774bfbb16f11d9884587f98a4a76077e7b12f" sha256="7a150a9a51723f89450bedca7cbbbf0c7441e7935cea223f514960d13f520c64"/>
 	</game>
 	<game name="Ultima - Runes of Virtue II (USA)" id="3163">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,818) (-y) [-aAbBcefkmMoprv] (20260122-064936) (Retool)</description>
-		<version>20260122-064936</version>
-		<date>2026-01-24 03-51-42</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,817) (-y) [-aAbBcefkmMoprv] (20260127-083108) (Retool)</description>
+		<version>20260127-083108</version>
+		<date>2026-01-29 05-56-56</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6249,11 +6249,6 @@
 		<category>Games</category>
 		<description>Puzzle (USA) (1 EPROM) (Unl)</description>
 		<rom name="Puzzle (USA) (1 EPROM) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 f0 48 00 00 00 00 00 00 00 01" crc="ccc39fba" md5="dd5011fcf7327c5b9a42204e0f624bbc" sha1="4053b4d994f3ebaf98e6e9ab2d12d3af584e7beb" sha256="326591a3359e176fdb7e8262d8ada231b8d4395bfd55a6be9b567ecb14f53db7"/>
-	</game>
-	<game name="Puzzle (USA) (2 EPROMs) (Unl)" id="8315">
-		<category>Games</category>
-		<description>Puzzle (USA) (2 EPROMs) (Unl)</description>
-		<rom name="Puzzle (USA) (2 EPROMs) (Unl).nes" size="65552" header="4e 45 53 1a 02 04 f0 48 00 00 00 00 00 00 00 01" crc="ea3683a6" md5="82de4071ec443df0e3e7149acecefed2" sha1="a001a799541c195aba55479045668fe9323f93b4" sha256="d003892185b350ce3999de4f5a5d78b3590020b771bf0a552f1aa27ed7061758"/>
 	</game>
 	<game name="Puzzle (USA) (Unl)" id="1743">
 		<category>Games</category>

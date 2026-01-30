@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headerless) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,818) (-y) [-aAbBcefkmMoprv] (20260122-064936) (Retool)</description>
-		<version>20260122-064936</version>
-		<date>2026-01-24 03-50-48</date>
+		<description>Nintendo - Nintendo Entertainment System (Headerless) (1,817) (-y) [-aAbBcefkmMoprv] (20260127-083108) (Retool)</description>
+		<version>20260127-083108</version>
+		<date>2026-01-29 05-58-42</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -6248,11 +6248,6 @@
 		<category>Games</category>
 		<description>Puzzle (USA) (1 EPROM) (Unl)</description>
 		<rom name="Puzzle (USA) (1 EPROM) (Unl).unh" size="65536" crc="ea19080a" md5="51cc17698a54580c54409fc293698c51" sha1="6afc82dbdb84b09286d09192bffd641d9b3d003f" sha256="88ebfd7a124182cce8ac9f545b5cfe897b25edc09d27c4685c026323cbd0d42b"/>
-	</game>
-	<game name="Puzzle (USA) (2 EPROMs) (Unl)" id="8315">
-		<category>Games</category>
-		<description>Puzzle (USA) (2 EPROMs) (Unl)</description>
-		<rom name="Puzzle (USA) (2 EPROMs) (Unl).unh" size="65536" crc="ccec1416" md5="71e69fa50d147b654ee83fb7b0ecca79" sha1="7a1098c3038444870d9c770b754f1776f49141cf" sha256="d7f1a0fde0dae86f739f271e450cc2231cbfcb5a18260e83e9754bdac6e75e19"/>
 	</game>
 	<game name="Puzzle (USA) (Unl)" id="1743">
 		<category>Games</category>
