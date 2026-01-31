@@ -16,10 +16,10 @@ Search for these section names to jump to that part of the file.
 TITLES WITH CLONES
 ==================
 
-+ Action Mania (USA) (Rev 3) (V.Smile Motion)
++ Action Mania (USA) (Rev 1) (V.Smile Motion)
   - Action Mania (Spain) (V.Smile Motion)
-  - Action Mania (USA) (Rev 1) (V.Smile Motion)
   - Action Mania (USA) (Rev 2) (V.Smile Motion)
+  - Action Mania (USA) (Rev 3) (V.Smile Motion)
   - Action Mania (USA) (Rev 4) (V.Smile Motion)
   - Action Mania (USA) (Rev 5) (V.Smile Motion)
   - Sport Games (Netherlands) (V.Smile Motion)

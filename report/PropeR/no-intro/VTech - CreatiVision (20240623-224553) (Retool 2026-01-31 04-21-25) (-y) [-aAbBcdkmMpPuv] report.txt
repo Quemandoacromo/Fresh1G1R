@@ -17,8 +17,12 @@ TITLES WITH CLONES
 
 + Police Jump (Europe, Asia) (En) (Rev 1)
   - Police Jump (Europe, Asia) (En)
-+ Tennis (Europe, Asia) (En) (DSE)
++ Tennis (Europe, Asia) (En) (Wimbledon) (8K)
   - Tennis (Europe, Asia) (En) (Coca-Cola ~ Sprite)
+  - Tennis (Europe, Asia) (En) (DSE)
+  - Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)
+  - Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)
+  - Tennis (Europe, Asia) (En) (Wimbledon) (6K)
 
 TITLES WITHOUT CLONES
 =====================
@@ -42,10 +46,6 @@ TITLES WITHOUT CLONES
 + Stone Age (Europe, Asia) (En)
 + Tank Attack (Europe, Asia) (En) (6K)
 + Tank Attack (Europe, Asia) (En) (8K)
-+ Tennis (Europe, Asia) (En) (DSE) (Rev 1) (6K)
-+ Tennis (Europe, Asia) (En) (DSE) (Rev 1) (8K)
-+ Tennis (Europe, Asia) (En) (Wimbledon) (6K)
-+ Tennis (Europe, Asia) (En) (Wimbledon) (8K)
 
 APPLICATION REMOVES
 ===================

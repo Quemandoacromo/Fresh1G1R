@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Nintendo Entertainment System (Headered) (Retool)</name>
-		<description>Nintendo - Nintendo Entertainment System (Headered) (1,817) (-y) [-aAbBcefkmMoprv] (20260128-025852) (Retool)</description>
-		<version>20260128-025852</version>
-		<date>2026-01-30 04-31-19</date>
+		<description>Nintendo - Nintendo Entertainment System (Headered) (1,817) (-y) [-aAbBcefkmMoprv] (20260129-131345) (Retool)</description>
+		<version>20260129-131345</version>
+		<date>2026-01-31 04-15-40</date>
 		<author>aci68, Arctic Circle System, Aringon, baldjared, BigFred, bikerspade, BitLooter, Blank, buckwheat, Bumpfi, C. V. Reynolds, chillerecke, DeadSkullzJr, DeriLoko3, EggmanPEI, einstein95, fuzzball, Gefflon, Hiccup, Jack, jimmsu, Just001Kim, kazumi213, Lesserkuma, Madeline, Money_114, NESBrew12, niemand, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, RetroUprising, Rifu, sCZther, smesgr, SonGoku, Special T, Tauwasser, ToeKnee, togemet2, UnlockerPT, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -8953,7 +8953,7 @@
 	<game name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl)" id="1978">
 		<category>Games</category>
 		<description>Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl)</description>
-		<rom name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl).nes" size="196624" header="4e 45 53 1a 08 08 00 b8 00 00 00 00 03 00 00 00" crc="28733128" md5="2a1516ebd262e8099f1d8473e96f3f6e" sha1="fa5c26c2f524e6fcd8efda024c6047628db14cdd" sha256="20d6f2b25b391e62f94f21acbc0f40ab11095be08e78aa5c485cc89dd81af024"/>
+		<rom name="Xiao Boshi Jiaoyu Ruanjian Xilie - Zhili Xiao Zhuangyuan (Asia) (Unl).nes" size="196624" header="4e 45 53 1a 08 08 00 b8 00 00 00 00 03 00 00 40" crc="f828e645" md5="d2ac54add4373425f69f90a47e51c4ad" sha1="a318b88b9ad7d0323a166fa99aa4a360e5e0e311" sha256="c6d9e30fe42b83951680a94f01e260af94c8b5acc4000c781c95a6430b5f314a"/>
 	</game>
 	<game name="Xiao Mali (Taiwan) (En) (Nei-Hu) (Unl)" id="2781">
 		<category>Games</category>
