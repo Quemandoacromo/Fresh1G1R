@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Sony - PlayStation Portable (Retool)</name>
-		<description>Sony - PlayStation Portable (1,851) (-y) [-aAbBcefkmMoprv] (2026-01-28 23-59-48) (Retool)</description>
-		<version>2026-01-28 23-59-48</version>
-		<date>2026-01-30 04-27-55</date>
+		<description>Sony - PlayStation Portable (1,814) (-y) [-aAbBcefkmMoprv] (2026-01-31 22-48-36) (Retool)</description>
+		<version>2026-01-31 22-48-36</version>
+		<date>2026-02-01 04-39-21</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -520,11 +520,6 @@
 		<category>Games</category>
 		<description>B-Boy (USA)</description>
 		<rom name="B-Boy (USA).iso" size="1653604352" crc="ccb3c6fc" md5="6297f694d21c39c79eebd323f8822efc" sha1="dec7b0758f2ebb9d9aa35eb4bb412aa4461b0491"/>
-	</game>
-	<game name="Baito Hell 2000 (Japan, Asia)">
-		<category>Games</category>
-		<description>Baito Hell 2000 (Japan, Asia)</description>
-		<rom name="Baito Hell 2000 (Japan, Asia).iso" size="464715776" crc="53116bf8" md5="756004aea237688aeba3436fc5916dab" sha1="c0f4461daa6de7b897fe320787061db21a29e3d1"/>
 	</game>
 	<game name="Baka to Test to Shoukanjuu Portable (Japan)">
 		<category>Games</category>
@@ -1106,16 +1101,6 @@
 		<description>Chaos;Head Noah (Japan)</description>
 		<rom name="Chaos;Head Noah (Japan).iso" size="1416232960" crc="7a95c474" md5="1ca3bccb3b465d824ff7f40fa6459e5a" sha1="a276d0112b428183710fe4020ccb670dffc9f3ad"/>
 	</game>
-	<game name="Cheonjiui Mun (Korea)">
-		<category>Games</category>
-		<description>Cheonjiui Mun (Korea)</description>
-		<rom name="Cheonjiui Mun (Korea).iso" size="1008074752" crc="002d6d89" md5="a13739f20dd4189b89c8eab9f2423a63" sha1="2677dd79d9ce56ba78d8bc890156038d2f6bd376"/>
-	</game>
-	<game name="Cheonjiui Mun 2 - Mussangjeon (Korea)">
-		<category>Games</category>
-		<description>Cheonjiui Mun 2 - Mussangjeon (Korea)</description>
-		<rom name="Cheonjiui Mun 2 - Mussangjeon (Korea).iso" size="1179484160" crc="9ed6bccb" md5="09014538ca001087ee71c843009377b5" sha1="3fa3287971efcaef80c1801559efcb732912e77f"/>
-	</game>
 	<game name="Cherry Blossom Portable (Japan)">
 		<category>Games</category>
 		<description>Cherry Blossom Portable (Japan)</description>
@@ -1241,11 +1226,6 @@
 		<description>Coded Arms - Contagion (USA)</description>
 		<rom name="Coded Arms - Contagion (USA).iso" size="547225600" crc="c9842017" md5="5f99c4bf5b2620a0100c1e8c976e72fa" sha1="c187dc04d784b279ccb2ed2401dc072ee8195a72"/>
 	</game>
-	<game name="Coded Gun - Contagion (Korea)">
-		<category>Games</category>
-		<description>Coded Gun - Contagion (Korea)</description>
-		<rom name="Coded Gun - Contagion (Korea).iso" size="597098496" crc="5c0e7762" md5="1f625a8cecd65c3187f1be935f209be6" sha1="0ccadd4db39731ee7ceee57f85970ed3de2dc914"/>
-	</game>
 	<game name="Coded Soul - Uketsugareshi Idea (Japan)">
 		<category>Games</category>
 		<description>Coded Soul - Uketsugareshi Idea (Japan)</description>
@@ -1265,11 +1245,6 @@
 		<category>Games</category>
 		<description>Con, The (USA)</description>
 		<rom name="Con, The (USA).iso" size="858292224" crc="e5f3a27a" md5="21de240ed31defa685c0c0ec1de0d85a" sha1="aa4031f871e32691d9c6355c4b2603807e09ba8f"/>
-	</game>
-	<game name="Con, The - Gamble Fight (Korea)">
-		<category>Games</category>
-		<description>Con, The - Gamble Fight (Korea)</description>
-		<rom name="Con, The - Gamble Fight (Korea).iso" size="855343104" crc="ec0e8c7f" md5="e4989933fb299ab56ff4514bdbd2cd24" sha1="1c3edf3da99543e7f06d33a283ea67fc5917df27"/>
 	</game>
 	<game name="Conception - Ore no Kodomo o Unde Kure! (Japan) (PSP the Best)">
 		<category>Games</category>
@@ -1300,11 +1275,6 @@
 		<category>Games</category>
 		<description>Crash - Mind over Mutant (USA) (En,Fr)</description>
 		<rom name="Crash - Mind over Mutant (USA) (En,Fr).iso" size="1576468480" crc="3cd38795" md5="6e87a1d2f74feaac5e793502eb7427ed" sha1="15a6293fd5e0fa9d1a7bdcbf8d3b1c0659731a59"/>
-	</game>
-	<game name="Crash Bandicoot - Gatchanko World (Japan)">
-		<category>Games</category>
-		<description>Crash Bandicoot - Gatchanko World (Japan)</description>
-		<rom name="Crash Bandicoot - Gatchanko World (Japan).iso" size="1421770752" crc="64ff6427" md5="1574a24a449f13206194879b97550957" sha1="f80ad367ea60a05e04faa2e8bb4518387a80e135"/>
 	</game>
 	<game name="Crash Tag Team Racing (USA)">
 		<category>Games</category>
@@ -1761,11 +1731,6 @@
 		<description>Disney-Pixar Ratatouille (USA)</description>
 		<rom name="Disney-Pixar Ratatouille (USA).iso" size="906362880" crc="b000752b" md5="7ba9cde6cc4f4792b444776088f1fb2c" sha1="718d96efbdce5a283853cd570e49cbac81528349"/>
 	</game>
-	<game name="Disney-Pixar Rottatouille (Norway)">
-		<category>Games</category>
-		<description>Disney-Pixar Rottatouille (Norway)</description>
-		<rom name="Disney-Pixar Rottatouille (Norway).iso" size="906362880" crc="6dc91b4e" md5="3518c1cf57de9d015ac5515fb49c36ed" sha1="e151d816c7593b2594d8e5b17427b4257da15849"/>
-	</game>
 	<game name="Disney-Pixar Toy Story 3 (USA) (En,Fr,Es)">
 		<category>Games</category>
 		<description>Disney-Pixar Toy Story 3 (USA) (En,Fr,Es)</description>
@@ -1981,11 +1946,6 @@
 		<description>Echoshift (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (v2.00)</description>
 		<rom name="Echoshift (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (v2.00).iso" size="309854208" crc="15806bca" md5="80cd889c419f96b3fe3b1b3eb51c0e1a" sha1="b56e3da00a648ba100b83c0275c092639162dd10"/>
 	</game>
-	<game name="Edith Memories - Sincheon Magye GOC V (Korea)">
-		<category>Games</category>
-		<description>Edith Memories - Sincheon Magye GOC V (Korea)</description>
-		<rom name="Edith Memories - Sincheon Magye GOC V (Korea).iso" size="1755381760" crc="4cb65c6f" md5="33e3b04cb5ec32557e7ad768a6ba6f3d" sha1="4e68d9052d9d43cc614f44e3c3bccd238ae45681"/>
-	</game>
 	<game name="Eikoku Tantei Mysteria (Japan)">
 		<category>Games</category>
 		<description>Eikoku Tantei Mysteria (Japan)</description>
@@ -2096,11 +2056,6 @@
 		<description>Everybody's Stress Buster (Asia) (En,Zh,Ko)</description>
 		<rom name="Everybody's Stress Buster (Asia) (En,Zh,Ko).iso" size="518782976" crc="e169e0dc" md5="727fc6e6c95a775917b826daace26c59" sha1="92992c3967c30e3842544c802a6d41e764c56442"/>
 	</game>
-	<game name="Exciting Pro Wrestling 7 - SmackDown! vs. RAW 2006 (Japan)">
-		<category>Games</category>
-		<description>Exciting Pro Wrestling 7 - SmackDown! vs. RAW 2006 (Japan)</description>
-		<rom name="Exciting Pro Wrestling 7 - SmackDown! vs. RAW 2006 (Japan).iso" size="1706196992" crc="f21cc9ec" md5="854da02152d3ad563cca412cf68f81ad" sha1="6fe317526a4234c4032252d2b9a145c8534a4984"/>
-	</game>
 	<game name="Exit (USA)">
 		<category>Games</category>
 		<description>Exit (USA)</description>
@@ -2146,35 +2101,10 @@
 		<description>F1 Grand Prix (Europe) (En,Fr,De,Es,It) (v2.00)</description>
 		<rom name="F1 Grand Prix (Europe) (En,Fr,De,Es,It) (v2.00).iso" size="634617856" crc="0a20ce1d" md5="27e2e4452716b0a62a6b174449acff71" sha1="f33c349f0fe25cdad67b1993b5414fadb1f22089"/>
 	</game>
-	<game name="FIFA 09 - World Class Soccer (Japan)">
-		<category>Games</category>
-		<description>FIFA 09 - World Class Soccer (Japan)</description>
-		<rom name="FIFA 09 - World Class Soccer (Japan).iso" size="1239318528" crc="5c70a312" md5="39de9fe06a4318a78a58cf1ccdb1b9a0" sha1="51851600dc4d984eb0af5e4e3e7d501c3dbddf55"/>
-	</game>
-	<game name="FIFA 10 - World Class Soccer (Japan)">
-		<category>Games</category>
-		<description>FIFA 10 - World Class Soccer (Japan)</description>
-		<rom name="FIFA 10 - World Class Soccer (Japan).iso" size="984055808" crc="d730eae2" md5="6823232dc7565f7d09168d9562e56286" sha1="1aa526feab62daaac266c5f46deb147bb0e2b933"/>
-	</game>
-	<game name="FIFA 11 - World Class Soccer (Japan)">
-		<category>Games</category>
-		<description>FIFA 11 - World Class Soccer (Japan)</description>
-		<rom name="FIFA 11 - World Class Soccer (Japan).iso" size="1261043712" crc="8e78c297" md5="fc45fd9193042a5834728a0bbbc06288" sha1="0036558c3070e1045bfc3c6f8b7a491eaca60b9d"/>
-	</game>
-	<game name="FIFA 13 - World Class Soccer (Japan)">
-		<category>Games</category>
-		<description>FIFA 13 - World Class Soccer (Japan)</description>
-		<rom name="FIFA 13 - World Class Soccer (Japan).iso" size="1261109248" crc="6b6a6792" md5="3ccb06d8c2597590ef764c9965fbc193" sha1="23a035b25d4f6a535910691ed3650aab6a816c59"/>
-	</game>
 	<game name="FIFA 14 (Europe)">
 		<category>Games</category>
 		<description>FIFA 14 (Europe)</description>
 		<rom name="FIFA 14 (Europe).iso" size="1293582336" crc="a8d62c02" md5="29903c43b51c219f54ce5fd43ac7e0b1" sha1="42af577da30f4545af2297f631a2761e18514827"/>
-	</game>
-	<game name="FIFA 14 - World Class Soccer (Japan)">
-		<category>Games</category>
-		<description>FIFA 14 - World Class Soccer (Japan)</description>
-		<rom name="FIFA 14 - World Class Soccer (Japan).iso" size="1261142016" crc="75a216e3" md5="d85c25eb56cd744cd41f8062568d223a" sha1="9625be2deb63896280f521c7a86b63b2bbbb6d57"/>
 	</game>
 	<game name="FIFA Soccer (USA)">
 		<category>Games</category>
@@ -2426,25 +2356,10 @@
 		<description>Formula One 06 (Europe) (En,Fr,De,Es,It,Pt,Fi)</description>
 		<rom name="Formula One 06 (Europe) (En,Fr,De,Es,It,Pt,Fi).iso" size="1743552512" crc="37471f23" md5="18ddb109d6d8659dd6efc6dc4f59af2f" sha1="9ec67d27613a6caff98571782b64d27ca206b1a7"/>
 	</game>
-	<game name="Formula One 2005 Portable (Japan)">
-		<category>Games</category>
-		<description>Formula One 2005 Portable (Japan)</description>
-		<rom name="Formula One 2005 Portable (Japan).iso" size="694091776" crc="183f388b" md5="8092292e476ccf460c2c27f3b31f2287" sha1="fd0183ef9318b67481b1ec3222462abe05083c9e"/>
-	</game>
-	<game name="Formula One 2006 Portable (Japan, Asia)">
-		<category>Games</category>
-		<description>Formula One 2006 Portable (Japan, Asia)</description>
-		<rom name="Formula One 2006 Portable (Japan, Asia).iso" size="902004736" crc="6561e206" md5="1ecf0d900abb56910e0d24ff4904eb2f" sha1="2e3c794dc7574cb7d83cfc45dfd869936bfe71cd"/>
-	</game>
 	<game name="Frantix (USA)">
 		<category>Games</category>
 		<description>Frantix (USA)</description>
 		<rom name="Frantix (USA).iso" size="401244160" crc="a5248ada" md5="8b457d0ac5730155a023f9f0396d0209" sha1="9fcb07148d5a965e1af7c994f7fb741a14fa938e"/>
-	</game>
-	<game name="Frantix - Kirakira Nazotoki Daibouken (Japan)">
-		<category>Games</category>
-		<description>Frantix - Kirakira Nazotoki Daibouken (Japan)</description>
-		<rom name="Frantix - Kirakira Nazotoki Daibouken (Japan).iso" size="401801216" crc="6e1257a7" md5="fc672be48d1991cf2869beddc5b685bc" sha1="3750c2e0ca60cb0170df6a11ea21cf4b36578e3b"/>
 	</game>
 	<game name="Freak Out - Extreme Freeride (Europe) (En,Fr,De,Es,It)">
 		<category>Games</category>
@@ -3146,16 +3061,6 @@
 		<description>Heart no Kuni no Alice - Wonderful Twin World (Japan)</description>
 		<rom name="Heart no Kuni no Alice - Wonderful Twin World (Japan).iso" size="1534787584" crc="a3cd3cd8" md5="d76db843f8d53f8bf58d95d041c4beb1" sha1="5be8afff6d3069c91e596db24acb956ce07c8f77"/>
 	</game>
-	<game name="Heart no Kuni no Alice - Wonderful Wonder World (Japan) (Disc 1)">
-		<category>Games</category>
-		<description>Heart no Kuni no Alice - Wonderful Wonder World (Japan) (Disc 1)</description>
-		<rom name="Heart no Kuni no Alice - Wonderful Wonder World (Japan) (Disc 1).iso" size="612630528" crc="f8fb2c74" md5="b9317a8cdf87b454d7e753537b54b043" sha1="2a5ebcca0f6fd708211ac9c913a4d9b7e61e2ec4"/>
-	</game>
-	<game name="Heart no Kuni no Alice - Wonderful Wonder World (Japan) (Disc 2)">
-		<category>Games</category>
-		<description>Heart no Kuni no Alice - Wonderful Wonder World (Japan) (Disc 2)</description>
-		<rom name="Heart no Kuni no Alice - Wonderful Wonder World (Japan) (Disc 2).iso" size="1804599296" crc="8af0ad30" md5="ca07c48f02c1307ab05496b796ddc61e" sha1="8906bed84081d83f3d83d52fc38f7846cca11b54"/>
-	</game>
 	<game name="Heatseeker (USA)">
 		<category>Games</category>
 		<description>Heatseeker (USA)</description>
@@ -3635,11 +3540,6 @@
 		<category>Games</category>
 		<description>Jikkyou Powerful Pro Yakyuu Portable 4 (Japan)</description>
 		<rom name="Jikkyou Powerful Pro Yakyuu Portable 4 (Japan).iso" size="1802010624" crc="4b68995d" md5="e50d432c02ada6d849fcc35beb7b4a14" sha1="86d6daf32b370d84f1c886c7cf8461bb14583460"/>
-	</game>
-	<game name="Jin Samguk Mussang - Multi Raid (Korea)">
-		<category>Games</category>
-		<description>Jin Samguk Mussang - Multi Raid (Korea)</description>
-		<rom name="Jin Samguk Mussang - Multi Raid (Korea).iso" size="1044840448" crc="eb865b8c" md5="dbd10a2a75ff929ccf38e96178ad0e09" sha1="476f5d3c6e7b0bb4440e3ae2b617e4505eeaa0c4"/>
 	</game>
 	<game name="Jissen Pachi-Slot Hisshouhou! Aladdin II Evolution Portable (Japan)">
 		<category>Games</category>
@@ -4161,11 +4061,6 @@
 		<description>Kotoba no Puzzle - Mojipittan Daijiten (Japan)</description>
 		<rom name="Kotoba no Puzzle - Mojipittan Daijiten (Japan).iso" size="56918016" crc="06452fde" md5="901f1c5c36c6b1ec018677dad6e36728" sha1="107a46fa17163cd400bfcbb717ffecd43d8e2e13"/>
 	</game>
-	<game name="Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki (Japan)">
-		<category>Games</category>
-		<description>Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki (Japan)</description>
-		<rom name="Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki (Japan).iso" size="806715392" crc="f3de2f70" md5="40edf88b1e94f28ac217509fdc5fc5ab" sha1="ec207e899949985da1a4587136d42091145fa4bc"/>
-	</game>
 	<game name="Koukyou Shihen Eureka Seven (Japan)">
 		<category>Games</category>
 		<description>Koukyou Shihen Eureka Seven (Japan)</description>
@@ -4401,11 +4296,6 @@
 		<description>Lost Heroes (Japan)</description>
 		<rom name="Lost Heroes (Japan).iso" size="1145667584" crc="48ca9987" md5="bd69d0de05b0328f978cc9a5a0261152" sha1="7f532628d6d115aa6001aaf4921e1afccc9a49b2"/>
 	</game>
-	<game name="Lost Regnum - Pyeheo-ui Hwangje (Korea)">
-		<category>Games</category>
-		<description>Lost Regnum - Pyeheo-ui Hwangje (Korea)</description>
-		<rom name="Lost Regnum - Pyeheo-ui Hwangje (Korea).iso" size="1279950848" crc="33ba6f6a" md5="96b60c956dbd672fdacc09502172a840" sha1="ba930758073ea8ab2c95aab965096372ce04bcd4"/>
-	</game>
 	<game name="Lucky Star - Net Idol Meister (Japan)">
 		<category>Games</category>
 		<description>Lucky Star - Net Idol Meister (Japan)</description>
@@ -4616,11 +4506,6 @@
 		<description>Mahjong Haou - Battle Royale II (Japan)</description>
 		<rom name="Mahjong Haou - Battle Royale II (Japan).iso" size="80936960" crc="72c092d7" md5="94f46cf759e810936a155215d561f3f6" sha1="eea1bd977a97a80fe9792ed7ba68df7286ea7145"/>
 	</game>
-	<game name="Mahjong Haou Portable - Dankyuu Battle (Japan)">
-		<category>Games</category>
-		<description>Mahjong Haou Portable - Dankyuu Battle (Japan)</description>
-		<rom name="Mahjong Haou Portable - Dankyuu Battle (Japan).iso" size="86278144" crc="4fef51a5" md5="42791b64096d09594f85e51970bf19a4" sha1="607af15608fab2c06a982f7eed7c375ede06aee0"/>
-	</game>
 	<game name="Mahjong Haou Portable - Dankyuu Battle Special (Japan)">
 		<category>Games</category>
 		<description>Mahjong Haou Portable - Dankyuu Battle Special (Japan)</description>
@@ -4751,11 +4636,6 @@
 		<description>Matching Maker 3 x Tousouchuu (Japan)</description>
 		<rom name="Matching Maker 3 x Tousouchuu (Japan).iso" size="146702336" crc="ae4033f6" md5="5ed97920d9458ee78282cb6da7665e92" sha1="cddb8a7dfba97462f7526a7c79b41ffba41337ff"/>
 	</game>
-	<game name="Mawaskes (Korea)">
-		<category>Games</category>
-		<description>Mawaskes (Korea)</description>
-		<rom name="Mawaskes (Korea).iso" size="130482176" crc="8668c5d2" md5="0e987bd8c386a5a047c267a44e733f12" sha1="3ea00b43f5a3f95ac3ce7816fbd98384b67726da"/>
-	</game>
 	<game name="Me &amp; My Katamari (USA)">
 		<category>Games</category>
 		<description>Me &amp; My Katamari (USA)</description>
@@ -4881,11 +4761,6 @@
 		<description>Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v2.00)</description>
 		<rom name="Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v2.00).iso" size="1645936640" crc="a3437f3f" md5="c0d334fa69bacc4041460c242492ddb4" sha1="d2586df8ed1508980e500681621c88dd1ffc222b"/>
 	</game>
-	<game name="Metal Gear Solid - Portable Ops (Japan) (Deluxe Pack)">
-		<category>Games</category>
-		<description>Metal Gear Solid - Portable Ops (Japan) (Deluxe Pack)</description>
-		<rom name="Metal Gear Solid - Portable Ops (Japan) (Deluxe Pack).iso" size="1396736000" crc="1ef5a86c" md5="60d1fc90df502d758756408eb972bf6d" sha1="a830b8e0a15698d64b65ba04bd92c3cd78f8efa1"/>
-	</game>
 	<game name="Metal Gear Solid - Portable Ops (USA)">
 		<category>Games</category>
 		<description>Metal Gear Solid - Portable Ops (USA)</description>
@@ -4976,11 +4851,6 @@
 		<description>Minna no Golf-jou Vol. 1 (Japan) (Disc 1)</description>
 		<rom name="Minna no Golf-jou Vol. 1 (Japan) (Disc 1).iso" size="1619001344" crc="a360eddb" md5="bca6b49d2f98a9dd7bcc2572715fdd3a" sha1="8455ba5ee51849787e0b35698931eb66c233e15c"/>
 	</game>
-	<game name="Minna no Golf-jou Vol. 1 (Japan) (Disc 2)">
-		<category>Games</category>
-		<description>Minna no Golf-jou Vol. 1 (Japan) (Disc 2)</description>
-		<rom name="Minna no Golf-jou Vol. 1 (Japan) (Disc 2).iso" size="1674444800" crc="e8bfecaf" md5="eadd69ab113a46bc3cb00429965d7e87" sha1="8cf67584c080ebb74a328b3f36225a0282ff6365"/>
-	</game>
 	<game name="Minna no Golf-jou Vol. 1 (Japan) (Disc 2) (Doukonban)">
 		<category>Games</category>
 		<description>Minna no Golf-jou Vol. 1 (Japan) (Disc 2) (Doukonban)</description>
@@ -5060,11 +4930,6 @@
 		<category>Games</category>
 		<description>Mobile Train Simulator plus Densha de Go! Tokyo Kyuukou-hen (Japan)</description>
 		<rom name="Mobile Train Simulator plus Densha de Go! Tokyo Kyuukou-hen (Japan).iso" size="1776156672" crc="36d4ec0f" md5="8523c3ce9a05c3c22f8e117cb17152c7" sha1="1911fc98885ee67fc79ee76af17d8a76e018b5e2"/>
-	</game>
-	<game name="ModNation - Mugen no Kart Oukoku Portable (Japan)">
-		<category>Games</category>
-		<description>ModNation - Mugen no Kart Oukoku Portable (Japan)</description>
-		<rom name="ModNation - Mugen no Kart Oukoku Portable (Japan).iso" size="1474396160" crc="bce63b0b" md5="7d1cc650d3f76c09c337582b3f92773e" sha1="3e8ecf122b71c7ff0f169de0e0fc2ef2d28811ce"/>
 	</game>
 	<game name="ModNation Racers (USA) (En,Fr,Es)">
 		<category>Games</category>
@@ -5511,11 +5376,6 @@
 		<description>Neverland Card Battles (USA)</description>
 		<rom name="Neverland Card Battles (USA).iso" size="419168256" crc="09ee225c" md5="57d3ff905c1711594e80ffb78630e61d" sha1="b87e0d9b9e868c6bae8b7dd8f708bbcb8a3a23f9"/>
 	</game>
-	<game name="New Rainbow Island - Hurdy Gurdy Daibouken!! (Japan)">
-		<category>Games</category>
-		<description>New Rainbow Island - Hurdy Gurdy Daibouken!! (Japan)</description>
-		<rom name="New Rainbow Island - Hurdy Gurdy Daibouken!! (Japan).iso" size="857440256" crc="7b3fdaec" md5="a68198ae16629089f6df9e4ff9046ef3" sha1="472b1ede7e7f5297e927c404ca2defa38eb90979"/>
-	</game>
 	<game name="Nichijou - Uchuujin (Japan)">
 		<category>Games</category>
 		<description>Nichijou - Uchuujin (Japan)</description>
@@ -5655,16 +5515,6 @@
 		<category>Games</category>
 		<description>Obscure - The Aftermath (USA) (En,Fr,Es)</description>
 		<rom name="Obscure - The Aftermath (USA) (En,Fr,Es).iso" size="987725824" crc="84f143e2" md5="3ea984b068cfccbd241b90ce2ab5d3c5" sha1="e55fb86a02452a6053cdf926f51fc8469b19acb2"/>
-	</game>
-	<game name="Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 1)">
-		<category>Games</category>
-		<description>Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 1)</description>
-		<rom name="Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 1).iso" size="1258127360" crc="4e0f6cdd" md5="b5ba311d5fe7d73e6da8a4e84d6a2765" sha1="1057a3717adcb662bff8a9136455abc66c3b1611"/>
-	</game>
-	<game name="Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 2)">
-		<category>Games</category>
-		<description>Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 2)</description>
-		<rom name="Oh Seoktae-ui Malhaneun Yeongeo (Korea) (Disc 2).iso" size="1281294336" crc="ccc08a57" md5="1cbdfc00d932f809da510da4246e6ca0" sha1="13eff9a54abd023d70add822998e7daf4ef0c942"/>
 	</game>
 	<game name="Omerta - Chinmoku no Okite - The Legacy (Japan)">
 		<category>Games</category>
@@ -6086,16 +5936,6 @@
 		<description>Pipe Mania (USA) (En,Fr)</description>
 		<rom name="Pipe Mania (USA) (En,Fr).iso" size="321847296" crc="85322bc9" md5="21d4b49a7f0a237c6450dce3faa95546" sha1="c6c3951a03073d6d8763ef3e8aecb0469a8a4dd1"/>
 	</game>
-	<game name="Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbok (Korea)">
-		<category>Games</category>
-		<description>Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbok (Korea)</description>
-		<rom name="Piposaru Academia - Sagomungchi Neungryeokpyeongga Wanjeonjeongbok (Korea).iso" size="391708672" crc="a2e777f8" md5="1dea7b541fed627f26486a90c86a0081" sha1="d9abd0146a04cf70a25bf0be047aafb5a15bdf22"/>
-	</game>
-	<game name="Piposaru Get You P! (Korea)">
-		<category>Games</category>
-		<description>Piposaru Get You P! (Korea)</description>
-		<rom name="Piposaru Get You P! (Korea).iso" size="811728896" crc="e147c421" md5="47fa9309e622120e0122e9acce26f9e8" sha1="d1841f22792f7981ac9478e9c50066ec61a4b07a"/>
-	</game>
 	<game name="Pirates of the Caribbean - Dead Man's Chest (USA) (En,Fr)">
 		<category>Games</category>
 		<description>Pirates of the Caribbean - Dead Man's Chest (USA) (En,Fr)</description>
@@ -6105,11 +5945,6 @@
 		<category>Games</category>
 		<description>PixelJunk Monsters - Deluxe (USA)</description>
 		<rom name="PixelJunk Monsters - Deluxe (USA).iso" size="220626944" crc="c5aa5ad1" md5="573c2a9617c725f5856a216990e4b61a" sha1="43ea26ae87af675a819977caf08a26f81393a107"/>
-	</game>
-	<game name="PixelJunk Monsters - UMD Limited Edition (Asia) (En,Ja)">
-		<category>Games</category>
-		<description>PixelJunk Monsters - UMD Limited Edition (Asia) (En,Ja)</description>
-		<rom name="PixelJunk Monsters - UMD Limited Edition (Asia) (En,Ja).iso" size="165740544" crc="d2f41849" md5="7683e54764b9224de0483ab984604043" sha1="cb3986490e0b683902c60110cff20088495d5456"/>
 	</game>
 	<game name="Planetarian - Chiisa na Hoshi no Yume (Japan) (v2.00)">
 		<category>Games</category>
@@ -6771,11 +6606,6 @@
 		<description>SSX on Tour (USA)</description>
 		<rom name="SSX on Tour (USA).iso" size="1414037504" crc="c0cb34f2" md5="933547f53f0e65707495a3f544af4ef9" sha1="25d20af42c4a9b89458440ea489efa8a265b9ad6"/>
 	</game>
-	<game name="SSX on Tour Portable (Japan)">
-		<category>Games</category>
-		<description>SSX on Tour Portable (Japan)</description>
-		<rom name="SSX on Tour Portable (Japan).iso" size="1414070272" crc="3bfb1d5c" md5="6885881e3049ae28417af566a7d04740" sha1="bc4f5d6ef855ec495e36176bdd1559ca0254cf29"/>
-	</game>
 	<game name="SWAT - Target Liberty (USA)">
 		<category>Games</category>
 		<description>SWAT - Target Liberty (USA)</description>
@@ -7416,11 +7246,6 @@
 		<description>Sims 2, The - Dr. Dominic no Inbou (Japan)</description>
 		<rom name="Sims 2, The - Dr. Dominic no Inbou (Japan).iso" size="1085046784" crc="d4ce1af6" md5="a14be49c28bdaa8fe7dbaa7fc5e8f036" sha1="dfede201e3c4e8f10319694f000e1ebf1b6b4c66"/>
 	</game>
-	<game name="Sims 2, The - Pet Wan Nyan Life (Japan)">
-		<category>Games</category>
-		<description>Sims 2, The - Pet Wan Nyan Life (Japan)</description>
-		<rom name="Sims 2, The - Pet Wan Nyan Life (Japan).iso" size="1670709248" crc="cef2ce0a" md5="c0e056d687e718081c8806544f29681b" sha1="f5c895d5922bb58a09f587f7431117de4932d143"/>
-	</game>
 	<game name="Sims 2, The - Pets (USA)">
 		<category>Games</category>
 		<description>Sims 2, The - Pets (USA)</description>
@@ -8046,11 +7871,6 @@
 		<description>Taito Legends Power-Up (USA)</description>
 		<rom name="Taito Legends Power-Up (USA).iso" size="316407808" crc="8238b5c4" md5="0f58f00ccde4bd201bff112fc46cdfd9" sha1="6b79e4929a7dbea9075c27a50a6d53107b5b8ec2"/>
 	</game>
-	<game name="Taito Memories Pocket (Japan)">
-		<category>Games</category>
-		<description>Taito Memories Pocket (Japan)</description>
-		<rom name="Taito Memories Pocket (Japan).iso" size="329351168" crc="0003ffb1" md5="71a18aa0556ef12d282f8ef0cc8c2df3" sha1="712848e30158970e8f471cdd63f0c53c4b0eba7c"/>
-	</game>
 	<game name="Tales of Destiny 2 (Japan)">
 		<category>Games</category>
 		<description>Tales of Destiny 2 (Japan)</description>
@@ -8535,11 +8355,6 @@
 		<category>Games</category>
 		<description>Ultimate Ghosts'n Goblins (USA)</description>
 		<rom name="Ultimate Ghosts'n Goblins (USA).iso" size="431947776" crc="fbfc3e27" md5="75dbb58afe0497092f3cac294dd8762c" sha1="0b569d1b415abb328fa2bf0bdaea7832b075feac"/>
-	</game>
-	<game name="Ultra Puzzle Bobble Pocket (Japan)">
-		<category>Games</category>
-		<description>Ultra Puzzle Bobble Pocket (Japan)</description>
-		<rom name="Ultra Puzzle Bobble Pocket (Japan).iso" size="70352896" crc="c6dd2a2b" md5="216f9af7e8965a9a7898e768eb20f1e4" sha1="2e174729797157c9cde95af4d31c3bb58d949c0f"/>
 	</game>
 	<game name="Ultraman All-Star Chronicle (Japan)">
 		<category>Games</category>

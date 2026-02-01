@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Virtual Boy (Retool)</name>
-		<description>Nintendo - Virtual Boy (22) (-y) [-aAbBcdkmMpPuv] (20251106-224031) (Retool)</description>
-		<version>20251106-224031</version>
-		<date>2026-01-31 04-20-53</date>
+		<description>Nintendo - Virtual Boy (22) (-y) [-aAbBcdkmMpPuv] (20260130-114942) (Retool)</description>
+		<version>20260130-114942</version>
+		<date>2026-02-01 04-55-25</date>
 		<author>BigFred, bikerspade, BitLooter, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, NESBrew12, omonim2007, psykopat, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -91,10 +91,10 @@
 		<description>Vertical Force (USA)</description>
 		<rom name="Vertical Force (USA).vb" size="1048576" crc="4c32ba5e" md5="87c38f66d5b9ead72af22f515a3a5f51" sha1="38f9008f60b09deef1151d46b905b090a0338200"/>
 	</game>
-	<game name="Virtual Bowling (Japan)" id="0022">
+	<game name="Virtual Bowling (Japan) (En)" id="0022">
 		<category>Games</category>
-		<description>Virtual Bowling (Japan)</description>
-		<rom name="Virtual Bowling (Japan).vb" size="1048576" crc="20688279" md5="5b11d402f7e322c71a7d4fa6503631fa" sha1="a5be7654037050f0a781e70efea0191f43d26f06"/>
+		<description>Virtual Bowling (Japan) (En)</description>
+		<rom name="Virtual Bowling (Japan) (En).vb" size="1048576" crc="20688279" md5="5b11d402f7e322c71a7d4fa6503631fa" sha1="a5be7654037050f0a781e70efea0191f43d26f06"/>
 	</game>
 	<game name="Virtual Boy Wario Land (Japan, USA) (En)" id="0023">
 		<category>Games</category>

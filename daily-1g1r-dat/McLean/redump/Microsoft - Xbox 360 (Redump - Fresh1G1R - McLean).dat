@@ -3,9 +3,9 @@
 <datafile>
 	<header>
 		<name>Microsoft - Xbox 360 (Retool)</name>
-		<description>Microsoft - Xbox 360 (1,392) (-ly) [-aAbBcdDefkmMopPruv] (2026-01-30 01-36-27) (Retool)</description>
-		<version>2026-01-30 01-36-27</version>
-		<date>2026-01-30 04-33-17</date>
+		<description>Microsoft - Xbox 360 (1,392) (-ly) [-aAbBcdDefkmMopPruv] (2026-02-01 04-50-58) (Retool)</description>
+		<version>2026-02-01 04-50-58</version>
+		<date>2026-02-01 04-44-43</date>
 		<author>redump.org</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>http://redump.org/</url>
@@ -721,10 +721,10 @@
 		<description>Blood Bowl (USA) (En,Fr,Es)</description>
 		<rom name="Blood Bowl (USA) (En,Fr,Es).iso" size="7838695424" crc="9e31d823" md5="61935581790a80602ea5b83546d916b2" sha1="218a2877891d952bb0cacac7806b6c2a504dd33e"/>
 	</game>
-	<game name="Blood Drive (USA)">
+	<game name="Blood Drive (USA, Europe)">
 		<category>Games</category>
-		<description>Blood Drive (USA)</description>
-		<rom name="Blood Drive (USA).iso" size="7838695424" crc="47fec23e" md5="ef0771ea12f759d120ad57873797410b" sha1="7e20f66cf9aa9daf61a1cdbd0ca0e988602ed5ce"/>
+		<description>Blood Drive (USA, Europe)</description>
+		<rom name="Blood Drive (USA, Europe).iso" size="7838695424" crc="47fec23e" md5="ef0771ea12f759d120ad57873797410b" sha1="7e20f66cf9aa9daf61a1cdbd0ca0e988602ed5ce"/>
 	</game>
 	<game name="Bloodbath (Europe)">
 		<category>Games</category>
@@ -1896,10 +1896,10 @@
 		<description>DreamWorks Kung Fu Panda (World) (En,Fr)</description>
 		<rom name="DreamWorks Kung Fu Panda (World) (En,Fr).iso" size="7835492352" crc="c34c317e" md5="f3bbe397cbb8444678e6096f13510fb0" sha1="8884f89a1b8abc1618adae28cfaffc773012daad"/>
 	</game>
-	<game name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA)">
+	<game name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA, Europe)">
 		<category>Games</category>
-		<description>DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA)</description>
-		<rom name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA).iso" size="7838695424" crc="2b1bd6b9" md5="e89ce6f1f61b8563262d51bd4ddb694d" sha1="2d6de49c3e13479cc94022dd6c474ccc18cef5a1"/>
+		<description>DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA, Europe)</description>
+		<rom name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA, Europe).iso" size="7838695424" crc="2b1bd6b9" md5="e89ce6f1f61b8563262d51bd4ddb694d" sha1="2d6de49c3e13479cc94022dd6c474ccc18cef5a1"/>
 	</game>
 	<game name="DreamWorks Kung Fu Panda 2 (USA, Europe) (En,Fr,De,It,Nl)">
 		<category>Games</category>
@@ -1911,10 +1911,10 @@
 		<description>DreamWorks Madagascar - Escape 2 Africa (USA, Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
 		<rom name="DreamWorks Madagascar - Escape 2 Africa (USA, Europe) (En,Fr,De,Es,It,Nl,Sv).iso" size="7835492352" crc="45cd2d64" md5="61c4b1ad91a419816170ee45509ed388" sha1="d046cdd6775b230938952a06a406e08e3885dfa5"/>
 	</game>
-	<game name="DreamWorks Madagascar 3 - The Video Game (USA)">
+	<game name="DreamWorks Madagascar 3 - The Video Game (USA, Europe)">
 		<category>Games</category>
-		<description>DreamWorks Madagascar 3 - The Video Game (USA)</description>
-		<rom name="DreamWorks Madagascar 3 - The Video Game (USA).iso" size="7838695424" crc="43d0617f" md5="d6a5baf6875e6f7af5f0a43e52e6a494" sha1="de5f9b6f06622ce17cb294225932f2998493c5b8"/>
+		<description>DreamWorks Madagascar 3 - The Video Game (USA, Europe)</description>
+		<rom name="DreamWorks Madagascar 3 - The Video Game (USA, Europe).iso" size="7838695424" crc="43d0617f" md5="d6a5baf6875e6f7af5f0a43e52e6a494" sha1="de5f9b6f06622ce17cb294225932f2998493c5b8"/>
 	</game>
 	<game name="DreamWorks Madagascar Kartz (USA, Europe) (En,Fr,De,Es,It,Nl,Sv)">
 		<category>Games</category>
@@ -3266,15 +3266,15 @@
 		<description>Kinect Joy Ride (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)</description>
 		<rom name="Kinect Joy Ride (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso" size="7838695424" crc="7c2db760" md5="f64f4ad77e7320c3351f298464c72687" sha1="9c36e6c5c48a42c0eb02b241e5c7b3106795e0d0"/>
 	</game>
-	<game name="Kinect Nat Geo TV - America the Wild (USA) (Disc 1) (Volume 1)">
+	<game name="Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 1) (Volume 1)">
 		<category>Games</category>
-		<description>Kinect Nat Geo TV - America the Wild (USA) (Disc 1) (Volume 1)</description>
-		<rom name="Kinect Nat Geo TV - America the Wild (USA) (Disc 1) (Volume 1).iso" size="8738846720" crc="ebd38fc2" md5="eaa85581c3edcb06ecc02951326dff06" sha1="92c976faf5b7d61f78740640718af1c208e14fc5"/>
+		<description>Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 1) (Volume 1)</description>
+		<rom name="Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 1) (Volume 1).iso" size="8738846720" crc="ebd38fc2" md5="eaa85581c3edcb06ecc02951326dff06" sha1="92c976faf5b7d61f78740640718af1c208e14fc5"/>
 	</game>
-	<game name="Kinect Nat Geo TV - America the Wild (USA) (Disc 2) (Volume 2)">
+	<game name="Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 2) (Volume 2)">
 		<category>Games</category>
-		<description>Kinect Nat Geo TV - America the Wild (USA) (Disc 2) (Volume 2)</description>
-		<rom name="Kinect Nat Geo TV - America the Wild (USA) (Disc 2) (Volume 2).iso" size="8738846720" crc="fa234b6b" md5="b327c42f52d3a2e8be35bffc5074bbc7" sha1="752efed92a738577408b9be0cfee047760e43163"/>
+		<description>Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 2) (Volume 2)</description>
+		<rom name="Kinect Nat Geo TV - America the Wild (USA, Europe) (Disc 2) (Volume 2).iso" size="8738846720" crc="fa234b6b" md5="b327c42f52d3a2e8be35bffc5074bbc7" sha1="752efed92a738577408b9be0cfee047760e43163"/>
 	</game>
 	<game name="Kinect Rush - A Disney-Pixar Adventure (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)">
 		<category>Games</category>

@@ -2,9 +2,9 @@
 <datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
 	<header>
 		<name>Nintendo - Super Nintendo Entertainment System (Retool)</name>
-		<description>Nintendo - Super Nintendo Entertainment System (1,854) (-y) [-aAbBcefkmMoprv] (20260129-140608) (Retool)</description>
-		<version>20260129-140608</version>
-		<date>2026-01-31 04-14-55</date>
+		<description>Nintendo - Super Nintendo Entertainment System (1,856) (-y) [-aAbBcefkmMoprv] (20260130-203123) (Retool)</description>
+		<version>20260130-203123</version>
+		<date>2026-02-01 04-39-35</date>
 		<author>aci68, alcoatjez, Arctic Circle System, BigFred, bikerspade, Blank, buckwheat, C. V. Reynolds, chillerecke, coraz, DarkMatterCore, DeadSkullzJr, DeriLoko3, einstein95, Flashfire42, Gefflon, Goratrix, HeroponRIkiBestest, Hiccup, Jack, jimmsu, kazumi213, Madeline, MeguCocoa, Money_114, NESBrew12, nnssxx, norkmetnoil577, NovaAurora, number, omonim2007, Powerpuff, PPLToast, Psychofox11, psykopat, rarenight, relax, Rifu, sCZther, SonGoku, Special T, Tauwasser, TeamEurope, togemet2, Vigi, xuom2</author>
 		<homepage>http://www.github.com/unexpectedpanda/retool</homepage>
 		<url>https://www.no-intro.org</url>
@@ -3232,6 +3232,13 @@
 		<description>J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA)</description>
 		<rom name="J.R.R. Tolkien's The Lord of the Rings - Volume 1 (USA).sfc" size="1048576" crc="cd2150c8" md5="d44a415b0fa893b73648452d97dadad2" sha1="030e314cba8faae4081f8056521126916e5e0ada" sha256="62557ee2a3fc3b5a3f59431f966eb61bb380ba983ef6c7742cb55cf075f15f6c"/>
 	</game>
+	<game name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) (Sample)" id="4559">
+		<category>Demos</category>
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) (Sample)</description>
+		<rom name="J.R.R. Tolkien's The Lord of the Rings - Volume One (Germany) (Sample).sfc" size="1048576" crc="74ec9859" md5="f0021da95f5b1e313802ad2c16ff04b4" sha1="8922d657e6ecb15a585448843c884ec88e89111d" sha256="2d39c3a8d7a87d1be93d6cc794d4380edb6ba72d14f918b61e24a13f7b548a37"/>
+	</game>
 	<game name="JB The Super Bass (Japan)" id="1196">
 		<category>Games</category>
 		<description>JB The Super Bass (Japan)</description>
@@ -4874,6 +4881,13 @@
 		<category>Games</category>
 		<description>NHL 95 (USA)</description>
 		<rom name="NHL 95 (USA).sfc" size="1048576" crc="2e9b1463" md5="deea8f94027f374d432dea56e0c72917" sha1="0b939f267377801d2c805b05c06a7ee6c880c5fc" sha256="01c0b58d5fd5d5484fea988455a55a71ed9e606538d2b3ce3f216159cc6929b0"/>
+	</game>
+	<game name="NHL 96 (Europe) (Sample)" id="4560">
+		<category>Demos</category>
+		<category>Games</category>
+		<category>Preproduction</category>
+		<description>NHL 96 (Europe) (Sample)</description>
+		<rom name="NHL 96 (Europe) (Sample).sfc" size="1572864" crc="b41fe776" md5="230a14ac538832b685ea7e65a9558b1f" sha1="666a3615d6d028114ace1e7bd290082bb124abb9" sha256="603edda6bfef42b9ae191c88ce93f1c11352905ec10d1eef98715425c4498615"/>
 	</game>
 	<game name="NHL 96 (USA)" id="1798">
 		<category>Games</category>
